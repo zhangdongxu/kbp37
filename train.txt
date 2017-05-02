@@ -522,7 +522,7 @@ per:employee_of(e2,e1)
 per:employee_of(e2,e1)
 
 
-131	"The Band E Sardeh Dam ( Dari/Pashto   ) ( also known as Band-e Sar Deh Ban?-e Saeh Plotina Sardekhband  Sardah Dam Sardeh Dam Sardi Dam       ) is located in east And <e1> ar District </e1> of Ghazni Province of Afghanistan and was constructed in 1967 ( 1346 in the Islamic calendar ) by the Soviet Union an <e2> d Afghanistan during </e2> the reign of Mohammed Zahir Shah prior to the Soviet War in Afghanistan . "
+131	"The Band E Sardeh Dam ( Dari/Pashto ) ( also known as Band-e Sar Deh Ban?-e Saeh Plotina Sardekhband Sardah Dam Sardeh Dam Sardi Dam ) is located in east And <e1> ar District </e1> of Ghazni Province of Afghanistan and was constructed in 1967 ( 1346 in the Islamic calendar ) by the Soviet Union an <e2> d Afghanistan during </e2> the reign of Mohammed Zahir Shah prior to the Soviet War in Afghanistan . "
 per:countries_of_residence(e2,e1)
 
 
@@ -610,7 +610,7 @@ per:employee_of(e2,e1)
 per:employee_of(e1,e2)
 
 
-153	"The Comet Strikes ( Chinese :  ; Gui Liu Xing ) is <e1> a 1971 Hon </e1> g Kong action horror film directed by Lo W <e2> ei for Golden H </e2> arvest . "
+153	"The Comet Strikes ( Chinese : ; Gui Liu Xing ) is <e1> a 1971 Hon </e1> g Kong action horror film directed by Lo W <e2> ei for Golden H </e2> arvest . "
 org:city_of_headquarters(e2,e1)
 
 
@@ -934,7 +934,7 @@ org:city_of_headquarters(e2,e1)
 per:employee_of(e2,e1)
 
 
-234	"<e1> Mihailo Petrovi?</e1> ?Alas <e2> ( Serbia </e2> n Cyrillic :  ?  ; 6 May 1868 8 June 1943 ) was an influential Serbian mathematician and inventor . "
+234	"<e1> Mihailo Petrovi?</e1> ?Alas <e2> ( Serbia </e2> n Cyrillic : ? ; 6 May 1868 8 June 1943 ) was an influential Serbian mathematician and inventor . "
 per:origin(e1,e2)
 
 
@@ -2138,7 +2138,7 @@ org:city_of_headquarters(e1,e2)
 per:employee_of(e2,e1)
 
 
-535	"<e1> Joseph Attieh </e1> ( in Arabic   ) ( born in Mehmarch Batr <e2> oun </e2> ; Lebanon on May 13 1986 ) is a Lebanese singer who won the third season of Star Academy Lebanon in 2005 after winning 55 % of the vote becoming the first Lebanese candidate to win the reality talent show . "
+535	"<e1> Joseph Attieh </e1> ( in Arabic ) ( born in Mehmarch Batr <e2> oun </e2> ; Lebanon on May 13 1986 ) is a Lebanese singer who won the third season of Star Academy Lebanon in 2005 after winning 55 % of the vote becoming the first Lebanese candidate to win the reality talent show . "
 per:country_of_birth(e1,e2)
 
 
@@ -3470,7 +3470,7 @@ per:employee_of(e1,e2)
 no_relation
 
 
-868	"<e1> Shankar </e1> Damodar Pendse ( Devanagari :    ) ( 1897 - 1974 ) was a Marat <e2> hi wri </e2> ter from Maharashtra India . "
+868	"<e1> Shankar </e1> Damodar Pendse ( Devanagari : ) ( 1897 - 1974 ) was a Marat <e2> hi wri </e2> ter from Maharashtra India . "
 per:country_of_birth(e1,e2)
 
 
@@ -6546,7 +6546,7 @@ per:employee_of(e2,e1)
 no_relation
 
 
-1637	"Perween Hayat ( In Arabic/Urdu :   ) became the first female to serve as city preside <e1> nt of the </e1> Pakistan People Party in Lahore Pakistan During the exile of the par <e2> ty leader Benaz </e2> ir Bhutto . "
+1637	"Perween Hayat ( In Arabic/Urdu : ) became the first female to serve as city preside <e1> nt of the </e1> Pakistan People Party in Lahore Pakistan During the exile of the par <e2> ty leader Benaz </e2> ir Bhutto . "
 per:employee_of(e2,e1)
 
 
@@ -6946,7 +6946,7 @@ per:title(e1,e2)
 per:countries_of_residence(e1,e2)
 
 
-1737	"His son Bhism <e1> Shankar </e1> Tewari      is currently Member of Parliament Detailed Profile - Shri Bhismshankar Alias Kushal Tiwari - Members of Parliament ( Lok Sab <e2> ha ) - </e2> Who's Who - Government : National Portal of India having won from Sant Kabir Nagar seat west of Gorakhpur by a margin of votes ( 3.6 % ) . "
+1737	"His son Bhism <e1> Shankar </e1> Tewari is currently Member of Parliament Detailed Profile - Shri Bhismshankar Alias Kushal Tiwari - Members of Parliament ( Lok Sab <e2> ha ) - </e2> Who's Who - Government : National Portal of India having won from Sant Kabir Nagar seat west of Gorakhpur by a margin of votes ( 3.6 % ) . "
 per:employee_of(e1,e2)
 
 
@@ -11186,7 +11186,7 @@ org:city_of_headquarters(e1,e2)
 per:employee_of(e1,e2)
 
 
-2797	"The <e1> Ministry of Health </e1> ( Abbreviation : <e2> MOH </e2> ; Chinese :  ; Malay : Kementerian Kesihatan Tamil :   ) is a ministry of the Government of Singapore responsible for providing information raising health awareness and education ensuring the accessibility of health services and monitoring the quality of health services provided to citizens and visitors in the Republic of Singapore . "
+2797	"The <e1> Ministry of Health </e1> ( Abbreviation : <e2> MOH </e2> ; Chinese : ; Malay : Kementerian Kesihatan Tamil : ) is a ministry of the Government of Singapore responsible for providing information raising health awareness and education ensuring the accessibility of health services and monitoring the quality of health services provided to citizens and visitors in the Republic of Singapore . "
 org:alternate_names(e1,e2)
 
 
@@ -12450,7 +12450,7 @@ org:members(e2,e1)
 per:employee_of(e1,e2)
 
 
-3113	"<e1> Souad Massi </e1> (   ) born August 23 1972 is an Algerian singer songwr <e2> iter and g </e2> uitarist . "
+3113	"<e1> Souad Massi </e1> ( ) born August 23 1972 is an Algerian singer songwr <e2> iter and g </e2> uitarist . "
 per:title(e1,e2)
 
 
@@ -13078,7 +13078,7 @@ per:title(e1,e2)
 org:city_of_headquarters(e1,e2)
 
 
-3270	"<e1> Irkutsk State Linguistic University </e1> ( Russian :     <e2>  </e2>  (  ) ) is a university in Irkutsk Siberia in eastern Russia founded in 1948 . "
+3270	"<e1> Irkutsk State Linguistic University </e1> ( Russian : <e2> </e2> ( ) ) is a university in Irkutsk Siberia in eastern Russia founded in 1948 . "
 org:city_of_headquarters(e1,e2)
 
 
@@ -13358,7 +13358,7 @@ per:countries_of_residence(e2,e1)
 per:stateorprovinces_of_residence(e1,e2)
 
 
-3340	"Andhra Christian Theological College { Telugu :    (  )  } is a special purpose entity - an ecum <e1> enical </e1> enterprise of some of the Church societies in A <e2> ndhra Pradesh in I </e2> ndia founded in 1964 and affiliated to the Senate of Serampore College Serampore West Bengal . "
+3340	"Andhra Christian Theological College { Telugu : ( ) } is a special purpose entity - an ecum <e1> enical </e1> enterprise of some of the Church societies in A <e2> ndhra Pradesh in I </e2> ndia founded in 1964 and affiliated to the Senate of Serampore College Serampore West Bengal . "
 org:country_of_headquarters(e2,e1)
 
 
@@ -14558,7 +14558,7 @@ per:employee_of(e1,e2)
 per:employee_of(e2,e1)
 
 
-3640	"Chaudhry Shujaat Hussain ( Urdu :    ; 27 January 1946 ) is a senior conservative figure and business oligarch who previously served as the 14th Pr <e1> ime minis </e1> ter of Pakistan from 30 June 2004 until voluntarily stepping down on 28 August 2004 <e2> in the favor </e2> of Shaukat Aziz . "
+3640	"Chaudhry Shujaat Hussain ( Urdu : ; 27 January 1946 ) is a senior conservative figure and business oligarch who previously served as the 14th Pr <e1> ime minis </e1> ter of Pakistan from 30 June 2004 until voluntarily stepping down on 28 August 2004 <e2> in the favor </e2> of Shaukat Aziz . "
 per:employee_of(e2,e1)
 
 
@@ -19282,7 +19282,7 @@ org:stateorprovince_of_headquarters(e1,e2)
 per:country_of_birth(e2,e1)
 
 
-4821	"It was produced by Comic Ritz International Production ( H ) and Chai Zhi Ping (  ) <e1> as prod </e1> ucer and boardc <e2> asted in Taiwan on free-to </e2> -air Chinese Television System ( CTS ) ( A ) . "
+4821	"It was produced by Comic Ritz International Production ( H ) and Chai Zhi Ping ( ) <e1> as prod </e1> ucer and boardc <e2> asted in Taiwan on free-to </e2> -air Chinese Television System ( CTS ) ( A ) . "
 org:country_of_headquarters(e2,e1)
 
 
@@ -22030,7 +22030,7 @@ per:stateorprovinces_of_residence(e1,e2)
 per:title(e1,e2)
 
 
-5508	"However as the war situation in the Pacific War continued to deteriorate against the <e1> Japanese </e1> the 14th Division was reassigned to the Southern Expeditionary Army Group and was personally tasked with the defense of Palau by General <e2> Hideki Tj </e2>  . "
+5508	"However as the war situation in the Pacific War continued to deteriorate against the <e1> Japanese </e1> the 14th Division was reassigned to the Southern Expeditionary Army Group and was personally tasked with the defense of Palau by General <e2> Hideki Tj </e2> . "
 per:origin(e2,e1)
 
 
@@ -22858,7 +22858,7 @@ per:countries_of_residence(e2,e1)
 per:alternate_names(e2,e1)
 
 
-5715	"_ Here's the latest _ ( http://www.idahostatesman.com/newsupdates/story/151260.html ) : The likelihood that U.S. Sen. <e1> Larry Craig </e1> would resign grew today as fellow Republicans all but abandoned their <e2> Idaho </e2> colleague and the prospect of a timely legal defense dimmed . .  Right now it looks as though he will step down Sept. 30 said Craig spokesman Dan Whiting . "
+5715	"_ Here's the latest _ ( http://www.idahostatesman.com/newsupdates/story/151260.html ) : The likelihood that U.S. Sen. <e1> Larry Craig </e1> would resign grew today as fellow Republicans all but abandoned their <e2> Idaho </e2> colleague and the prospect of a timely legal defense dimmed . . Right now it looks as though he will step down Sept. 30 said Craig spokesman Dan Whiting . "
 per:stateorprovinces_of_residence(e1,e2)
 
 
@@ -25442,7 +25442,7 @@ no_relation
 per:employee_of(e2,e1)
 
 
-6361	"Coalition for European <e1> Montenegro </e1> ( Montenegrin : ?     Koalicija za Evropsku Crnu Goru ) is the ruling political allia <e2> nce in Monteneg </e2> ro headed by Milo ?ukanovi?'s Democratic Party of Socialists ( DPS ) . "
+6361	"Coalition for European <e1> Montenegro </e1> ( Montenegrin : ? Koalicija za Evropsku Crnu Goru ) is the ruling political allia <e2> nce in Monteneg </e2> ro headed by Milo ?ukanovi?'s Democratic Party of Socialists ( DPS ) . "
 per:employee_of(e2,e1)
 
 
@@ -28266,7 +28266,7 @@ per:cities_of_residence(e2,e1)
 org:alternate_names(e2,e1)
 
 
-7067	"Although the area was recreated as a fictionalized Kamurocho district much of Kabukich's landmarks remain such as the red neon sign Kabukicho Ichiban-kai (  ) portal in the district's main entrance ( renamed Kamuroch tenkaichidri  ) Koma Theater ( renamed Kamuro Theater ) Theater Square Milano Bowl ( r <e1> enamed Shunj </e1> iku Mach Bowl ) Don Quijote discou <e2> nt store </e2> ( a tie-in ) Seibu Shinjuku Station Kabukicho Sakura Street (   ) portal renamed Kamurocho Pink Street (  ) and its adjacent FamilyMart convenience store ( renamed Poppo ) . "
+7067	"Although the area was recreated as a fictionalized Kamurocho district much of Kabukich's landmarks remain such as the red neon sign Kabukicho Ichiban-kai ( ) portal in the district's main entrance ( renamed Kamuroch tenkaichidri ) Koma Theater ( renamed Kamuro Theater ) Theater Square Milano Bowl ( r <e1> enamed Shunj </e1> iku Mach Bowl ) Don Quijote discou <e2> nt store </e2> ( a tie-in ) Seibu Shinjuku Station Kabukicho Sakura Street ( ) portal renamed Kamurocho Pink Street ( ) and its adjacent FamilyMart convenience store ( renamed Poppo ) . "
 no_relation
 
 
@@ -28354,7 +28354,7 @@ org:city_of_headquarters(e1,e2)
 no_relation
 
 
-7089	"<e1> Irkutsk State University </e1> ( Russian :    <e2> ?</e2> D) was founded in October 1918 in Irkutsk Siberia . "
+7089	"<e1> Irkutsk State University </e1> ( Russian : <e2> ?</e2> D) was founded in October 1918 in Irkutsk Siberia . "
 org:founded(e1,e2)
 
 
@@ -30414,7 +30414,7 @@ no_relation
 per:countries_of_residence(e1,e2)
 
 
-7604	"Morarji Ranchhodji Desai ( Hindi :   ; 29 February 1896 10 April 1995 ) <e1> NPk was a notable Indi </e1> an independence activist and the <e2> fourth </e2> Prime Minister of India from 1977 - 1979 . "
+7604	"Morarji Ranchhodji Desai ( Hindi : ; 29 February 1896 10 April 1995 ) <e1> NPk was a notable Indi </e1> an independence activist and the <e2> fourth </e2> Prime Minister of India from 1977 - 1979 . "
 per:origin(e1,e2)
 
 
@@ -30606,7 +30606,7 @@ per:spouse(e1,e2)
 org:members(e2,e1)
 
 
-7652	"He is voiced by <e1> Ch?</e1> ?( ` ) ( also known as <e2> Yichi N </e2> agashima ( Lu  ) ) . "
+7652	"He is voiced by <e1> Ch?</e1> ?( ` ) ( also known as <e2> Yichi N </e2> agashima ( Lu ) ) . "
 per:alternate_names(e1,e2)
 
 
@@ -31498,7 +31498,7 @@ org:founded_by(e1,e2)
 per:employee_of(e2,e1)
 
 
-7875	"<e1> Mitr Chaibancha </e1> ( Thai   ( Pronunciation ) January 28 1 <e2> 934 in Ph </e2> etchaburi Thailand - October 8 1970 ) was a Thai film actor who made 266 films from 1956 to 1970 . "
+7875	"<e1> Mitr Chaibancha </e1> ( Thai ( Pronunciation ) January 28 1 <e2> 934 in Ph </e2> etchaburi Thailand - October 8 1970 ) was a Thai film actor who made 266 films from 1956 to 1970 . "
 per:country_of_birth(e1,e2)
 
 
@@ -32750,7 +32750,7 @@ org:alternate_names(e1,e2)
 no_relation
 
 
-8188	"On March 21 1996 the road in front of the Presidential Building was renamed from Long Live Chiang Kai-shek Road (  ) to Ketagalan Boulevard ( P_m <e1> ) by th </e1> en-mayor of <e2> Taipei City </e2> 44; Chen Shui-bian to commemorate this tribe . "
+8188	"On March 21 1996 the road in front of the Presidential Building was renamed from Long Live Chiang Kai-shek Road ( ) to Ketagalan Boulevard ( P_m <e1> ) by th </e1> en-mayor of <e2> Taipei City </e2> 44; Chen Shui-bian to commemorate this tribe . "
 per:employee_of(e2,e1)
 
 
@@ -35222,7 +35222,7 @@ per:alternate_names(e1,e2)
 no_relation
 
 
-8806	"<e1> Yigal Carmon </e1> ( Hebrew   ) ( born 1946 ) is the president and found <e2> er of the Middle East Media Research </e2> Institute ( MEMRI ) an organization which monitors and translates Arabic and Persian publications radio and TV broadcasts and religious sermons into many languages and circulates them over the Internet . "
+8806	"<e1> Yigal Carmon </e1> ( Hebrew ) ( born 1946 ) is the president and found <e2> er of the Middle East Media Research </e2> Institute ( MEMRI ) an organization which monitors and translates Arabic and Persian publications radio and TV broadcasts and religious sermons into many languages and circulates them over the Internet . "
 org:founded_by(e2,e1)
 
 
@@ -35262,7 +35262,7 @@ org:subsidiaries(e1,e2)
 org:alternate_names(e1,e2)
 
 
-8816	"<e1> Sergey Aleksandrovich Volkov </e1> ( Russian :    born April 1 1973 in Chuhuiv <e2> Ukraini </e2> an SSR Soviet Union ) is a Russian cosmonaut . "
+8816	"<e1> Sergey Aleksandrovich Volkov </e1> ( Russian : born April 1 1973 in Chuhuiv <e2> Ukraini </e2> an SSR Soviet Union ) is a Russian cosmonaut . "
 per:country_of_birth(e1,e2)
 
 
@@ -35530,7 +35530,7 @@ org:top_members/employees(e1,e2)
 per:employee_of(e1,e2)
 
 
-8883	"On March 28 Mariupol State University held a solemn ceremony on occasion of being awarded the Letter of Acknowledgement of the Cabinet of Ministers in recognition of the tangible contribution into development of national education strengthening of the international authority of <e1> Ukraine </e1> and training of highly qualified specialists signed by <e2> Mykola Azarov </e2> Prime Minister of Ukraine ( Resolution of the Cabinet of Minister of Ukraine  22525 dated of December 28 2011 ) . "
+8883	"On March 28 Mariupol State University held a solemn ceremony on occasion of being awarded the Letter of Acknowledgement of the Cabinet of Ministers in recognition of the tangible contribution into development of national education strengthening of the international authority of <e1> Ukraine </e1> and training of highly qualified specialists signed by <e2> Mykola Azarov </e2> Prime Minister of Ukraine ( Resolution of the Cabinet of Minister of Ukraine 22525 dated of December 28 2011 ) . "
 per:employee_of(e2,e1)
 
 
@@ -36518,7 +36518,7 @@ per:employee_of(e2,e1)
 per:employee_of(e2,e1)
 
 
-9130	"Marxism Leninism Maoism <e1> Prachanda </e1> Path ( Nepali :  ?  Mlemvd ra Prachaapath ) refers to t <e2> he ide </e2> ological line of the Communist Party of Nepal ( Maoist ) . "
+9130	"Marxism Leninism Maoism <e1> Prachanda </e1> Path ( Nepali : ? Mlemvd ra Prachaapath ) refers to t <e2> he ide </e2> ological line of the Communist Party of Nepal ( Maoist ) . "
 no_relation
 
 
@@ -36614,7 +36614,7 @@ org:country_of_headquarters(e2,e1)
 org:members(e2,e1)
 
 
-9154	"The <e1> University of Montenegro </e1> Faculty of Law ( Montenegrin : Pravni fakultet Univerziteta Crne Gore     <e2>  ) </e2> also known as the Podgorica Law School is one of the educational institutions of the University of Montenegro . "
+9154	"The <e1> University of Montenegro </e1> Faculty of Law ( Montenegrin : Pravni fakultet Univerziteta Crne Gore <e2> ) </e2> also known as the Podgorica Law School is one of the educational institutions of the University of Montenegro . "
 org:alternate_names(e1,e2)
 
 
@@ -37030,7 +37030,7 @@ no_relation
 per:cities_of_residence(e2,e1)
 
 
-9258	"Queenzy and <e1> Wei Wei </e1> ( Chinese :  ) also known as Xiao Wei Wei ( Chinese :  ) who was also previously a chi <e2> ld star i </e2> n Malaysia teamed up and started filming their Chinese New Year album on September 15 . "
+9258	"Queenzy and <e1> Wei Wei </e1> ( Chinese : ) also known as Xiao Wei Wei ( Chinese : ) who was also previously a chi <e2> ld star i </e2> n Malaysia teamed up and started filming their Chinese New Year album on September 15 . "
 per:countries_of_residence(e1,e2)
 
 
@@ -42790,7 +42790,7 @@ per:countries_of_residence(e2,e1)
 per:employee_of(e1,e2)
 
 
-10698	"<e1> Natasha Alexandra Rastapkavicius Arrondo </e1> ( Russian Cyrillic :     ; born 25 June <e2> 1975 ) pr </e2> ofessionally known as Natasha Klauss is a Colombian actress of Colombian and Lithuanian descent best known for her roles in Telemundo telenovelas La Venganza de Gavilanes and Zorro : La Espada y la Rosa . "
+10698	"<e1> Natasha Alexandra Rastapkavicius Arrondo </e1> ( Russian Cyrillic : ; born 25 June <e2> 1975 ) pr </e2> ofessionally known as Natasha Klauss is a Colombian actress of Colombian and Lithuanian descent best known for her roles in Telemundo telenovelas La Venganza de Gavilanes and Zorro : La Espada y la Rosa . "
 per:alternate_names(e2,e1)
 
 
@@ -43446,7 +43446,7 @@ no_relation
 per:employee_of(e1,e2)
 
 
-10862	"Ng is married to Yeoh Saw Kheng (  ) who is the 3rd daughter <e1> of Dr Yeoh Ghi </e1> m Seng the former Speaker of Parliam <e2> ent of Sin </e2> gapore Ng's eldest son Daryl Ng Win Kong ( S ) was born in 1978 . "
+10862	"Ng is married to Yeoh Saw Kheng ( ) who is the 3rd daughter <e1> of Dr Yeoh Ghi </e1> m Seng the former Speaker of Parliam <e2> ent of Sin </e2> gapore Ng's eldest son Daryl Ng Win Kong ( S ) was born in 1978 . "
 per:employee_of(e1,e2)
 
 
@@ -44254,7 +44254,7 @@ per:countries_of_residence(e1,e2)
 no_relation
 
 
-11064	"There have been a number of important statements by Julia Gillard so far . . amongst them a changed position on population growth the mining tax Rudd's position in the cabinet should <e1> Labor </e1> win the election . .  There have also been some heartening poll responses ( for the ALP ) to the leadership change from <e2> Rudd </e2> to Gillard . "
+11064	"There have been a number of important statements by Julia Gillard so far . . amongst them a changed position on population growth the mining tax Rudd's position in the cabinet should <e1> Labor </e1> win the election . . There have also been some heartening poll responses ( for the ALP ) to the leadership change from <e2> Rudd </e2> to Gillard . "
 per:employee_of(e2,e1)
 
 
@@ -45214,7 +45214,7 @@ org:subsidiaries(e2,e1)
 per:employee_of(e2,e1)
 
 
-11304	"Solidarnost (  Russian for Solidarity named after the Polish Solidarno ) is a Russian liberal democratic political movement founded on 13 December 2008 by a number of well-known members of the liberal democratic opposition including Garry <e1> Kasparov </e1> Boris Nemtsov and others from the Yabloko and Union of Right Forces ( which had just merged with two pro-Kremlin parties the Democ <e2> ratic P </e2> arty of Russia and Civilian Power to form the pro-Kremlin liberal democratic Right Cause ) parties leaders of the Dissenters March events the Committee 2008 the People's Democratic Union the United Civil Front The Other Russia and other politicians and political groups . "
+11304	"Solidarnost ( Russian for Solidarity named after the Polish Solidarno ) is a Russian liberal democratic political movement founded on 13 December 2008 by a number of well-known members of the liberal democratic opposition including Garry <e1> Kasparov </e1> Boris Nemtsov and others from the Yabloko and Union of Right Forces ( which had just merged with two pro-Kremlin parties the Democ <e2> ratic P </e2> arty of Russia and Civilian Power to form the pro-Kremlin liberal democratic Right Cause ) parties leaders of the Dissenters March events the Committee 2008 the People's Democratic Union the United Civil Front The Other Russia and other politicians and political groups . "
 per:employee_of(e1,e2)
 
 
@@ -45346,7 +45346,7 @@ org:members(e2,e1)
 org:subsidiaries(e1,e2)
 
 
-11337	"<e1> Rajasthan Royals </e1> home venue is the iconic <e2> Sawai Mansingh Stadium </e2> ( Hindi :    ) . "
+11337	"<e1> Rajasthan Royals </e1> home venue is the iconic <e2> Sawai Mansingh Stadium </e2> ( Hindi : ) . "
 no_relation
 
 
@@ -47258,7 +47258,7 @@ org:country_of_headquarters(e2,e1)
 no_relation
 
 
-11815	"We must have had something on the ball . . that was the biggest contribution that I rendered . .  Johnson taught history economics and mathematics for 16 years at <e1> Louisville </e1> 's <e2> Central High School </e2> before engaging the University of Kentucky in a legal test case intended to permit him to pursue further graduate study there . "
+11815	"We must have had something on the ball . . that was the biggest contribution that I rendered . . Johnson taught history economics and mathematics for 16 years at <e1> Louisville </e1> 's <e2> Central High School </e2> before engaging the University of Kentucky in a legal test case intended to permit him to pursue further graduate study there . "
 org:city_of_headquarters(e2,e1)
 
 
@@ -47366,7 +47366,7 @@ org:country_of_headquarters(e2,e1)
 per:employee_of(e2,e1)
 
 
-11842	"The International University of Chabahar for example offers programs under the guidance of London School of Economics and Political Science Goldsmiths University of London and Royal Holloway.    Other schools such as the Institute for Advanced Studies in Basic Sciences in Zanjan have close <e1> collaboration with The International Centre f </e1> or Theoretical Ph <e2> ysics </e2> in Trieste Italy for workshops seminars and summer schools . "
+11842	"The International University of Chabahar for example offers programs under the guidance of London School of Economics and Political Science Goldsmiths University of London and Royal Holloway. Other schools such as the Institute for Advanced Studies in Basic Sciences in Zanjan have close <e1> collaboration with The International Centre f </e1> or Theoretical Ph <e2> ysics </e2> in Trieste Italy for workshops seminars and summer schools . "
 org:country_of_headquarters(e1,e2)
 
 
@@ -48886,7 +48886,7 @@ per:spouse(e2,e1)
 per:countries_of_residence(e2,e1)
 
 
-12222	"Igor Radoji?i? ' ( Serbian Cyrillic :   ) is the Chairman of the Natio <e1> nal Assembly of R </e1> epublika Srpska an entity of Bosnia and Herzegovina and following the dea <e2> th of Presid </e2> ent Milan Jeli? was acting President of Republika Srpska from October 1 2007 to 28 December 2007 . "
+12222	"Igor Radoji?i? ' ( Serbian Cyrillic : ) is the Chairman of the Natio <e1> nal Assembly of R </e1> epublika Srpska an entity of Bosnia and Herzegovina and following the dea <e2> th of Presid </e2> ent Milan Jeli? was acting President of Republika Srpska from October 1 2007 to 28 December 2007 . "
 per:employee_of(e2,e1)
 
 
@@ -51834,7 +51834,7 @@ org:country_of_headquarters(e1,e2)
 per:countries_of_residence(e1,e2)
 
 
-12959	"The present royal family of <e1> Thailand </e1> is descended from HRH Prince <e2> Mahidol Adulyadej </e2> of Songkla ( 1891 1929 ) and Srinagarindra ( later Princess Mother ) ( 1900 95 ) forming the House of Mahidol (  ) ( a cadet branch of the Dynasty ) . "
+12959	"The present royal family of <e1> Thailand </e1> is descended from HRH Prince <e2> Mahidol Adulyadej </e2> of Songkla ( 1891 1929 ) and Srinagarindra ( later Princess Mother ) ( 1900 95 ) forming the House of Mahidol ( ) ( a cadet branch of the Dynasty ) . "
 per:country_of_birth(e2,e1)
 
 
@@ -51982,7 +51982,7 @@ per:employee_of(e2,e1)
 per:employee_of(e2,e1)
 
 
-12996	"<e1> Lavasa </e1> ( Marathi :  ) is a private planned city being <e2> built </e2> near Pune . "
+12996	"<e1> Lavasa </e1> ( Marathi : ) is a private planned city being <e2> built </e2> near Pune . "
 org:city_of_headquarters(e1,e2)
 
 
@@ -52306,7 +52306,7 @@ per:employee_of(e1,e2)
 org:subsidiaries(e1,e2)
 
 
-13077	"The <e1> Saint Petersburg State University of Engineering and Economics </e1> is a university in <e2> Russia </e2> and also is known as ENGECON ( Russian :  ) . "
+13077	"The <e1> Saint Petersburg State University of Engineering and Economics </e1> is a university in <e2> Russia </e2> and also is known as ENGECON ( Russian : ) . "
 org:country_of_headquarters(e1,e2)
 
 
@@ -52314,7 +52314,7 @@ org:country_of_headquarters(e1,e2)
 per:country_of_birth(e1,e2)
 
 
-13079	"Begum Ra'ana <e1> Liaquat Ali Khan </e1> ( Urdu :     ; February 13 1905 June 13 1990 ) ( Sheila Irene Pant ) DPhil NI was one of the leading <e2> woman fig </e2> ure in Pakistan Movement along with her husband Liaquat Ali Khan and career economist and prominent stateswoman from the start of the cold war till the fall and the end of the cold war . "
+13079	"Begum Ra'ana <e1> Liaquat Ali Khan </e1> ( Urdu : ; February 13 1905 June 13 1990 ) ( Sheila Irene Pant ) DPhil NI was one of the leading <e2> woman fig </e2> ure in Pakistan Movement along with her husband Liaquat Ali Khan and career economist and prominent stateswoman from the start of the cold war till the fall and the end of the cold war . "
 per:countries_of_residence(e1,e2)
 
 
@@ -52562,7 +52562,7 @@ per:country_of_birth(e1,e2)
 per:employee_of(e2,e1)
 
 
-13141	"The <e1> University of Science and Technology Beijing </e1> ( USTB ; ) formerly known as Beijing Steel and Iron Institute (  ) before 1988 is a national key u <e2> niversit </e2> y in Beijing China . "
+13141	"The <e1> University of Science and Technology Beijing </e1> ( USTB ; ) formerly known as Beijing Steel and Iron Institute ( ) before 1988 is a national key u <e2> niversit </e2> y in Beijing China . "
 org:city_of_headquarters(e1,e2)
 
 
@@ -53350,7 +53350,7 @@ per:employee_of(e2,e1)
 per:employee_of(e1,e2)
 
 
-13338	"In September 2003 he became an advisor for foreign affairs ( European issues ) to the <e1> Defence </e1> Minister of Serbia and Montenegro <e2> Boris Tadi?</e2> ?  "
+13338	"In September 2003 he became an advisor for foreign affairs ( European issues ) to the <e1> Defence </e1> Minister of Serbia and Montenegro <e2> Boris Tadi?</e2> ? "
 per:employee_of(e2,e1)
 
 
@@ -53554,7 +53554,7 @@ per:employee_of(e1,e2)
 per:countries_of_residence(e1,e2)
 
 
-13389	"The <e1> Kolkata Metro </e1> or Calcutta Metro ( Bengali :   ) is a mass rapid transit sy <e2> stem ser </e2> ving the city of Kolkata and the districts of South 24 Parganas and North 24 Parganas in Indian state of West Bengal . "
+13389	"The <e1> Kolkata Metro </e1> or Calcutta Metro ( Bengali : ) is a mass rapid transit sy <e2> stem ser </e2> ving the city of Kolkata and the districts of South 24 Parganas and North 24 Parganas in Indian state of West Bengal . "
 org:city_of_headquarters(e1,e2)
 
 
@@ -56466,7 +56466,7 @@ per:title(e1,e2)
 org:members(e2,e1)
 
 
-14117	"The third he asked Wu Bochao for help later in 1927 after school.The forth he became a student of <e1> Liu Tianhua </e1> ( simplified Chinese :  a national musical instrument composer ) officially from 1 <e2> 929 t </e2> o 1932 . "
+14117	"The third he asked Wu Bochao for help later in 1927 after school.The forth he became a student of <e1> Liu Tianhua </e1> ( simplified Chinese : a national musical instrument composer ) officially from 1 <e2> 929 t </e2> o 1932 . "
 no_relation
 
 
@@ -57710,7 +57710,7 @@ no_relation
 per:countries_of_residence(e1,e2)
 
 
-14428	"Baya Bouzar (   ) known by the <e1> stagenam </e1> e Biyouna ( Arabic :  ) is an Algerian singer dancer actress born in 1952 in Belcourt <e2> Algiers </e2> Algeria . "
+14428	"Baya Bouzar ( ) known by the <e1> stagenam </e1> e Biyouna ( Arabic : ) is an Algerian singer dancer actress born in 1952 in Belcourt <e2> Algiers </e2> Algeria . "
 per:country_of_birth(e1,e2)
 
 
@@ -58614,7 +58614,7 @@ org:city_of_headquarters(e1,e2)
 org:city_of_headquarters(e2,e1)
 
 
-14654	"The Independent wrote that the emphasis is on the jokes of which there are many . .  All the actors in Michell's production are excellent . .  The show is stolen by Sophie Thompson as the daughter whose only means of opposing Margot is to be the perfect mother and housewife . . the unconvincing ending is neat without being tidy . .  This Is <e1> London </e1> gave unqualified praise : . . the splendid <e2> Dame Eileen </e2> mounts another witty display of brisk imperiousness and self-admiring froideur effortlessly swatting away complaints as if they were mere gnats . "
+14654	"The Independent wrote that the emphasis is on the jokes of which there are many . . All the actors in Michell's production are excellent . . The show is stolen by Sophie Thompson as the daughter whose only means of opposing Margot is to be the perfect mother and housewife . . the unconvincing ending is neat without being tidy . . This Is <e1> London </e1> gave unqualified praise : . . the splendid <e2> Dame Eileen </e2> mounts another witty display of brisk imperiousness and self-admiring froideur effortlessly swatting away complaints as if they were mere gnats . "
 per:cities_of_residence(e2,e1)
 
 
@@ -60346,7 +60346,7 @@ per:alternate_names(e2,e1)
 per:employee_of(e2,e1)
 
 
-15087	"First you had all the pop stars openly talking about their multiple personalities ( Beyonce - Sasha Fierce ; Janet Jackson - Strawberry and a host of others according to her ; Britney Spears - Mona ; Mariah Carey - Mimi ; <e1> Marshall Mathers </e1> - <e2> Eminem </e2> Slim Shady and so on the list is endless . .  ) Now you have the TV shows revolving around it - My Own Worst Enemy United States of Tara etc. normalizing and promoting it as cool . "
+15087	"First you had all the pop stars openly talking about their multiple personalities ( Beyonce - Sasha Fierce ; Janet Jackson - Strawberry and a host of others according to her ; Britney Spears - Mona ; Mariah Carey - Mimi ; <e1> Marshall Mathers </e1> - <e2> Eminem </e2> Slim Shady and so on the list is endless . . ) Now you have the TV shows revolving around it - My Own Worst Enemy United States of Tara etc. normalizing and promoting it as cool . "
 org:alternate_names(e2,e1)
 
 
@@ -60922,7 +60922,7 @@ per:stateorprovinces_of_residence(e1,e2)
 org:city_of_headquarters(e1,e2)
 
 
-15231	"Vania Todorova Kaludova ( Bulgarian Cyrillic :    ) <e1> #44; b </e1> etter known as Ivana (  ) is a <e2> popula </e2> r Bulgarian female singer . "
+15231	"Vania Todorova Kaludova ( Bulgarian Cyrillic : ) <e1> #44; b </e1> etter known as Ivana ( ) is a <e2> popula </e2> r Bulgarian female singer . "
 per:title(e1,e2)
 
 
@@ -60934,7 +60934,7 @@ org:city_of_headquarters(e2,e1)
 per:employee_of(e1,e2)
 
 
-15234	"Well did n't think so . .  PDVSA is already stretched thin . . we shall see what results when <e1> Chavez </e1> officially does his socialist/fascist takeover of <e2> Venezuela </e2> 's private oil sector May 1st . . things are getting serious . . "
+15234	"Well did n't think so . . PDVSA is already stretched thin . . we shall see what results when <e1> Chavez </e1> officially does his socialist/fascist takeover of <e2> Venezuela </e2> 's private oil sector May 1st . . things are getting serious . . "
 per:countries_of_residence(e1,e2)
 
 
@@ -62114,7 +62114,7 @@ per:employee_of(e1,e2)
 per:employee_of(e1,e2)
 
 
-15529	"<e1> Riza Sapunxhiu </e1> ( Serbian :   Riza Sapund?iju ) ( 15 March 1925 6 Septembe <e2> r 2008 </e2> ) was a Kosovo Albanian communist politician and economist of the former Yugoslavia . "
+15529	"<e1> Riza Sapunxhiu </e1> ( Serbian : Riza Sapund?iju ) ( 15 March 1925 6 Septembe <e2> r 2008 </e2> ) was a Kosovo Albanian communist politician and economist of the former Yugoslavia . "
 per:cities_of_residence(e1,e2)
 
 
@@ -62722,7 +62722,7 @@ org:top_members/employees(e1,e2)
 per:employee_of(e1,e2)
 
 
-15681	"<e1> Nazia </e1> and Zoheb ( Urdu :    ) were a Pakistani p <e2> op group </e2> from Karachi Sindh formed in 1980 . "
+15681	"<e1> Nazia </e1> and Zoheb ( Urdu : ) were a Pakistani p <e2> op group </e2> from Karachi Sindh formed in 1980 . "
 per:cities_of_residence(e1,e2)
 
 
@@ -63294,7 +63294,7 @@ per:employee_of(e2,e1)
 per:alternate_names(e2,e1)
 
 
-15824	"Han Dayuan ( Chinese :  ; Pi <e1> nyin : </e1> cute;n born October 1960 ) is the D <e2> ean of Renmin University of China Law </e2> School and Deputy Director of the Constitutional Law Institute of China Law Society . "
+15824	"Han Dayuan ( Chinese : ; Pi <e1> nyin : </e1> cute;n born October 1960 ) is the D <e2> ean of Renmin University of China Law </e2> School and Deputy Director of the Constitutional Law Institute of China Law Society . "
 org:top_members/employees(e2,e1)
 
 

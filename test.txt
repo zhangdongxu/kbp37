@@ -1446,7 +1446,7 @@ per:alternate_names(e2,e1)
 per:employee_of(e1,e2)
 
 
-18003	"President Bush's celebrated arrival to Slovakia marking the first time a sitting President of the United States visited <e1> Slovakia </e1> was greeted by Slovakian Prime Minister Dzurinda and President <e2> Ivan </e2> ?  "
+18003	"President Bush's celebrated arrival to Slovakia marking the first time a sitting President of the United States visited <e1> Slovakia </e1> was greeted by Slovakian Prime Minister Dzurinda and President <e2> Ivan </e2> ? "
 per:countries_of_residence(e2,e1)
 
 
@@ -1462,7 +1462,7 @@ per:countries_of_residence(e1,e2)
 per:countries_of_residence(e2,e1)
 
 
-18007	"Among them were Teddy Robin The Playboys Felicia Wong (  ) in Hong Kong Tracy Huang (  ) in Taiwan Ervinna Zhuang Xue Fang (  ) ( in edited Standard Chinese lyrics under title name of  ) <e1> in Singapore </e1> 44; <e2> and Sinn </e2> Sisamouth in Cambodia . "
+18007	"Among them were Teddy Robin The Playboys Felicia Wong ( ) in Hong Kong Tracy Huang ( ) in Taiwan Ervinna Zhuang Xue Fang ( ) ( in edited Standard Chinese lyrics under title name of ) <e1> in Singapore </e1> 44; <e2> and Sinn </e2> Sisamouth in Cambodia . "
 per:countries_of_residence(e1,e2)
 
 
@@ -1554,7 +1554,7 @@ per:spouse(e2,e1)
 per:employee_of(e1,e2)
 
 
-18030	"Because two directly elected Municipal Mayors of <e1> Taipei </e1> <e2> Chen Shui-bian </e2> and Ma Ying-jeou were elected the President of the Republic of China in 2000 and 2008 respectively the position has been widely speculated to be a first-step towards the Presidential Office.   Having been under the administration of the Kuomintang for the past twelve years Taipei is commonly considered to be solidly in the Pan-Blue political camp . "
+18030	"Because two directly elected Municipal Mayors of <e1> Taipei </e1> <e2> Chen Shui-bian </e2> and Ma Ying-jeou were elected the President of the Republic of China in 2000 and 2008 respectively the position has been widely speculated to be a first-step towards the Presidential Office. Having been under the administration of the Kuomintang for the past twelve years Taipei is commonly considered to be solidly in the Pan-Blue political camp . "
 per:cities_of_residence(e2,e1)
 
 
@@ -1610,7 +1610,7 @@ org:country_of_headquarters(e1,e2)
 per:cities_of_residence(e1,e2)
 
 
-18044	"His next book Tojo and the Coming of the War was a biography of <e1> Hideki Tj </e1>  the prime minister <e2> of Jap </e2> an during most of World War II . "
+18044	"His next book Tojo and the Coming of the War was a biography of <e1> Hideki Tj </e1> the prime minister <e2> of Jap </e2> an during most of World War II . "
 per:employee_of(e1,e2)
 
 
@@ -1914,7 +1914,7 @@ org:stateorprovince_of_headquarters(e1,e2)
 org:top_members/employees(e2,e1)
 
 
-18120	"His film credits include Emperor Hirohito in <e1> Japan </e1> 's Longest Day (  Nihon no ichiban nagai hi ) i <e2> n which famous </e2> actor Toshir Mifune played General Korechika Anami Ii Naosuke in Samurai Assassin (  Samurai ) and a number of other jidaigeki ( samurai period films ) . "
+18120	"His film credits include Emperor Hirohito in <e1> Japan </e1> 's Longest Day ( Nihon no ichiban nagai hi ) i <e2> n which famous </e2> actor Toshir Mifune played General Korechika Anami Ii Naosuke in Samurai Assassin ( Samurai ) and a number of other jidaigeki ( samurai period films ) . "
 per:countries_of_residence(e2,e1)
 
 
@@ -2190,7 +2190,7 @@ org:country_of_headquarters(e2,e1)
 org:city_of_headquarters(e1,e2)
 
 
-18189	"Beckett himself sanctioned one of the most famous mixed-race productions of Godot performed at the Baxter Theatre in the University of Cape Town directed by Donald Howarth with . . two black actors John Kani and Winston Ntshona playing Didi and Gogo ; Pozzo dressed in checked shirt and gumboots reminiscent of an Afrikaner landlord and Lucky ( ' a shanty town piece of white trash ' ) were played by two white actors <e1> Bill Flynn </e1> and <e2> Peter Piccolo </e2> . .  The Baxter production has often been portrayed as if it were an explicitly political production when in fact it received very little emphasis . "
+18189	"Beckett himself sanctioned one of the most famous mixed-race productions of Godot performed at the Baxter Theatre in the University of Cape Town directed by Donald Howarth with . . two black actors John Kani and Winston Ntshona playing Didi and Gogo ; Pozzo dressed in checked shirt and gumboots reminiscent of an Afrikaner landlord and Lucky ( ' a shanty town piece of white trash ' ) were played by two white actors <e1> Bill Flynn </e1> and <e2> Peter Piccolo </e2> . . The Baxter production has often been portrayed as if it were an explicitly political production when in fact it received very little emphasis . "
 no_relation
 
 
@@ -3566,7 +3566,7 @@ per:cities_of_residence(e2,e1)
 per:employee_of(e2,e1)
 
 
-18533	"Their intro : ----- Chinese Name :  <e1> #44; Eng </e1> lish Name  Bing occupation : Software Engineer Com <e2> pany : beco </e2> me.com live in mountain view referred by tanping wang greeting : . . . . . . . . . . "
+18533	"Their intro : ----- Chinese Name : <e1> #44; Eng </e1> lish Name Bing occupation : Software Engineer Com <e2> pany : beco </e2> me.com live in mountain view referred by tanping wang greeting : . . . . . . . . . . "
 no_relation
 
 
@@ -4074,7 +4074,7 @@ per:employee_of(e2,e1)
 per:employee_of(e2,e1)
 
 
-18660	"Debra Meiburg was a Professor of Wine at the School of Hospitality and Service Management Rochester Institute of Technology.Sydney International Wine Competition Debra Meiburg MW ( <e1> Hong Kong </e1> ) Current wine education positions in Hong Kong include External Examiner of the Professional Diploma in Wine Assessment and Service at the <e2> Open University of Hong Kong </e2> ( traditional Chinese :  ) and Assistant Training Consultant Hong Kong Institute of Vocational Education ( IVE ) ( traditional Chinese :  ) . "
+18660	"Debra Meiburg was a Professor of Wine at the School of Hospitality and Service Management Rochester Institute of Technology.Sydney International Wine Competition Debra Meiburg MW ( <e1> Hong Kong </e1> ) Current wine education positions in Hong Kong include External Examiner of the Professional Diploma in Wine Assessment and Service at the <e2> Open University of Hong Kong </e2> ( traditional Chinese : ) and Assistant Training Consultant Hong Kong Institute of Vocational Education ( IVE ) ( traditional Chinese : ) . "
 org:city_of_headquarters(e2,e1)
 
 
@@ -4298,7 +4298,7 @@ org:alternate_names(e2,e1)
 per:employee_of(e1,e2)
 
 
-18716	"China Overseas Land and Investment Limited ( ) ( Traditional Chinese :  Simplified Chinese : <e1> </e1>  ) China Overseas or COLI <e2> uot; in short form and the subsidiary of China St </e2> ate Construction Engineering Corporation was incorporated in Hong Kong in June 1979 . "
+18716	"China Overseas Land and Investment Limited ( ) ( Traditional Chinese : Simplified Chinese : <e1> </e1> ) China Overseas or COLI <e2> uot; in short form and the subsidiary of China St </e2> ate Construction Engineering Corporation was incorporated in Hong Kong in June 1979 . "
 org:country_of_headquarters(e2,e1)
 
 
@@ -4394,7 +4394,7 @@ per:employee_of(e1,e2)
 per:alternate_names(e2,e1)
 
 
-18740	"After his return to <e1> Japan </e1> he served in various political capacities including president of the Genrin advisor to Emperor Meiji ( and late <e2> r Emperor Taish </e2>  ) and as a member of the House of Peers . "
+18740	"After his return to <e1> Japan </e1> he served in various political capacities including president of the Genrin advisor to Emperor Meiji ( and late <e2> r Emperor Taish </e2> ) and as a member of the House of Peers . "
 per:countries_of_residence(e2,e1)
 
 
@@ -5478,7 +5478,7 @@ org:country_of_headquarters(e2,e1)
 org:members(e2,e1)
 
 
-19011	"The Singapore Examinations and Assessment Board ( Abbreviation : SEAB ; Chinese :  ; Malay : Lembaga Peperiksaan Singapura ) was established on 1 April 2004 as a statuto <e1> ry board under the Min </e1> is <e2> try </e2> of Education ( MOE ) of Singapore . "
+19011	"The Singapore Examinations and Assessment Board ( Abbreviation : SEAB ; Chinese : ; Malay : Lembaga Peperiksaan Singapura ) was established on 1 April 2004 as a statuto <e1> ry board under the Min </e1> is <e2> try </e2> of Education ( MOE ) of Singapore . "
 org:alternate_names(e1,e2)
 
 
@@ -6318,7 +6318,7 @@ org:city_of_headquarters(e2,e1)
 org:stateorprovince_of_headquarters(e1,e2)
 
 
-19221	"<e1> Albert Ho </e1> Chun-yan (  ; Yale : Jeun ; born 1 December 1951 ) is currently secretary general <e2> of the Hon </e2> g Kong Alliance in Support of Patriotic Democratic Movements in China and was chairman of the Democratic Party from 2006 to 2012 . "
+19221	"<e1> Albert Ho </e1> Chun-yan ( ; Yale : Jeun ; born 1 December 1951 ) is currently secretary general <e2> of the Hon </e2> g Kong Alliance in Support of Patriotic Democratic Movements in China and was chairman of the Democratic Party from 2006 to 2012 . "
 per:employee_of(e1,e2)
 
 
@@ -6834,7 +6834,7 @@ org:alternate_names(e1,e2)
 org:founded_by(e1,e2)
 
 
-19350	"Starting with initial funding of CN to open a workshop for the production of bottle lids in Beijiao Shunde in <e1> 1968 </e1> He Xiangjian (  ) the founder of the company has since <e2> turned </e2> Midea into one of the most successful private companies in China with sales revenue for the entire Group declared at US$ 22.2 billion for 2011 . "
+19350	"Starting with initial funding of CN to open a workshop for the production of bottle lids in Beijiao Shunde in <e1> 1968 </e1> He Xiangjian ( ) the founder of the company has since <e2> turned </e2> Midea into one of the most successful private companies in China with sales revenue for the entire Group declared at US$ 22.2 billion for 2011 . "
 org:founded(e2,e1)
 
 
@@ -7450,7 +7450,7 @@ org:country_of_headquarters(e1,e2)
 org:country_of_headquarters(e2,e1)
 
 
-19504	"The <e1> Bank of China </e1> ( Hong Kong ) Bauhinia Bowl Award (  ) is the annual award to member secondary <e2> schools of </e2> the Hong Kong Island and Kowloon Secondary Schools Regional Committee Hong Kong Schools Sports Federation who qualify under the rules set out below . "
+19504	"The <e1> Bank of China </e1> ( Hong Kong ) Bauhinia Bowl Award ( ) is the annual award to member secondary <e2> schools of </e2> the Hong Kong Island and Kowloon Secondary Schools Regional Committee Hong Kong Schools Sports Federation who qualify under the rules set out below . "
 org:city_of_headquarters(e1,e2)
 
 
@@ -8142,7 +8142,7 @@ no_relation
 no_relation
 
 
-19677	"Ambassador Matthews was not the kind of person to go in and tell Prime Minister <e1> Balewa </e1> or Foreign Minister Jaja Wachuku how to do things . .  Jaja Wachuku as Foreign Affairs Minister of <e2> Nigeria </e2> preferred quiet consultation especially with the two major Anglo-American powers : Great Britain and the United States - in search of solutions to continental and international problems . "
+19677	"Ambassador Matthews was not the kind of person to go in and tell Prime Minister <e1> Balewa </e1> or Foreign Minister Jaja Wachuku how to do things . . Jaja Wachuku as Foreign Affairs Minister of <e2> Nigeria </e2> preferred quiet consultation especially with the two major Anglo-American powers : Great Britain and the United States - in search of solutions to continental and international problems . "
 no_relation
 
 
@@ -8674,7 +8674,7 @@ per:stateorprovinces_of_residence(e1,e2)
 org:city_of_headquarters(e2,e1)
 
 
-19810	"North <e1> Chiang Mai University </e1> ( NCU ) (  -  <e2> </e2>  ) is a private university in Chiang Mai Thailand founded in 1999 . "
+19810	"North <e1> Chiang Mai University </e1> ( NCU ) ( - <e2> </e2> ) is a private university in Chiang Mai Thailand founded in 1999 . "
 org:city_of_headquarters(e1,e2)
 
 
@@ -9306,7 +9306,7 @@ org:subsidiaries(e2,e1)
 org:founded_by(e1,e2)
 
 
-19968	"On 9 May Boban Josip Manoli? Tu?man's aide a <e1> nd Radovan Karad?</e1>  president of the self-procla <e2> imed Republika Sr </e2> pska secretly met in Graz and formed an agreement on the division of Bosnia and Herzegovina the Graz agreement . "
+19968	"On 9 May Boban Josip Manoli? Tu?man's aide a <e1> nd Radovan Karad?</e1> president of the self-procla <e2> imed Republika Sr </e2> pska secretly met in Graz and formed an agreement on the division of Bosnia and Herzegovina the Graz agreement . "
 per:employee_of(e1,e2)
 
 
@@ -9442,7 +9442,7 @@ org:country_of_headquarters(e2,e1)
 per:stateorprovinces_of_residence(e2,e1)
 
 
-20002	"Greatest Hits also titled <e1> Garth Brooks </e1> in . .  The Life of <e2> Chris Gaines </e2> is part of the alter ego project of American country music artist Garth Brooks in which Brooks assumes the fictitious persona of alternative rock artist Chris Gaines . "
+20002	"Greatest Hits also titled <e1> Garth Brooks </e1> in . . The Life of <e2> Chris Gaines </e2> is part of the alter ego project of American country music artist Garth Brooks in which Brooks assumes the fictitious persona of alternative rock artist Chris Gaines . "
 per:alternate_names(e2,e1)
 
 

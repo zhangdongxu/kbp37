@@ -1382,7 +1382,7 @@ org:members(e2,e1)
 org:stateorprovince_of_headquarters(e1,e2)
 
 
-16263	"The <e1> Institute for Cognitive Science Studies </e1> ( ICSS ) ( Persian :    ) is a non-governmen <e2> tal ins </e2> titution in Tehran Iran committed to providing a research and educational environment that brings together the various disciplines that contribute to cognitive sciences . "
+16263	"The <e1> Institute for Cognitive Science Studies </e1> ( ICSS ) ( Persian : ) is a non-governmen <e2> tal ins </e2> titution in Tehran Iran committed to providing a research and educational environment that brings together the various disciplines that contribute to cognitive sciences . "
 org:city_of_headquarters(e1,e2)
 
 
@@ -2018,7 +2018,7 @@ per:stateorprovinces_of_residence(e1,e2)
 org:stateorprovince_of_headquarters(e1,e2)
 
 
-16422	"Reportedly bosses at <e1> Harvey </e1> <e2> Island </e2> Records label feared the avant-garde venture was commercial suicide despite it winning generally positive reviews : Entertainment Weekly opined This is ' deep ' music in every sense ; total immersion is recommended Musician reckoned The results are as engaging as they are disturbing . .  full of strange moves and unusual textures Logo felt it was thrillingly sinister while Q magazine praised its polecat scat and brooding rural blues adding that it felt more a series of themes and word paintings . "
+16422	"Reportedly bosses at <e1> Harvey </e1> <e2> Island </e2> Records label feared the avant-garde venture was commercial suicide despite it winning generally positive reviews : Entertainment Weekly opined This is ' deep ' music in every sense ; total immersion is recommended Musician reckoned The results are as engaging as they are disturbing . . full of strange moves and unusual textures Logo felt it was thrillingly sinister while Q magazine praised its polecat scat and brooding rural blues adding that it felt more a series of themes and word paintings . "
 per:employee_of(e1,e2)
 
 
@@ -2558,7 +2558,7 @@ per:spouse(e2,e1)
 per:employee_of(e1,e2)
 
 
-16557	"Nakatani (   Nakatani Gen born October 14 1957 ) is a Japanese politician who served as head <e1> of the </e1> Japan Defense Agency in the first cabi <e2> net of Junichiro K </e2> oizumi . "
+16557	"Nakatani ( Nakatani Gen born October 14 1957 ) is a Japanese politician who served as head <e1> of the </e1> Japan Defense Agency in the first cabi <e2> net of Junichiro K </e2> oizumi . "
 per:employee_of(e2,e1)
 
 
@@ -3618,7 +3618,7 @@ per:employee_of(e1,e2)
 no_relation
 
 
-16822	"School of Medicine <e1> Shanghai Jiao Tong University </e1> ( Chinese :  ) is a public medical school <e2> in Sh </e2> anghai China . "
+16822	"School of Medicine <e1> Shanghai Jiao Tong University </e1> ( Chinese : ) is a public medical school <e2> in Sh </e2> anghai China . "
 org:country_of_headquarters(e1,e2)
 
 
@@ -5590,7 +5590,7 @@ per:countries_of_residence(e1,e2)
 per:employee_of(e1,e2)
 
 
-17315	"<e1> Dongfeng </e1> Honda Automobile Co. Ltd. (  ) is an automobile manufacturing company headquartered in Wuhan China and a 50:50 j <e2> oint-venture between Dongfe </e2> ng Motor Corporation and Honda Motor Company . "
+17315	"<e1> Dongfeng </e1> Honda Automobile Co. Ltd. ( ) is an automobile manufacturing company headquartered in Wuhan China and a 50:50 j <e2> oint-venture between Dongfe </e2> ng Motor Corporation and Honda Motor Company . "
 org:subsidiaries(e2,e1)
 
 
@@ -6406,7 +6406,7 @@ per:title(e2,e1)
 per:countries_of_residence(e1,e2)
 
 
-17519	"Egyptian sha ' b (  ) is a category of popular class music that can be described as urbanized folk music.Meet the Press - NBC News Sunday May 15 2005 G <e1> uests : Ahme </e1> d Nazi <e2> f Prime M </e2> inister of Egypt David Broder Washington Post Paul Gigot The Wall Street Journal Katty Kay BBC Eugene Robinson Washington Post Moderator : Tim Russert NBC News In 2000 Sha ' bn's breakthrough song Ana Bakrah Israel ( I Hate Israel ) accompanied by the catchy refrain But I Love Amr Moussa caused a great deal of controversy and many were surprised that it passed Egyptian censors . "
+17519	"Egyptian sha ' b ( ) is a category of popular class music that can be described as urbanized folk music.Meet the Press - NBC News Sunday May 15 2005 G <e1> uests : Ahme </e1> d Nazi <e2> f Prime M </e2> inister of Egypt David Broder Washington Post Paul Gigot The Wall Street Journal Katty Kay BBC Eugene Robinson Washington Post Moderator : Tim Russert NBC News In 2000 Sha ' bn's breakthrough song Ana Bakrah Israel ( I Hate Israel ) accompanied by the catchy refrain But I Love Amr Moussa caused a great deal of controversy and many were surprised that it passed Egyptian censors . "
 per:title(e1,e2)
 
 
