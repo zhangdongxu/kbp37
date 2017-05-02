@@ -274,7 +274,7 @@ no_relation
 no_relation
 
 
-15986	"How the Bolshevik-Leninist Group of Romania was Founded ( with introduction ) at the Marxists Internet Archive ; retrieved July 19 2007 Stelian Tănase Dej - omul resentimentului in Magazin Istoric January 2002 ; retrieved July 19 2007 In July 1933 alongsid <e1> e Gheorghe Gheorghiu-De </e1> j Constantin Doncea and other PCR activists he was brought to trial in front of <e2> a Buchares </e2> t court for his part in convening the Griviţa Strike and ultimately sentenced to 18 months in jail .."
+15986	"How the Bolshevik-Leninist Group of Romania was Founded ( with introduction ) at the Marxists Internet Archive ; retrieved July 19 2007 Stelian T?nase Dej - omul resentimentului in Magazin Istoric January 2002 ; retrieved July 19 2007 In July 1933 alongsid <e1> e Gheorghe Gheorghiu-De </e1> j Constantin Doncea and other PCR activists he was brought to trial in front of <e2> a Buchares </e2> t court for his part in convening the Grivi?a Strike and ultimately sentenced to 18 months in jail .."
 no_relation
 
 
@@ -670,7 +670,7 @@ no_relation
 org:subsidiaries(e1,e2)
 
 
-16085	"<e1> Tommy Thompson </e1> served as President Bush s Secretary o <e2> f Health and Human Service </e2> s from January 2001 to 2005 .."
+16085	"<e1> Tommy Thompson </e1> served as President Bush ?s Secretary o <e2> f Health and Human Service </e2> s from January 2001 to 2005 .."
 per:employee_of(e1,e2)
 
 
@@ -1094,7 +1094,7 @@ org:stateorprovince_of_headquarters(e1,e2)
 org:stateorprovince_of_headquarters(e2,e1)
 
 
-16191	"On August 31 2007 Iringh's daughter Bogusława Iringh accepted in her father's name the decoration of the Order of ( ) second class bestowed upon him posthumously by the President <e1> of Slova </e1> <e2> kia Ivan </e2> vič .."
+16191	"On August 31 2007 Iringh's daughter Bogus?awa Iringh accepted in her father's name the decoration of the Order of ( ) second class bestowed upon him posthumously by the President <e1> of Slova </e1> <e2> kia Ivan </e2> vi? .."
 no_relation
 
 
@@ -1382,7 +1382,7 @@ org:members(e2,e1)
 org:stateorprovince_of_headquarters(e1,e2)
 
 
-16263	"The <e1> Institute for Cognitive Science Studies </e1> ( ICSS ) ( Persian : پژوهشکده علوم شناختی ) is a non-governmen <e2> tal ins </e2> titution in Tehran Iran committed to providing a research and educational environment that brings together the various disciplines that contribute to cognitive sciences .."
+16263	"The <e1> Institute for Cognitive Science Studies </e1> ( ICSS ) ( Persian : ???????? ???? ?????? ) is a non-governmen <e2> tal ins </e2> titution in Tehran Iran committed to providing a research and educational environment that brings together the various disciplines that contribute to cognitive sciences .."
 org:city_of_headquarters(e1,e2)
 
 
@@ -2138,7 +2138,7 @@ per:countries_of_residence(e2,e1)
 per:stateorprovinces_of_residence(e1,e2)
 
 
-16452	"Japan News Review - Upper House election campaigning sees official kick offAbe has high hopes for Diet session | The <e1> Japan </e1> Times Online This was the only time Prime Minister <e2> Shinzō Ab </e2> e had faced an election .."
+16452	"Japan News Review - Upper House election campaigning sees official kick offAbe has high hopes for Diet session | The <e1> Japan </e1> Times Online This was the only time Prime Minister <e2> Shinz Ab </e2> e had faced an election .."
 per:employee_of(e2,e1)
 
 
@@ -2334,7 +2334,7 @@ per:employee_of(e2,e1)
 per:title(e2,e1)
 
 
-16501	"Kan was the first Prime Minister of <e1> Japan </e1> since the resignation of Junichiro Koizumi in 2006 to serve for more than 1 year with predecessors Yukio Hatoyama Tarō Asō <e2> 4; Yasuo Fuku </e2> da and Shinzō Abe either resigning prematurely or losing an election .."
+16501	"Kan was the first Prime Minister of <e1> Japan </e1> since the resignation of Junichiro Koizumi in 2006 to serve for more than 1 year with predecessors Yukio Hatoyama Tar As <e2> 4; Yasuo Fuku </e2> da and Shinz Abe either resigning prematurely or losing an election .."
 per:countries_of_residence(e2,e1)
 
 
@@ -2558,7 +2558,7 @@ per:spouse(e2,e1)
 per:employee_of(e1,e2)
 
 
-16557	"Nakatani ( 中谷 元 Nakatani Gen born October 14 1957 ) is a Japanese politician who served as head <e1> of the </e1> Japan Defense Agency in the first cabi <e2> net of Junichiro K </e2> oizumi .."
+16557	"Nakatani (   Nakatani Gen born October 14 1957 ) is a Japanese politician who served as head <e1> of the </e1> Japan Defense Agency in the first cabi <e2> net of Junichiro K </e2> oizumi .."
 per:employee_of(e2,e1)
 
 
@@ -2870,7 +2870,7 @@ org:city_of_headquarters(e1,e2)
 org:alternate_names(e2,e1)
 
 
-16635	"Addressing a Press conference at the Karachi Press Club on January 15 2006 Nawab <e1> Akbar Bugti </e1> the chief of the <e2> Jamhoori Watan Party </e2> ( JWP ) of Balochistan and the legendary leader of the Bugti tribe said that he would welcome the United Nations if the world body played a role against what he called  the genocide in Balochistan  .."
+16635	"Addressing a Press conference at the Karachi Press Club on January 15 2006 Nawab <e1> Akbar Bugti </e1> the chief of the <e2> Jamhoori Watan Party </e2> ( JWP ) of Balochistan and the legendary leader of the Bugti tribe said that he would welcome the United Nations if the world body played a role against what he called ? the genocide in Balochistan ? .."
 per:employee_of(e1,e2)
 
 
@@ -3034,7 +3034,7 @@ per:title(e2,e1)
 no_relation
 
 
-16676	"Many of its personnel such as Chiefs of Staff Seishirō Itagaki an <e1> d Hideki Tō </e1> jō were promoted to high positions in both the military and civil government in the Empire <e2> of Ja </e2> pan and it was largely responsible for the creation of the Japanese-dominated Empire of Manchukuo .."
+16676	"Many of its personnel such as Chiefs of Staff Seishir Itagaki an <e1> d Hideki T </e1> j were promoted to high positions in both the military and civil government in the Empire <e2> of Ja </e2> pan and it was largely responsible for the creation of the Japanese-dominated Empire of Manchukuo .."
 per:countries_of_residence(e1,e2)
 
 
@@ -3618,7 +3618,7 @@ per:employee_of(e1,e2)
 no_relation
 
 
-16822	"School of Medicine <e1> Shanghai Jiao Tong University </e1> ( Chinese : 上海交通大学医学院 ) is a public medical school <e2> in Sh </e2> anghai China .."
+16822	"School of Medicine <e1> Shanghai Jiao Tong University </e1> ( Chinese :  ) is a public medical school <e2> in Sh </e2> anghai China .."
 org:country_of_headquarters(e1,e2)
 
 
@@ -3886,7 +3886,7 @@ per:employee_of(e1,e2)
 org:top_members/employees(e1,e2)
 
 
-16889	"Pejčinović was former captain <e1> of Serbian Superli </e1> ga club FK R <e2> ad Belgra </e2> de .."
+16889	"Pej?inovi? was former captain <e1> of Serbian Superli </e1> ga club FK R <e2> ad Belgra </e2> de .."
 org:city_of_headquarters(e1,e2)
 
 
@@ -4370,7 +4370,7 @@ org:members(e1,e2)
 org:top_members/employees(e1,e2)
 
 
-17010	"In 2003 Nasu was brought to the attention of animator and director Kitarō Kōsaka by Kōsaka's long-time collaborator f <e1> rom Studio Ghi </e1> bli <e2> 44; Hayao Miyaz </e2> aki a fan of cycling himself .."
+17010	"In 2003 Nasu was brought to the attention of animator and director Kitar Ksaka by Ksaka's long-time collaborator f <e1> rom Studio Ghi </e1> bli <e2> 44; Hayao Miyaz </e2> aki a fan of cycling himself .."
 org:top_members/employees(e1,e2)
 
 
@@ -4890,7 +4890,7 @@ per:spouse(e2,e1)
 org:city_of_headquarters(e1,e2)
 
 
-17140	"<e1> Pui Ching Middle School </e1> ( Chinese : 香港培正中學 ) is a Baptist secondary school in Ho M <e2> an Tin </e2> #44; Kowloon Hong Kong .."
+17140	"<e1> Pui Ching Middle School </e1> ( Chinese : W ) is a Baptist secondary school in Ho M <e2> an Tin </e2> #44; Kowloon Hong Kong .."
 org:city_of_headquarters(e1,e2)
 
 
@@ -5390,7 +5390,7 @@ per:employee_of(e1,e2)
 org:founded_by(e1,e2)
 
 
-17265	"The anti-Semitic policies of Adolf Hitler's Nazi Germany were refused when foreign minister of <e1> Japan </e1> <e2> Yōsuke Matsuok </e2> a stated that : Nowhere have I promised that we would carry out his anti-Semitic policies in Japan .."
+17265	"The anti-Semitic policies of Adolf Hitler's Nazi Germany were refused when foreign minister of <e1> Japan </e1> <e2> Ysuke Matsuok </e2> a stated that : Nowhere have I promised that we would carry out his anti-Semitic policies in Japan .."
 per:countries_of_residence(e2,e1)
 
 
@@ -5590,7 +5590,7 @@ per:countries_of_residence(e1,e2)
 per:employee_of(e1,e2)
 
 
-17315	"<e1> Dongfeng </e1> Honda Automobile Co. Ltd. ( 东风本田汽车有限公司 ) is an automobile manufacturing company headquartered in Wuhan China and a 50:50 j <e2> oint-venture between Dongfe </e2> ng Motor Corporation and Honda Motor Company .."
+17315	"<e1> Dongfeng </e1> Honda Automobile Co. Ltd. (  ) is an automobile manufacturing company headquartered in Wuhan China and a 50:50 j <e2> oint-venture between Dongfe </e2> ng Motor Corporation and Honda Motor Company .."
 org:subsidiaries(e2,e1)
 
 
@@ -6042,7 +6042,7 @@ org:top_members/employees(e2,e1)
 per:spouse(e2,e1)
 
 
-17428	"He met Joseph Stalin in Russia and after introducing the lamp in <e1> Japan </e1> <e2> Emperor Taish� </e2> � bestowed upon him the Order of the Rising Sun .."
+17428	"He met Joseph Stalin in Russia and after introducing the lamp in <e1> Japan </e1> <e2> Emperor Taish?</e2> ?bestowed upon him the Order of the Rising Sun .."
 per:employee_of(e2,e1)
 
 
@@ -6406,7 +6406,7 @@ per:title(e2,e1)
 per:countries_of_residence(e1,e2)
 
 
-17519	"Egyptian sha ' bī ( الشعبي ) is a category of popular class music that can be described as urbanized folk music.Meet the Press - NBC News Sunday May 15 2005 G <e1> uests : Ahme </e1> d Nazi <e2> f Prime M </e2> inister of Egypt David Broder Washington Post Paul Gigot The Wall Street Journal Katty Kay BBC Eugene Robinson Washington Post Moderator : Tim Russert NBC News In 2000 Sha ' bān's breakthrough song Ana Bakrah Israel ( I Hate Israel ) accompanied by the catchy refrain But I Love Amr Moussa caused a great deal of controversy and many were surprised that it passed Egyptian censors .."
+17519	"Egyptian sha ' b ( ?????? ) is a category of popular class music that can be described as urbanized folk music.Meet the Press - NBC News Sunday May 15 2005 G <e1> uests : Ahme </e1> d Nazi <e2> f Prime M </e2> inister of Egypt David Broder Washington Post Paul Gigot The Wall Street Journal Katty Kay BBC Eugene Robinson Washington Post Moderator : Tim Russert NBC News In 2000 Sha ' bn's breakthrough song Ana Bakrah Israel ( I Hate Israel ) accompanied by the catchy refrain But I Love Amr Moussa caused a great deal of controversy and many were surprised that it passed Egyptian censors .."
 per:title(e1,e2)
 
 
@@ -6462,7 +6462,7 @@ per:cities_of_residence(e1,e2)
 per:countries_of_residence(e1,e2)
 
 
-17533	"The Kim museum is a museum of the childhood home of <e1> Ho Chi Minh </e1> in Sen Kim village Nam district Nghệ An Province <e2> 44; Viet </e2> nam .."
+17533	"The Kim museum is a museum of the childhood home of <e1> Ho Chi Minh </e1> in Sen Kim village Nam district Ngh? An Province <e2> 44; Viet </e2> nam .."
 per:countries_of_residence(e1,e2)
 
 
@@ -6490,7 +6490,7 @@ org:founded_by(e1,e2)
 per:countries_of_residence(e1,e2)
 
 
-17540	"The first president of newly independent <e1> Slovakia </e1> <e2> Michal </e2> � promised to make Slovakia the Switzerland of Eastern Europe .."
+17540	"The first president of newly independent <e1> Slovakia </e1> <e2> Michal </e2> ?promised to make Slovakia the Switzerland of Eastern Europe .."
 per:employee_of(e2,e1)
 
 

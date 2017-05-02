@@ -90,7 +90,7 @@ org:alternate_names(e2,e1)
 per:cities_of_residence(e2,e1)
 
 
-17664	"Presidential Palace Historical Site ( Vietnamese : Khu di Phủ Chủ tịch ) which is located in Hanoi <e1> V </e1> ietnam is the place <e2> where Ho Ch </e2> i Minh lived and worked in most of his revolutionary life ( from December 19 1954 to September 2 1969 ) .."
+17664	"Presidential Palace Historical Site ( Vietnamese : Khu di Ph? Ch? t?ch ) which is located in Hanoi <e1> V </e1> ietnam is the place <e2> where Ho Ch </e2> i Minh lived and worked in most of his revolutionary life ( from December 19 1954 to September 2 1969 ) .."
 per:cities_of_residence(e2,e1)
 
 
@@ -298,7 +298,7 @@ no_relation
 org:subsidiaries(e1,e2)
 
 
-17716	"<e1> Phạm </e1> ;n ( born February 14 1947 ) is a retir <e2> ed Vietn </e2> am Air Force aviator .."
+17716	"<e1> Ph?m </e1> ;n ( born February 14 1947 ) is a retir <e2> ed Vietn </e2> am Air Force aviator .."
 per:employee_of(e1,e2)
 
 
@@ -1078,7 +1078,7 @@ org:subsidiaries(e1,e2)
 org:subsidiaries(e1,e2)
 
 
-17911	"jpg | Italy Romano Prodi Prime Minister File : Hashimoto Ryūtarō.jpg <e1> | Jap </e1> <e2> an Ryutaro Hashimo </e2> to Prime Minister File : John Major October 2007 .."
+17911	"jpg | Italy Romano Prodi Prime Minister File : Hashimoto Rytar.jpg <e1> | Jap </e1> <e2> an Ryutaro Hashimo </e2> to Prime Minister File : John Major October 2007 .."
 per:employee_of(e2,e1)
 
 
@@ -1102,7 +1102,7 @@ per:cities_of_residence(e2,e1)
 per:employee_of(e1,e2)
 
 
-17917	"Oda Nobunaga was well on his way to the complete conquest and unification of <e1> Japan </e1> when Akechi Mitsuhide one of his generals forced Nobunaga into committing suicide in Honnō-ji i <e2> n Kyot </e2> o .."
+17917	"Oda Nobunaga was well on his way to the complete conquest and unification of <e1> Japan </e1> when Akechi Mitsuhide one of his generals forced Nobunaga into committing suicide in Honn-ji i <e2> n Kyot </e2> o .."
 per:countries_of_residence(e2,e1)
 
 
@@ -1170,7 +1170,7 @@ per:employee_of(e1,e2)
 per:alternate_names(e2,e1)
 
 
-17934	" Last year <e1> ; Punja </e1> b Chief Ministe <e2> r Amarinder Sing </e2> h signed a bill cancelling the agreements that allowed the diversion of Punjabi water to non-riparian states .."
+17934	"? Last year <e1> ; Punja </e1> b Chief Ministe <e2> r Amarinder Sing </e2> h signed a bill cancelling the agreements that allowed the diversion of Punjabi water to non-riparian states .."
 per:employee_of(e2,e1)
 
 
@@ -1230,7 +1230,7 @@ per:origin(e1,e2)
 org:subsidiaries(e2,e1)
 
 
-17949	"Byzantine <e1> Emperor </e1> <e2> Michael VIII Palaiologos </e2> who had just recaptured Constantinople ( modern İstanbul ) from the Latin Empire was a relative of İzzettin .."
+17949	"Byzantine <e1> Emperor </e1> <e2> Michael VIII Palaiologos </e2> who had just recaptured Constantinople ( modern ?stanbul ) from the Latin Empire was a relative of ?zzettin .."
 per:title(e2,e1)
 
 
@@ -1318,7 +1318,7 @@ per:countries_of_residence(e1,e2)
 org:stateorprovince_of_headquarters(e2,e1)
 
 
-17971	"The <e1> Department of Building and Housing </e1> ( Te Tari Kaupapa Whare in Māori ) previously the Ministry of Housing was a government agency within th <e2> e New Zealan </e2> d government .."
+17971	"The <e1> Department of Building and Housing </e1> ( Te Tari Kaupapa Whare in Mori ) previously the Ministry of Housing was a government agency within th <e2> e New Zealan </e2> d government .."
 org:country_of_headquarters(e1,e2)
 
 
@@ -1418,7 +1418,7 @@ per:employee_of(e2,e1)
 org:city_of_headquarters(e1,e2)
 
 
-17996	"The National Socialists 21st Century Left ( NS-LEV 21 ) also known as Left 21 ( ) is a centre-left political party in the <e1> Czech Republic </e1> founded in October 2011 by <e2> Paroube </e2> k former Prime Minister and former leader of the Czech Social Democratic Party ( ČSSD ) .."
+17996	"The National Socialists 21st Century Left ( NS-LEV 21 ) also known as Left 21 ( ) is a centre-left political party in the <e1> Czech Republic </e1> founded in October 2011 by <e2> Paroube </e2> k former Prime Minister and former leader of the Czech Social Democratic Party ( ?SSD ) .."
 per:countries_of_residence(e2,e1)
 
 
@@ -1446,7 +1446,7 @@ per:alternate_names(e2,e1)
 per:employee_of(e1,e2)
 
 
-18003	"President Bush's celebrated arrival to Slovakia marking the first time a sitting President of the United States visited <e1> Slovakia </e1> was greeted by Slovakian Prime Minister Dzurinda and President <e2> Ivan </e2> � .."
+18003	"President Bush's celebrated arrival to Slovakia marking the first time a sitting President of the United States visited <e1> Slovakia </e1> was greeted by Slovakian Prime Minister Dzurinda and President <e2> Ivan </e2> ?.."
 per:countries_of_residence(e2,e1)
 
 
@@ -1462,7 +1462,7 @@ per:countries_of_residence(e1,e2)
 per:countries_of_residence(e2,e1)
 
 
-18007	"Among them were Teddy Robin The Playboys Felicia Wong ( 王愛明 ) in Hong Kong Tracy Huang ( 黃鶯鶯 ) in Taiwan Ervinna Zhuang Xue Fang ( 莊雪芳 ) ( in edited Standard Chinese lyrics under title name of 雨聲 ) <e1> in Singapore </e1> 44; <e2> and Sinn </e2> Sisamouth in Cambodia .."
+18007	"Among them were Teddy Robin The Playboys Felicia Wong (  ) in Hong Kong Tracy Huang (  ) in Taiwan Ervinna Zhuang Xue Fang (  ) ( in edited Standard Chinese lyrics under title name of  ) <e1> in Singapore </e1> 44; <e2> and Sinn </e2> Sisamouth in Cambodia .."
 per:countries_of_residence(e1,e2)
 
 
@@ -1554,7 +1554,7 @@ per:spouse(e2,e1)
 per:employee_of(e1,e2)
 
 
-18030	"Because two directly elected Municipal Mayors of <e1> Taipei </e1> <e2> Chen Shui-bian </e2> and Ma Ying-jeou were elected the President of the Republic of China in 2000 and 2008 respectively the position has been widely speculated to be a first-step towards the Presidential Office.台北市長的好處 ， 中時電子報 Having been under the administration of the Kuomintang for the past twelve years Taipei is commonly considered to be solidly in the Pan-Blue political camp .."
+18030	"Because two directly elected Municipal Mayors of <e1> Taipei </e1> <e2> Chen Shui-bian </e2> and Ma Ying-jeou were elected the President of the Republic of China in 2000 and 2008 respectively the position has been widely speculated to be a first-step towards the Presidential Office.   Having been under the administration of the Kuomintang for the past twelve years Taipei is commonly considered to be solidly in the Pan-Blue political camp .."
 per:cities_of_residence(e2,e1)
 
 
@@ -1610,7 +1610,7 @@ org:country_of_headquarters(e1,e2)
 per:cities_of_residence(e1,e2)
 
 
-18044	"His next book Tojo and the Coming of the War was a biography of <e1> Hideki Tōj </e1> ō the prime minister <e2> of Jap </e2> an during most of World War II .."
+18044	"His next book Tojo and the Coming of the War was a biography of <e1> Hideki Tj </e1>  the prime minister <e2> of Jap </e2> an during most of World War II .."
 per:employee_of(e1,e2)
 
 
@@ -1914,7 +1914,7 @@ org:stateorprovince_of_headquarters(e1,e2)
 org:top_members/employees(e2,e1)
 
 
-18120	"His film credits include Emperor Hirohito in <e1> Japan </e1> 's Longest Day ( 日本のいちばん長い日 Nihon no ichiban nagai hi ) i <e2> n which famous </e2> actor Toshirō Mifune played General Korechika Anami Ii Naosuke in Samurai Assassin ( 侍 Samurai ) and a number of other jidaigeki ( samurai period films ) .."
+18120	"His film credits include Emperor Hirohito in <e1> Japan </e1> 's Longest Day (  Nihon no ichiban nagai hi ) i <e2> n which famous </e2> actor Toshir Mifune played General Korechika Anami Ii Naosuke in Samurai Assassin (  Samurai ) and a number of other jidaigeki ( samurai period films ) .."
 per:countries_of_residence(e2,e1)
 
 
@@ -1998,7 +1998,7 @@ per:origin(e1,e2)
 org:founded_by(e2,e1)
 
 
-18141	"Nenad Begović ( born January 6 1980 ) is a Serbian football player who currently plays fo <e1> r FK Zemu </e1> n in th <e2> e Serbian League Belgrad </e2> e .."
+18141	"Nenad Begovi? ( born January 6 1980 ) is a Serbian football player who currently plays fo <e1> r FK Zemu </e1> n in th <e2> e Serbian League Belgrad </e2> e .."
 org:subsidiaries(e2,e1)
 
 
@@ -2022,7 +2022,7 @@ per:alternate_names(e1,e2)
 per:cities_of_residence(e1,e2)
 
 
-18147	"They said what the president had been saying throughout was that an understanding was possible with the Pakistan People s Party ( PPP ) and th <e1> e Pakista </e1> n Muslim League-Nawaz ( PML-N ) but without Benazir an <e2> d Nawa </e2> z in the driving seat .."
+18147	"They said what the president had been saying throughout was that an understanding was possible with the Pakistan People ?s Party ( PPP ) and th <e1> e Pakista </e1> n Muslim League-Nawaz ( PML-N ) but without Benazir an <e2> d Nawa </e2> z in the driving seat .."
 per:countries_of_residence(e2,e1)
 
 
@@ -2570,7 +2570,7 @@ no_relation
 org:members(e2,e1)
 
 
-18284	"The Syrian Islamic Front ( al-Jabhah al-Islāmiyya as-Sūriyyah ) is a Salafist umbrella organisation of Islamist rebel groups actively fighting t <e1> he Bashar al-Ass </e1> ad government <e2> in Syr </e2> ia during the Syrian civil war .."
+18284	"The Syrian Islamic Front ( al-Jabhah al-Islmiyya as-Sriyyah ) is a Salafist umbrella organisation of Islamist rebel groups actively fighting t <e1> he Bashar al-Ass </e1> ad government <e2> in Syr </e2> ia during the Syrian civil war .."
 per:country_of_birth(e1,e2)
 
 
@@ -2750,7 +2750,7 @@ per:origin(e2,e1)
 per:cities_of_residence(e1,e2)
 
 
-18329	"While working in Water Research Institute of ČKD Dukla corp. <e1> ; h </e1> e started external doctor course at Department of Heat Engineering <e2> ; Institute of Chemical Technology in Pragu </e2> e .."
+18329	"While working in Water Research Institute of ?KD Dukla corp. <e1> ; h </e1> e started external doctor course at Department of Heat Engineering <e2> ; Institute of Chemical Technology in Pragu </e2> e .."
 per:employee_of(e1,e2)
 
 
@@ -3266,7 +3266,7 @@ per:countries_of_residence(e1,e2)
 per:cities_of_residence(e1,e2)
 
 
-18458	"The first of these was Otpor http://en.wikipedia.org/wiki/Otpor ( Resistance ) in <e1> Serbia </e1> which was founded at Belgrade University http://en.wikipedia.org/wiki/Belgrade_University in October 1998 and began protesting against <e2> </e2> � during the Kosovo War http://en.wikipedia.org/wiki/Kosovo_War .."
+18458	"The first of these was Otpor http://en.wikipedia.org/wiki/Otpor ( Resistance ) in <e1> Serbia </e1> which was founded at Belgrade University http://en.wikipedia.org/wiki/Belgrade_University in October 1998 and began protesting against <e2> </e2> ?during the Kosovo War http://en.wikipedia.org/wiki/Kosovo_War .."
 per:countries_of_residence(e2,e1)
 
 
@@ -3438,7 +3438,7 @@ per:countries_of_residence(e1,e2)
 per:cities_of_residence(e1,e2)
 
 
-18501	"Ky Fan ( 樊20px September 19 1914 March 22 2010 ) was an American mathematician and Emeritus Professor of Mathematics at t <e1> he University of Californ </e1> ia Santa Barbara <e2> ( UC </e2> SB ) .."
+18501	"Ky Fan ( 20px September 19 1914 March 22 2010 ) was an American mathematician and Emeritus Professor of Mathematics at t <e1> he University of Californ </e1> ia Santa Barbara <e2> ( UC </e2> SB ) .."
 org:subsidiaries(e1,e2)
 
 
@@ -3566,7 +3566,7 @@ per:cities_of_residence(e2,e1)
 per:employee_of(e2,e1)
 
 
-18533	"Their intro : ----- Chinese Name : 刘冰 <e1> #44; Eng </e1> lish Name ： Bing occupation : Software Engineer Com <e2> pany : beco </e2> me.com live in mountain view referred by tanping wang greeting : ..... ..... ..... .."
+18533	"Their intro : ----- Chinese Name :  <e1> #44; Eng </e1> lish Name  Bing occupation : Software Engineer Com <e2> pany : beco </e2> me.com live in mountain view referred by tanping wang greeting : ..... ..... ..... .."
 no_relation
 
 
@@ -3678,7 +3678,7 @@ per:employee_of(e1,e2)
 org:stateorprovince_of_headquarters(e1,e2)
 
 
-18561	"After returning home he was appointing by King <e1> Władysław IV Va </e1> sa Grand Master of the Pantry <e2> of Lithuan </e2> ia fulfilling this office he signed the document electing John II Casimir Vasa .."
+18561	"After returning home he was appointing by King <e1> W?adys?aw IV Va </e1> sa Grand Master of the Pantry <e2> of Lithuan </e2> ia fulfilling this office he signed the document electing John II Casimir Vasa .."
 per:employee_of(e1,e2)
 
 
@@ -4026,7 +4026,7 @@ per:country_of_birth(e1,e2)
 per:employee_of(e1,e2)
 
 
-18648	"2012 line up included Armin Van Buuren ( Leiden Netherlands ) Tiesto ( Berda Netherlands ) <e1> Carl Cox </e1> ( Oldham <e2> England </e2> ) Josh Wink ( Philladephia USA ) Skrillex ( Los Angeles USA ) Rusko ( Wheldrake England ) DJ URI ( Boston USA ) Benny Benassi ( Reggio Emilia Italy ) Vika Jugulina ( Timișoara Romania ) and many many more .."
+18648	"2012 line up included Armin Van Buuren ( Leiden Netherlands ) Tiesto ( Berda Netherlands ) <e1> Carl Cox </e1> ( Oldham <e2> England </e2> ) Josh Wink ( Philladephia USA ) Skrillex ( Los Angeles USA ) Rusko ( Wheldrake England ) DJ URI ( Boston USA ) Benny Benassi ( Reggio Emilia Italy ) Vika Jugulina ( Timi?oara Romania ) and many many more .."
 per:countries_of_residence(e1,e2)
 
 
@@ -4074,7 +4074,7 @@ per:employee_of(e2,e1)
 per:employee_of(e2,e1)
 
 
-18660	"Debra Meiburg was a Professor of Wine at the School of Hospitality and Service Management Rochester Institute of Technology.Sydney International Wine Competition Debra Meiburg MW ( <e1> Hong Kong </e1> ) Current wine education positions in Hong Kong include External Examiner of the Professional Diploma in Wine Assessment and Service at the <e2> Open University of Hong Kong </e2> ( traditional Chinese : 香港公開大學 ) and Assistant Training Consultant Hong Kong Institute of Vocational Education ( IVE ) ( traditional Chinese : 香港專業教育學院 ) .."
+18660	"Debra Meiburg was a Professor of Wine at the School of Hospitality and Service Management Rochester Institute of Technology.Sydney International Wine Competition Debra Meiburg MW ( <e1> Hong Kong </e1> ) Current wine education positions in Hong Kong include External Examiner of the Professional Diploma in Wine Assessment and Service at the <e2> Open University of Hong Kong </e2> ( traditional Chinese :  ) and Assistant Training Consultant Hong Kong Institute of Vocational Education ( IVE ) ( traditional Chinese :  ) .."
 org:city_of_headquarters(e2,e1)
 
 
@@ -4126,7 +4126,7 @@ per:origin(e1,e2)
 org:city_of_headquarters(e1,e2)
 
 
-18673	"He was the eldest son of the king of <e1> Poland </e1> <e2> Bolesław II the Bol </e2> d and his wife Wyszeslawa .."
+18673	"He was the eldest son of the king of <e1> Poland </e1> <e2> Boles?aw II the Bol </e2> d and his wife Wyszeslawa .."
 per:countries_of_residence(e2,e1)
 
 
@@ -4298,7 +4298,7 @@ org:alternate_names(e2,e1)
 per:employee_of(e1,e2)
 
 
-18716	"China Overseas Land and Investment Limited ( ) ( Traditional Chinese : 中國海外發展有限公司 Simplified Chinese : 中� <e1> �海� </e1> �发展有限公司 ) China Overseas or COLI <e2> uot; in short form and the subsidiary of China St </e2> ate Construction Engineering Corporation was incorporated in Hong Kong in June 1979 .."
+18716	"China Overseas Land and Investment Limited ( ) ( Traditional Chinese :  Simplified Chinese : <e1> ??</e1> ?? ) China Overseas or COLI <e2> uot; in short form and the subsidiary of China St </e2> ate Construction Engineering Corporation was incorporated in Hong Kong in June 1979 .."
 org:country_of_headquarters(e2,e1)
 
 
@@ -4394,7 +4394,7 @@ per:employee_of(e1,e2)
 per:alternate_names(e2,e1)
 
 
-18740	"After his return to <e1> Japan </e1> he served in various political capacities including president of the Genrōin advisor to Emperor Meiji ( and late <e2> r Emperor Taish </e2> ō ) and as a member of the House of Peers .."
+18740	"After his return to <e1> Japan </e1> he served in various political capacities including president of the Genrin advisor to Emperor Meiji ( and late <e2> r Emperor Taish </e2>  ) and as a member of the House of Peers .."
 per:countries_of_residence(e2,e1)
 
 
@@ -5046,7 +5046,7 @@ per:title(e1,e2)
 org:founded(e1,e2)
 
 
-18903	"The series began as a short story in the February 1997 issue of <e1> Cobalt </e1> a shōjo fiction magazine published b <e2> y Shueish </e2> a .."
+18903	"The series began as a short story in the February 1997 issue of <e1> Cobalt </e1> a shjo fiction magazine published b <e2> y Shueish </e2> a .."
 org:founded_by(e1,e2)
 
 
@@ -5478,7 +5478,7 @@ org:country_of_headquarters(e2,e1)
 org:members(e2,e1)
 
 
-19011	"The Singapore Examinations and Assessment Board ( Abbreviation : SEAB ; Chinese : 新加坡考试与评鉴局 ; Malay : Lembaga Peperiksaan Singapura ) was established on 1 April 2004 as a statuto <e1> ry board under the Min </e1> is <e2> try </e2> of Education ( MOE ) of Singapore .."
+19011	"The Singapore Examinations and Assessment Board ( Abbreviation : SEAB ; Chinese :  ; Malay : Lembaga Peperiksaan Singapura ) was established on 1 April 2004 as a statuto <e1> ry board under the Min </e1> is <e2> try </e2> of Education ( MOE ) of Singapore .."
 org:alternate_names(e1,e2)
 
 
@@ -5946,7 +5946,7 @@ per:employee_of(e2,e1)
 org:subsidiaries(e2,e1)
 
 
-19128	"During the breakup of Yugoslavia <e1> Karadži </e1> ć as President of t <e2> he Republika Srps </e2> ka sought the direct unification of that entity with Serbia .."
+19128	"During the breakup of Yugoslavia <e1> Karad?i </e1> ? as President of t <e2> he Republika Srps </e2> ka sought the direct unification of that entity with Serbia .."
 per:employee_of(e1,e2)
 
 
@@ -6318,7 +6318,7 @@ org:city_of_headquarters(e2,e1)
 org:stateorprovince_of_headquarters(e1,e2)
 
 
-19221	"<e1> Albert Ho </e1> Chun-yan ( 何俊仁 ; Yale : Jeun ; born 1 December 1951 ) is currently secretary general <e2> of the Hon </e2> g Kong Alliance in Support of Patriotic Democratic Movements in China and was chairman of the Democratic Party from 2006 to 2012 .."
+19221	"<e1> Albert Ho </e1> Chun-yan (  ; Yale : Jeun ; born 1 December 1951 ) is currently secretary general <e2> of the Hon </e2> g Kong Alliance in Support of Patriotic Democratic Movements in China and was chairman of the Democratic Party from 2006 to 2012 .."
 per:employee_of(e1,e2)
 
 
@@ -6410,7 +6410,7 @@ per:cities_of_residence(e2,e1)
 org:city_of_headquarters(e1,e2)
 
 
-19244	"<e1> Ignat Bednarik </e1> exhibited for the first time in <e2> Romania </e2> in 1913 with Associaţia Artistică ; he subsequently took part in official salons and opened his first individual exhibition in Bucharest in 1915 .."
+19244	"<e1> Ignat Bednarik </e1> exhibited for the first time in <e2> Romania </e2> in 1913 with Associa?ia Artistic? ; he subsequently took part in official salons and opened his first individual exhibition in Bucharest in 1915 .."
 per:countries_of_residence(e1,e2)
 
 
@@ -6630,7 +6630,7 @@ no_relation
 per:countries_of_residence(e1,e2)
 
 
-19299	"On 4 March 2008 it was announced that together with singer <e1> Željko Joksimovi </e1> ć Jovana would co-host the 2008 Eurovision Song Contest <e2> in Belgra </e2> de which was held from 20 24 May 2008 in the Belgrade Arena .."
+19299	"On 4 March 2008 it was announced that together with singer <e1> ?eljko Joksimovi </e1> ? Jovana would co-host the 2008 Eurovision Song Contest <e2> in Belgra </e2> de which was held from 20 24 May 2008 in the Belgrade Arena .."
 per:cities_of_residence(e1,e2)
 
 
@@ -6754,7 +6754,7 @@ per:cities_of_residence(e1,e2)
 org:city_of_headquarters(e1,e2)
 
 
-19330	"In the early 1980's <e1> Yugoslav Railways </e1> have ordered number of passenger electric multiple unit trains for <e2> Belgrade </e2> Novi Sad Skoplje and Titograd sections ( ŽTP ) .."
+19330	"In the early 1980's <e1> Yugoslav Railways </e1> have ordered number of passenger electric multiple unit trains for <e2> Belgrade </e2> Novi Sad Skoplje and Titograd sections ( ?TP ) .."
 no_relation
 
 
@@ -6834,7 +6834,7 @@ org:alternate_names(e1,e2)
 org:founded_by(e1,e2)
 
 
-19350	"Starting with initial funding of CN to open a workshop for the production of bottle lids in Beijiao Shunde in <e1> 1968 </e1> He Xiangjian ( 何享健 ) the founder of the company has since <e2> turned </e2> Midea into one of the most successful private companies in China with sales revenue for the entire Group declared at US$ 22.2 billion for 2011 .."
+19350	"Starting with initial funding of CN to open a workshop for the production of bottle lids in Beijiao Shunde in <e1> 1968 </e1> He Xiangjian (  ) the founder of the company has since <e2> turned </e2> Midea into one of the most successful private companies in China with sales revenue for the entire Group declared at US$ 22.2 billion for 2011 .."
 org:founded(e2,e1)
 
 
@@ -7450,7 +7450,7 @@ org:country_of_headquarters(e1,e2)
 org:country_of_headquarters(e2,e1)
 
 
-19504	"The <e1> Bank of China </e1> ( Hong Kong ) Bauhinia Bowl Award ( 中銀香港紫荊盃 ) is the annual award to member secondary <e2> schools of </e2> the Hong Kong Island and Kowloon Secondary Schools Regional Committee Hong Kong Schools Sports Federation who qualify under the rules set out below .."
+19504	"The <e1> Bank of China </e1> ( Hong Kong ) Bauhinia Bowl Award (  ) is the annual award to member secondary <e2> schools of </e2> the Hong Kong Island and Kowloon Secondary Schools Regional Committee Hong Kong Schools Sports Federation who qualify under the rules set out below .."
 org:city_of_headquarters(e1,e2)
 
 
@@ -8090,7 +8090,7 @@ no_relation
 per:title(e2,e1)
 
 
-19664	"Since then the two have consulted and managed campaigns throughout Europe and the Middle East including the successful campaigns of Prime Minister of Israel Ariel Sharon Chancellor of Austria Alfred Gusenbauer Prime Minister of <e1> Bulgaria </e1> <e2> Sergey Stanishev </e2> Prime Minister of Romania Călin Popescu-Tăriceanu Prime Minister of Kosovo Hashim and President of Serbia Boris Tadic .."
+19664	"Since then the two have consulted and managed campaigns throughout Europe and the Middle East including the successful campaigns of Prime Minister of Israel Ariel Sharon Chancellor of Austria Alfred Gusenbauer Prime Minister of <e1> Bulgaria </e1> <e2> Sergey Stanishev </e2> Prime Minister of Romania C?lin Popescu-T?riceanu Prime Minister of Kosovo Hashim and President of Serbia Boris Tadic .."
 per:countries_of_residence(e2,e1)
 
 
@@ -8634,7 +8634,7 @@ org:alternate_names(e1,e2)
 org:city_of_headquarters(e1,e2)
 
 
-19800	"On 8 June 2006 it was established as a national park under Decision number 822/Q Đ-TTg dated 8 June 2006 by then Vice Prime Minister of the Government o <e1> f Vietna </e1> <e2> m Nguyễn Tấn </e2> Dũng .."
+19800	"On 8 June 2006 it was established as a national park under Decision number 822/Q ?-TTg dated 8 June 2006 by then Vice Prime Minister of the Government o <e1> f Vietna </e1> <e2> m Nguy?n T?n </e2> D?ng .."
 per:countries_of_residence(e2,e1)
 
 
@@ -8674,7 +8674,7 @@ per:stateorprovinces_of_residence(e1,e2)
 org:city_of_headquarters(e2,e1)
 
 
-19810	"North <e1> Chiang Mai University </e1> ( NCU ) ( มหาวิทยาลัยนอร์ท - เช <e2> ียง� </e2> �หม่ ) is a private university in Chiang Mai Thailand founded in 1999 .."
+19810	"North <e1> Chiang Mai University </e1> ( NCU ) ( ???????????????? - ?? <e2> ????</e2> ???? ) is a private university in Chiang Mai Thailand founded in 1999 .."
 org:city_of_headquarters(e1,e2)
 
 
@@ -9306,7 +9306,7 @@ org:subsidiaries(e2,e1)
 org:founded_by(e1,e2)
 
 
-19968	"On 9 May Boban Josip Manolić Tuđman's aide a <e1> nd Radovan Karad� </e1> �ić president of the self-procla <e2> imed Republika Sr </e2> pska secretly met in Graz and formed an agreement on the division of Bosnia and Herzegovina the Graz agreement .."
+19968	"On 9 May Boban Josip Manoli? Tu?man's aide a <e1> nd Radovan Karad?</e1> ?? president of the self-procla <e2> imed Republika Sr </e2> pska secretly met in Graz and formed an agreement on the division of Bosnia and Herzegovina the Graz agreement .."
 per:employee_of(e1,e2)
 
 
@@ -9870,7 +9870,7 @@ org:subsidiaries(e2,e1)
 org:members(e1,e2)
 
 
-20109	"Since 1929 the flagship campus of <e1> Kwansei Gakuin University </e1> is located in Nishinomiya <e2> Hyōg </e2> o .."
+20109	"Since 1929 the flagship campus of <e1> Kwansei Gakuin University </e1> is located in Nishinomiya <e2> Hyg </e2> o .."
 org:city_of_headquarters(e1,e2)
 
 
@@ -10274,7 +10274,7 @@ per:employee_of(e1,e2)
 org:alternate_names(e1,e2)
 
 
-20210	"Cvijić holds an undergraduate degree in Law from the University of Belgrade's Law School ( Serbia ) an MA in International Relations and European Studies from th <e1> e Central European Universit </e1> y ( Budapest <e2> ; Hungar </e2> y ) and a PhD from the Law Department of the European University Institute in Florence ( Italy ) .."
+20210	"Cviji? holds an undergraduate degree in Law from the University of Belgrade's Law School ( Serbia ) an MA in International Relations and European Studies from th <e1> e Central European Universit </e1> y ( Budapest <e2> ; Hungar </e2> y ) and a PhD from the Law Department of the European University Institute in Florence ( Italy ) .."
 org:country_of_headquarters(e1,e2)
 
 
@@ -10298,7 +10298,7 @@ per:title(e1,e2)
 per:alternate_names(e2,e1)
 
 
-20216	"<e1> Commerce </e1> Secretary <e2> Harry Hopkins </e2> shot back :  People do nt eat in the long run .."
+20216	"<e1> Commerce </e1> Secretary <e2> Harry Hopkins </e2> shot back : ? People do n?t eat in the long run .."
 per:employee_of(e2,e1)
 
 
@@ -10326,7 +10326,7 @@ per:employee_of(e1,e2)
 org:members(e2,e1)
 
 
-20223	"The 2010 11 season was the 6th season of Mersin İdmanyurdu football team i <e1> n TFF First Leagu </e1> e the second level division i <e2> n Turke </e2> y since 2001-02 .."
+20223	"The 2010 11 season was the 6th season of Mersin ?dmanyurdu football team i <e1> n TFF First Leagu </e1> e the second level division i <e2> n Turke </e2> y since 2001-02 .."
 org:country_of_headquarters(e1,e2)
 
 
@@ -10874,7 +10874,7 @@ org:stateorprovince_of_headquarters(e1,e2)
 per:stateorprovinces_of_residence(e1,e2)
 
 
-20360	"<e1> Irimescu </e1> returned to <e2> Romania </e2> in 1933 and from 1937 he took part regularly at the exhibitions of Tinerimea Artistică ( The Artistic Youth ) a society founded in 1901 that included the most prominent Romanian artists ; in 1938 he became an associate member of the society .."
+20360	"<e1> Irimescu </e1> returned to <e2> Romania </e2> in 1933 and from 1937 he took part regularly at the exhibitions of Tinerimea Artistic? ( The Artistic Youth ) a society founded in 1901 that included the most prominent Romanian artists ; in 1938 he became an associate member of the society .."
 per:countries_of_residence(e1,e2)
 
 
@@ -11250,7 +11250,7 @@ org:founded_by(e2,e1)
 per:countries_of_residence(e2,e1)
 
 
-20454	"Minh Đảo ( born c. 1933 Saigon ) is a former Vietnamese Major General who led <e1> the 18th Divis </e1> ion of the Army of the Republic of Vietna <e2> m ( A </e2> RVN ) nicknamed The Super Men at Lộc the last major battle of the Vietnam War .."
+20454	"Minh ??o ( born c. 1933 Saigon ) is a former Vietnamese Major General who led <e1> the 18th Divis </e1> ion of the Army of the Republic of Vietna <e2> m ( A </e2> RVN ) nicknamed The Super Men at L?c the last major battle of the Vietnam War .."
 org:members(e2,e1)
 
 
@@ -11554,7 +11554,7 @@ org:country_of_headquarters(e1,e2)
 org:founded_by(e2,e1)
 
 
-20530	"Many young people started to play this new electric music as they called it naming themselves električari but one of the first who rose to prominence was th <e1> e guitaris </e1> <e2> t Mile Lojpu </e2> r from Belgrade ( born in Zrenjanin in 1930 ) .."
+20530	"Many young people started to play this new electric music as they called it naming themselves elektri?ari but one of the first who rose to prominence was th <e1> e guitaris </e1> <e2> t Mile Lojpu </e2> r from Belgrade ( born in Zrenjanin in 1930 ) .."
 per:title(e2,e1)
 
 
@@ -11650,7 +11650,7 @@ org:country_of_headquarters(e1,e2)
 org:city_of_headquarters(e2,e1)
 
 
-20554	"On 4 November 1957 the Romanian Workers ' Party comprising the most prominent politicians of Communist <e1> Romania </e1> ( Gheorghe Gheorghiu-Dej Chivu Stoica Alexandru Moghioroş Ştefan Voitec Nicolae Ceauşescu Leonte Răutu <e2> and Grigore Preot </e2> easa ) was involved in an accident at Vnukovo Airport ; Preoteasa ( who was Minister of Foreign Affairs at the time ) was killed as was the aircraft's crew .."
+20554	"On 4 November 1957 the Romanian Workers ' Party comprising the most prominent politicians of Communist <e1> Romania </e1> ( Gheorghe Gheorghiu-Dej Chivu Stoica Alexandru Moghioro? ?tefan Voitec Nicolae Ceau?escu Leonte R?utu <e2> and Grigore Preot </e2> easa ) was involved in an accident at Vnukovo Airport ; Preoteasa ( who was Minister of Foreign Affairs at the time ) was killed as was the aircraft's crew .."
 per:countries_of_residence(e2,e1)
 
 
@@ -12490,7 +12490,7 @@ per:employee_of(e2,e1)
 per:employee_of(e1,e2)
 
 
-20764	"<e1> Reyhan Şahi </e1> n ( born July 3 1980 or 1981 in Bremen <e2> ; German </e2> y ) also known as Lady Bitch Ray is a German-speaking rapper radio host and actor of Turkish ethnicity .."
+20764	"<e1> Reyhan ?ahi </e1> n ( born July 3 1980 or 1981 in Bremen <e2> ; German </e2> y ) also known as Lady Bitch Ray is a German-speaking rapper radio host and actor of Turkish ethnicity .."
 per:country_of_birth(e1,e2)
 
 
@@ -12982,7 +12982,7 @@ org:city_of_headquarters(e1,e2)
 per:cities_of_residence(e2,e1)
 
 
-20887	"Noyori is currently a chairman of the Education Rebuilding Council which was set up by <e1> Japan </e1> 's PM <e2> Shinzō Ab </e2> e after he came to power in 2006 .."
+20887	"Noyori is currently a chairman of the Education Rebuilding Council which was set up by <e1> Japan </e1> 's PM <e2> Shinz Ab </e2> e after he came to power in 2006 .."
 per:employee_of(e2,e1)
 
 

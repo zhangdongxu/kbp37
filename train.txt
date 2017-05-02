@@ -314,7 +314,7 @@ per:cities_of_residence(e2,e1)
 per:cities_of_residence(e1,e2)
 
 
-79	"The <e1> Ministry of Transport </e1> ( In Maori : Te Manatū Waka ) is th <e2> e New Zealan </e2> d Government's principal transport policy adviser .."
+79	"The <e1> Ministry of Transport </e1> ( In Maori : Te Manat Waka ) is th <e2> e New Zealan </e2> d Government's principal transport policy adviser .."
 org:country_of_headquarters(e1,e2)
 
 
@@ -414,7 +414,7 @@ org:alternate_names(e1,e2)
 no_relation
 
 
-104	"Łukasz Żelezny known <e1> as DeeJay Del </e1> ta ( born 23 March 1981 in Tarnowskie Sou <e2> th Pola </e2> nd ) is a Polish electronic music artist and disc jockey currently living London .."
+104	"?ukasz ?elezny known <e1> as DeeJay Del </e1> ta ( born 23 March 1981 in Tarnowskie Sou <e2> th Pola </e2> nd ) is a Polish electronic music artist and disc jockey currently living London .."
 org:country_of_headquarters(e1,e2)
 
 
@@ -522,7 +522,7 @@ per:employee_of(e2,e1)
 per:employee_of(e2,e1)
 
 
-131	"The Band E Sardeh Dam ( Dari/Pashto دسرده بند ) ( also known as Band-e Sar Deh Banḏ-e Saṟḏeh Plotina Sardekhband сарде Sardah Dam Sardeh Dam Sardi Dam بند سر ده سر ده بند ) is located in east And <e1> ar District </e1> of Ghazni Province of Afghanistan and was constructed in 1967 ( 1346 in the Islamic calendar ) by the Soviet Union an <e2> d Afghanistan during </e2> the reign of Mohammed Zahir Shah prior to the Soviet War in Afghanistan .."
+131	"The Band E Sardeh Dam ( Dari/Pashto ????? ??? ) ( also known as Band-e Sar Deh Ban?-e Sa??eh Plotina Sardekhband  Sardah Dam Sardeh Dam Sardi Dam ??? ?? ?? ?? ?? ??? ) is located in east And <e1> ar District </e1> of Ghazni Province of Afghanistan and was constructed in 1967 ( 1346 in the Islamic calendar ) by the Soviet Union an <e2> d Afghanistan during </e2> the reign of Mohammed Zahir Shah prior to the Soviet War in Afghanistan .."
 per:countries_of_residence(e2,e1)
 
 
@@ -610,7 +610,7 @@ per:employee_of(e2,e1)
 per:employee_of(e1,e2)
 
 
-153	"The Comet Strikes ( Chinese : 鬼流星 ; Gui Liu Xing ) is <e1> a 1971 Hon </e1> g Kong action horror film directed by Lo W <e2> ei for Golden H </e2> arvest .."
+153	"The Comet Strikes ( Chinese :  ; Gui Liu Xing ) is <e1> a 1971 Hon </e1> g Kong action horror film directed by Lo W <e2> ei for Golden H </e2> arvest .."
 org:city_of_headquarters(e2,e1)
 
 
@@ -934,7 +934,7 @@ org:city_of_headquarters(e2,e1)
 per:employee_of(e2,e1)
 
 
-234	"<e1> Mihailo Petrovi� </e1> � Alas <e2> ( Serbia </e2> n Cyrillic : Михаило Петровић Алас ; 6 May 1868 8 June 1943 ) was an influential Serbian mathematician and inventor .."
+234	"<e1> Mihailo Petrovi?</e1> ?Alas <e2> ( Serbia </e2> n Cyrillic :  ?  ; 6 May 1868 8 June 1943 ) was an influential Serbian mathematician and inventor .."
 per:origin(e1,e2)
 
 
@@ -1430,7 +1430,7 @@ per:cities_of_residence(e1,e2)
 per:title(e2,e1)
 
 
-358	"Internationally well-known are : Erwin ( German internist ) Julius Scriba ( German surgeon ) Bruno Taut ( German architect ) Ernest Satow ( British researcher of <e1> Japan </e1> and diplomat ) <e2> Kakuei Tanaka </e2> ( Japanese prime minister 1972 - 1974 ) Rikidōzan ( famous pro wrestler ) .."
+358	"Internationally well-known are : Erwin ( German internist ) Julius Scriba ( German surgeon ) Bruno Taut ( German architect ) Ernest Satow ( British researcher of <e1> Japan </e1> and diplomat ) <e2> Kakuei Tanaka </e2> ( Japanese prime minister 1972 - 1974 ) Rikidzan ( famous pro wrestler ) .."
 per:countries_of_residence(e2,e1)
 
 
@@ -1694,7 +1694,7 @@ per:employee_of(e1,e2)
 per:countries_of_residence(e2,e1)
 
 
-424	"<e1> Phyllis Schlafly </e1>  <e2> s Eagle Foru </e2> m believes appointing the right federal and local judges is more important than electing members of Congress or the President .."
+424	"<e1> Phyllis Schlafly </e1> ? <e2> s Eagle Foru </e2> m believes appointing the right federal and local judges is more important than electing members of Congress or the President .."
 org:top_members/employees(e2,e1)
 
 
@@ -2014,7 +2014,7 @@ no_relation
 per:employee_of(e1,e2)
 
 
-504	"[ 3 ] <e1> University of London </e1> <e2> School of Oriental and African Studies </e2> law professor Iain Scobbie noted in 2006 that Israel retains absolute authority over Gaza s airspace and territorial sea .."
+504	"[ 3 ] <e1> University of London </e1> <e2> School of Oriental and African Studies </e2> law professor Iain Scobbie noted in 2006 that Israel retains absolute authority over Gaza ?s airspace and territorial sea .."
 org:subsidiaries(e1,e2)
 
 
@@ -2138,7 +2138,7 @@ org:city_of_headquarters(e1,e2)
 per:employee_of(e2,e1)
 
 
-535	"<e1> Joseph Attieh </e1> ( in Arabic جوزيف عطية ) ( born in Mehmarch Batr <e2> oun </e2> ; Lebanon on May 13 1986 ) is a Lebanese singer who won the third season of Star Academy Lebanon in 2005 after winning 55 % of the vote becoming the first Lebanese candidate to win the reality talent show .."
+535	"<e1> Joseph Attieh </e1> ( in Arabic ????? ???? ) ( born in Mehmarch Batr <e2> oun </e2> ; Lebanon on May 13 1986 ) is a Lebanese singer who won the third season of Star Academy Lebanon in 2005 after winning 55 % of the vote becoming the first Lebanese candidate to win the reality talent show .."
 per:country_of_birth(e1,e2)
 
 
@@ -2742,7 +2742,7 @@ org:subsidiaries(e2,e1)
 per:stateorprovinces_of_residence(e1,e2)
 
 
-686	"<e1> Escola Catolica Estrela do Mar </e1> ( 澳門天主教海星中學 ) or E.M is a <e2> Cathol </e2> ic school in Macau China .."
+686	"<e1> Escola Catolica Estrela do Mar </e1> ( TW ) or E.M is a <e2> Cathol </e2> ic school in Macau China .."
 org:city_of_headquarters(e1,e2)
 
 
@@ -3206,7 +3206,7 @@ per:countries_of_residence(e1,e2)
 org:city_of_headquarters(e2,e1)
 
 
-802	"The <e1> Conservancy Association </e1> of <e2> Hong Kong </e2> ( 長春社 ) a heritage advocacy group wrote to the Secretary for Home Affairs Patrick Ho in April 2004 requesting him to consider declaring the mansion a monument under the Antiquities and Monuments Ordinance .."
+802	"The <e1> Conservancy Association </e1> of <e2> Hong Kong </e2> ( L ) a heritage advocacy group wrote to the Secretary for Home Affairs Patrick Ho in April 2004 requesting him to consider declaring the mansion a monument under the Antiquities and Monuments Ordinance .."
 org:city_of_headquarters(e1,e2)
 
 
@@ -3250,7 +3250,7 @@ org:city_of_headquarters(e2,e1)
 per:employee_of(e2,e1)
 
 
-813	"The memo was denounced by the League of Communists of Yugoslavia including future president of Serbia Slobodan who publicly called the memo nothing else but the darkest nationalism and future president of th <e1> e Republika Srpsk </e1> a entity in Bosnia and Herzegovina <e2> ; Radovan Karadž </e2> ić who stated Bolshevism is bad but nationalism is even worse .."
+813	"The memo was denounced by the League of Communists of Yugoslavia including future president of Serbia Slobodan who publicly called the memo nothing else but the darkest nationalism and future president of th <e1> e Republika Srpsk </e1> a entity in Bosnia and Herzegovina <e2> ; Radovan Karad? </e2> i? who stated Bolshevism is bad but nationalism is even worse .."
 per:employee_of(e2,e1)
 
 
@@ -3470,7 +3470,7 @@ per:employee_of(e1,e2)
 no_relation
 
 
-868	"<e1> Shankar </e1> Damodar Pendse ( Devanagari : शंकर दामोदर पेंडसे ) ( 1897 - 1974 ) was a Marat <e2> hi wri </e2> ter from Maharashtra India .."
+868	"<e1> Shankar </e1> Damodar Pendse ( Devanagari : ???? ?????? ?????? ) ( 1897 - 1974 ) was a Marat <e2> hi wri </e2> ter from Maharashtra India .."
 per:country_of_birth(e1,e2)
 
 
@@ -3730,7 +3730,7 @@ per:title(e1,e2)
 per:title(e1,e2)
 
 
-933	"Frustrated by strong public sentiment against the U.S. nuclear presence there <e1> Sat� </e1> � struck a deal with the Johnson Administration exchanging control of Okinawa fo <e2> r Japa </e2> n's entry into the Nuclear Non-Proliferation Treaty ( NPT ) .."
+933	"Frustrated by strong public sentiment against the U.S. nuclear presence there <e1> Sat?</e1> ?struck a deal with the Johnson Administration exchanging control of Okinawa fo <e2> r Japa </e2> n's entry into the Nuclear Non-Proliferation Treaty ( NPT ) .."
 per:employee_of(e1,e2)
 
 
@@ -3914,7 +3914,7 @@ org:founded(e2,e1)
 per:country_of_birth(e1,e2)
 
 
-979	"<e1> He </e1> stood as a candidate for the second ( Vittoriosa Senglea <e2> Cospicua </e2> Żabbar Kalkara and Xgħajra ) and tenth electoral ( Gżira Pembroke Sliema and St. Julian's ) divisions of Malta for the PL .."
+979	"<e1> He </e1> stood as a candidate for the second ( Vittoriosa Senglea <e2> Cospicua </e2> ?abbar Kalkara and Xg?ajra ) and tenth electoral ( G?ira Pembroke Sliema and St. Julian's ) divisions of Malta for the PL .."
 per:employee_of(e1,e2)
 
 
@@ -4382,7 +4382,7 @@ per:cities_of_residence(e2,e1)
 per:employee_of(e1,e2)
 
 
-1096	"Since then the two have consulted and managed campaigns throughout Europe and the Middle East including the successful campaigns of Prime Minister of Israel Ariel Sharon Chancellor of Austria Alfred Gusenbauer Prime Minister of Bulgaria Sergey Stanishev Prime Minister of <e1> Romania </e1> <e2> Călin Popescu-Tăricea </e2> nu Prime Minister of Kosovo Hashim and President of Serbia Boris Tadic .."
+1096	"Since then the two have consulted and managed campaigns throughout Europe and the Middle East including the successful campaigns of Prime Minister of Israel Ariel Sharon Chancellor of Austria Alfred Gusenbauer Prime Minister of Bulgaria Sergey Stanishev Prime Minister of <e1> Romania </e1> <e2> C?lin Popescu-T?ricea </e2> nu Prime Minister of Kosovo Hashim and President of Serbia Boris Tadic .."
 per:employee_of(e2,e1)
 
 
@@ -4442,7 +4442,7 @@ per:cities_of_residence(e2,e1)
 no_relation
 
 
-1111	"<e1> Paweł Małaszyń </e1> ski ( born June 26 1976 in Szczecinek <e2> 44; Pol </e2> and ) is a Polish TV and film actor .."
+1111	"<e1> Pawe? Ma?aszy </e1> ski ( born June 26 1976 in Szczecinek <e2> 44; Pol </e2> and ) is a Polish TV and film actor .."
 per:country_of_birth(e1,e2)
 
 
@@ -4754,7 +4754,7 @@ per:employee_of(e1,e2)
 org:city_of_headquarters(e1,e2)
 
 
-1189	"Čento and partly Brashnarov clashed with Svetozar Vukmanović-Tempo Josip Broz Tito envoy <e1> to Macedon </e1> ia a <e2> nd Lazar </e2> ki the leader of the Communist Party of Macedonia .."
+1189	"?ento and partly Brashnarov clashed with Svetozar Vukmanovi?-Tempo Josip Broz Tito envoy <e1> to Macedon </e1> ia a <e2> nd Lazar </e2> ki the leader of the Communist Party of Macedonia .."
 per:countries_of_residence(e2,e1)
 
 
@@ -4914,7 +4914,7 @@ per:stateorprovinces_of_residence(e2,e1)
 per:stateorprovinces_of_residence(e1,e2)
 
 
-1229	"While still a student at <e1> Nagano </e1> Normal School ( now <e2> Shinshu University </e2> ) he taught himself the basics of traditional Japanese poetry by studying the ancient Japanese literature classics such as the Man ' yōshū and Kokinshū When he began writing his own poetry he was able to get it published in the prestigious literary journal Bungakukai which was enough to make him realize that life as a professional poet was unrealistic .."
+1229	"While still a student at <e1> Nagano </e1> Normal School ( now <e2> Shinshu University </e2> ) he taught himself the basics of traditional Japanese poetry by studying the ancient Japanese literature classics such as the Man ' ysh and Kokinsh When he began writing his own poetry he was able to get it published in the prestigious literary journal Bungakukai which was enough to make him realize that life as a professional poet was unrealistic .."
 org:alternate_names(e2,e1)
 
 
@@ -4966,7 +4966,7 @@ per:spouse(e2,e1)
 per:countries_of_residence(e1,e2)
 
 
-1242	"After the collapse of Germany and Austria-Hungary at the end of World War I on 7 November 1918 Arciszewski was appointed the minister of labour and social affairs in the <e1> Provisional Government </e1> of the Polish Republic led by <e2> Ignacy Daszyńsk </e2> i .."
+1242	"After the collapse of Germany and Austria-Hungary at the end of World War I on 7 November 1918 Arciszewski was appointed the minister of labour and social affairs in the <e1> Provisional Government </e1> of the Polish Republic led by <e2> Ignacy Daszysk </e2> i .."
 per:employee_of(e2,e1)
 
 
@@ -5678,7 +5678,7 @@ org:top_members/employees(e1,e2)
 per:cities_of_residence(e1,e2)
 
 
-1420	"The CDC is part of the <e1> Health and Human Services </e1> Department which <e2> Thompson </e2> headed in Bush s first term .."
+1420	"The CDC is part of the <e1> Health and Human Services </e1> Department which <e2> Thompson </e2> headed in Bush ?s first term .."
 per:employee_of(e2,e1)
 
 
@@ -5930,7 +5930,7 @@ org:founded_by(e1,e2)
 org:stateorprovince_of_headquarters(e1,e2)
 
 
-1483	"<e1> Sat� </e1> � advised Tōgō that in reality unconditional surrender or terms closely equivalent thereto was all t <e2> hat Ja </e2> pan could expect .."
+1483	"<e1> Sat?</e1> ?advised Tg that in reality unconditional surrender or terms closely equivalent thereto was all t <e2> hat Ja </e2> pan could expect .."
 per:country_of_birth(e1,e2)
 
 
@@ -6314,7 +6314,7 @@ per:alternate_names(e1,e2)
 no_relation
 
 
-1579	"<e1> Radovan Karadži </e1> ć former war-time president <e2> of Republika Srps </e2> ka is often mistaken as a Bosnian Serb he was in fact an ethnic Drobnjak who was born in .."
+1579	"<e1> Radovan Karad?i </e1> ? former war-time president <e2> of Republika Srps </e2> ka is often mistaken as a Bosnian Serb he was in fact an ethnic Drobnjak who was born in .."
 per:employee_of(e1,e2)
 
 
@@ -6546,7 +6546,7 @@ per:employee_of(e2,e1)
 no_relation
 
 
-1637	"Perween Hayat ( In Arabic/Urdu : پروین حیات ) became the first female to serve as city preside <e1> nt of the </e1> Pakistan People Party in Lahore Pakistan During the exile of the par <e2> ty leader Benaz </e2> ir Bhutto .."
+1637	"Perween Hayat ( In Arabic/Urdu : ????? ???? ) became the first female to serve as city preside <e1> nt of the </e1> Pakistan People Party in Lahore Pakistan During the exile of the par <e2> ty leader Benaz </e2> ir Bhutto .."
 per:employee_of(e2,e1)
 
 
@@ -6654,7 +6654,7 @@ no_relation
 no_relation
 
 
-1664	"This initiative was encouraged by President of <e1> Lithuania </e1> <e2> Valdas Adamkus </e2> Prime Minister of Lithuania Algirdas Brazauskas and President of Poland Aleksander Kwaśniewski whose representative Andrzej Majkowski together with Lithuanian president and prime minister was present at the reconciliation ceremony .."
+1664	"This initiative was encouraged by President of <e1> Lithuania </e1> <e2> Valdas Adamkus </e2> Prime Minister of Lithuania Algirdas Brazauskas and President of Poland Aleksander Kwa?niewski whose representative Andrzej Majkowski together with Lithuanian president and prime minister was present at the reconciliation ceremony .."
 per:employee_of(e2,e1)
 
 
@@ -6738,7 +6738,7 @@ per:employee_of(e2,e1)
 per:title(e1,e2)
 
 
-1685	"Cvijić holds an undergraduate degree in Law from the University of Belgrade's Law School ( Serbia ) an MA in International Relations and European Studies from the Central European University ( Budapest Hungary ) and a PhD from the Law Department of th <e1> e European University Institut </e1> e i <e2> n Florenc </e2> e ( Italy ) .."
+1685	"Cviji? holds an undergraduate degree in Law from the University of Belgrade's Law School ( Serbia ) an MA in International Relations and European Studies from the Central European University ( Budapest Hungary ) and a PhD from the Law Department of th <e1> e European University Institut </e1> e i <e2> n Florenc </e2> e ( Italy ) .."
 org:city_of_headquarters(e1,e2)
 
 
@@ -6946,7 +6946,7 @@ per:title(e1,e2)
 per:countries_of_residence(e1,e2)
 
 
-1737	"His son Bhism <e1> Shankar </e1> Tewari करोड़ डॉलर जुटाएगी इंडियन ऑयल is currently Member of Parliament Detailed Profile - Shri Bhismshankar Alias Kushal Tiwari - Members of Parliament ( Lok Sab <e2> ha ) - </e2> Who's Who - Government : National Portal of India having won from Sant Kabir Nagar seat west of Gorakhpur by a margin of votes ( 3.6 % ) .."
+1737	"His son Bhism <e1> Shankar </e1> Tewari ????? ???? ??????? ?????? ??? is currently Member of Parliament Detailed Profile - Shri Bhismshankar Alias Kushal Tiwari - Members of Parliament ( Lok Sab <e2> ha ) - </e2> Who's Who - Government : National Portal of India having won from Sant Kabir Nagar seat west of Gorakhpur by a margin of votes ( 3.6 % ) .."
 per:employee_of(e1,e2)
 
 
@@ -6990,7 +6990,7 @@ per:employee_of(e1,e2)
 per:countries_of_residence(e1,e2)
 
 
-1748	"As historian Vladimir Tismăneanu argues this was made possible by the Soviet agents and their relations with the group around emerging Communist leade <e1> r Gheorghe Gheorghiu-De </e1> j : if one does not grasp the role of political thugs such as the Soviet spies Pintilie Bodnarenko ( Pantiuşa ) and Alexandru Nikolski in the exercise of terror <e2> in Roman </e2> ia during the most horrible Stalinist period and their personal connections with Gheorghe Gheorghiu-Dej and members of his entourage it is difficult to understand the origins and the role of the Securitate .."
+1748	"As historian Vladimir Tism?neanu argues this was made possible by the Soviet agents and their relations with the group around emerging Communist leade <e1> r Gheorghe Gheorghiu-De </e1> j : if one does not grasp the role of political thugs such as the Soviet spies Pintilie Bodnarenko ( Pantiu?a ) and Alexandru Nikolski in the exercise of terror <e2> in Roman </e2> ia during the most horrible Stalinist period and their personal connections with Gheorghe Gheorghiu-Dej and members of his entourage it is difficult to understand the origins and the role of the Securitate .."
 per:countries_of_residence(e1,e2)
 
 
@@ -7422,7 +7422,7 @@ per:employee_of(e2,e1)
 per:employee_of(e2,e1)
 
 
-1856	"Vlajko Stojiljković ( born in 1937 in Mala Krsna Smederevo Kingdom o <e1> f Yugoslavi </e1> a - died April 13 2002 ) was Yugoslavia's Minister of Internal Affairs from 1997 until the deposal o <e2> f Slobodan </e2> ć .."
+1856	"Vlajko Stojiljkovi? ( born in 1937 in Mala Krsna Smederevo Kingdom o <e1> f Yugoslavi </e1> a - died April 13 2002 ) was Yugoslavia's Minister of Internal Affairs from 1997 until the deposal o <e2> f Slobodan </e2> ? .."
 per:country_of_birth(e2,e1)
 
 
@@ -7434,7 +7434,7 @@ org:country_of_headquarters(e2,e1)
 org:country_of_headquarters(e2,e1)
 
 
-1859	"During the leadup to the fall 2002 presidential elections in <e1> Serbia </e1> it became apparent that then-Serbian Prime Minister <e2> Zoran Đinđ </e2> ić did not have the appeal to match who had switched from the federal parliament to the state parliament .."
+1859	"During the leadup to the fall 2002 presidential elections in <e1> Serbia </e1> it became apparent that then-Serbian Prime Minister <e2> Zoran ?in? </e2> i? did not have the appeal to match who had switched from the federal parliament to the state parliament .."
 per:country_of_birth(e2,e1)
 
 
@@ -7702,7 +7702,7 @@ per:countries_of_residence(e2,e1)
 per:cities_of_residence(e1,e2)
 
 
-1926	"Later still in 1993 the authorities of <e1> Republika Srpska </e1> under <e2> Radovan Karadži </e2> ć and Momčilo decided to proclaim Ekavian and Serbian Cyrillic to be official in Republika Srpska which was considered grotesque both by native Bosnian Serb writers at the time and the general public and that decision was rescinded in 1994 .."
+1926	"Later still in 1993 the authorities of <e1> Republika Srpska </e1> under <e2> Radovan Karad?i </e2> ? and Mom?ilo decided to proclaim Ekavian and Serbian Cyrillic to be official in Republika Srpska which was considered grotesque both by native Bosnian Serb writers at the time and the general public and that decision was rescinded in 1994 .."
 per:employee_of(e2,e1)
 
 
@@ -7870,7 +7870,7 @@ per:employee_of(e2,e1)
 per:employee_of(e2,e1)
 
 
-1968	"<e1> Hồ Mi </e1> nh proclaimed the Democratic Republic <e2> of Vietn </e2> am on September 2 1945 .."
+1968	"<e1> H? Mi </e1> nh proclaimed the Democratic Republic <e2> of Vietn </e2> am on September 2 1945 .."
 per:origin(e1,e2)
 
 
@@ -8082,7 +8082,7 @@ no_relation
 per:countries_of_residence(e1,e2)
 
 
-2021	"Hosted by Brian McFayden ( Ryan Seacrest's double ) people first audition before three judges ( the sarcastic Briggs who also produces the show and could be considered the Simon of the show ; rapper Tone Lōc the show's answer t <e1> o Randy Jackso </e1> n ; and singer Vitamin C put into Paula Abdul's role ) in four cities across th <e2> e United State </e2> s .."
+2021	"Hosted by Brian McFayden ( Ryan Seacrest's double ) people first audition before three judges ( the sarcastic Briggs who also produces the show and could be considered the Simon of the show ; rapper Tone Lc the show's answer t <e1> o Randy Jackso </e1> n ; and singer Vitamin C put into Paula Abdul's role ) in four cities across th <e2> e United State </e2> s .."
 per:countries_of_residence(e1,e2)
 
 
@@ -8174,7 +8174,7 @@ per:stateorprovinces_of_residence(e1,e2)
 no_relation
 
 
-2044	"On 7 August 2010 at his <e1> Liga I </e1> debut for <e2> Steaua </e2> against FC Brașov he was sent off and the opposing team received a penalty kick in the 90th minute Robert Ilyeș equalized and the match ended 1-1 .."
+2044	"On 7 August 2010 at his <e1> Liga I </e1> debut for <e2> Steaua </e2> against FC Bra?ov he was sent off and the opposing team received a penalty kick in the 90th minute Robert Ilye? equalized and the match ended 1-1 .."
 per:employee_of(e1,e2)
 
 
@@ -8706,7 +8706,7 @@ no_relation
 org:founded(e1,e2)
 
 
-2177	"CRAWFORD Texas  Forme <e1> r Treasur </e1> y Secretar <e2> y Paul O'Neil </e2> l ( search ) contends the United States began laying the groundwork for an invasion of Iraq just days after President Bush took office in January 2001  more than two years before the start of the U.S.-led war that ousted Saddam Hussein .."
+2177	"CRAWFORD Texas ? Forme <e1> r Treasur </e1> y Secretar <e2> y Paul O'Neil </e2> l ( search ) contends the United States began laying the groundwork for an invasion of Iraq just days after President Bush took office in January 2001 ? more than two years before the start of the U.S.-led war that ousted Saddam Hussein .."
 per:employee_of(e2,e1)
 
 
@@ -9150,7 +9150,7 @@ org:city_of_headquarters(e1,e2)
 per:employee_of(e2,e1)
 
 
-2288	"<e1> Ante Paveli� </e1> � leader of the Ustasha fled to Argentina an <e2> d Spai </e2> n which gave him protection and was never extradited to stand trial for his war crimes .."
+2288	"<e1> Ante Paveli?</e1> ?leader of the Ustasha fled to Argentina an <e2> d Spai </e2> n which gave him protection and was never extradited to stand trial for his war crimes .."
 per:countries_of_residence(e1,e2)
 
 
@@ -10006,7 +10006,7 @@ per:employee_of(e1,e2)
 org:city_of_headquarters(e2,e1)
 
 
-2502	"Here it was performed twenty-third ( following <e1> Turkey </e1> 's <e2> Kenan Doğul </e2> u with Shake It Up Shekerim and preceding Moldova's Natalia Barbu with Fight ) .."
+2502	"Here it was performed twenty-third ( following <e1> Turkey </e1> 's <e2> Kenan Do?ul </e2> u with Shake It Up Shekerim and preceding Moldova's Natalia Barbu with Fight ) .."
 per:countries_of_residence(e2,e1)
 
 
@@ -10158,7 +10158,7 @@ per:employee_of(e1,e2)
 org:founded_by(e2,e1)
 
 
-2540	"Two selections of her poetry have been translated into English one titled Water Music ( Dublin : Poetry Ireland / ; <e1> Tyrone Guthrie </e1> Centre 1998 ) the other titled I Too Went to the Hunt of the Deer ( <e2> Istanbul </e2> : Artshop Yayıncılık 2008 ) .."
+2540	"Two selections of her poetry have been translated into English one titled Water Music ( Dublin : Poetry Ireland / ; <e1> Tyrone Guthrie </e1> Centre 1998 ) the other titled I Too Went to the Hunt of the Deer ( <e2> Istanbul </e2> : Artshop Yay?nc?l?k 2008 ) .."
 no_relation
 
 
@@ -10254,7 +10254,7 @@ org:alternate_names(e1,e2)
 org:founded_by(e2,e1)
 
 
-2564	"Suliman Bashear PhD ( <e1> Sulaymān Bash� </e1> �r 1947 October 1991 ) was a leading Druze Arab scholar and professor who taught <e2> at Birzeit Universi </e2> ty An-Najah National University and the Hebrew University of Jerusalem .."
+2564	"Suliman Bashear PhD ( <e1> Sulaymn Bash?</e1> ? 1947 October 1991 ) was a leading Druze Arab scholar and professor who taught <e2> at Birzeit Universi </e2> ty An-Najah National University and the Hebrew University of Jerusalem .."
 no_relation
 
 
@@ -10810,7 +10810,7 @@ per:employee_of(e1,e2)
 org:top_members/employees(e2,e1)
 
 
-2703	"The song was originally performed as early as in 1971 but it was n't until late <e1> 1972 </e1> when it was included on 2 <e2> Plus </e2> 1's debut LP Nowy wspaniały świat .."
+2703	"The song was originally performed as early as in 1971 but it was n't until late <e1> 1972 </e1> when it was included on 2 <e2> Plus </e2> 1's debut LP Nowy wspania?y ?wiat .."
 no_relation
 
 
@@ -10906,7 +10906,7 @@ org:members(e1,e2)
 per:countries_of_residence(e1,e2)
 
 
-2727	"<e1> He </e1> became a member of the Communist Party of <e2> Czechoslovakia </e2> ( KSČ ) and of the Communist Party of Slovakia ( KSS ) .."
+2727	"<e1> He </e1> became a member of the Communist Party of <e2> Czechoslovakia </e2> ( KS? ) and of the Communist Party of Slovakia ( KSS ) .."
 per:employee_of(e1,e2)
 
 
@@ -11042,7 +11042,7 @@ org:members(e2,e1)
 org:city_of_headquarters(e1,e2)
 
 
-2761	"In the 2005 06 season another rather weak year for <e1> Partizan </e1> in the <e2> Euroleague </e2> Milojević had another double-double Euroleague season scoring 16.4 ppg and grabbing 10 rebounds per game also winning a couple of Player of the Week honors .."
+2761	"In the 2005 06 season another rather weak year for <e1> Partizan </e1> in the <e2> Euroleague </e2> Milojevi? had another double-double Euroleague season scoring 16.4 ppg and grabbing 10 rebounds per game also winning a couple of Player of the Week honors .."
 org:members(e2,e1)
 
 
@@ -11186,7 +11186,7 @@ org:city_of_headquarters(e1,e2)
 per:employee_of(e1,e2)
 
 
-2797	"The <e1> Ministry of Health </e1> ( Abbreviation : <e2> MOH </e2> ; Chinese : 新加坡卫生部 ; Malay : Kementerian Kesihatan Tamil : சுகாதார அமைச்சு ) is a ministry of the Government of Singapore responsible for providing information raising health awareness and education ensuring the accessibility of health services and monitoring the quality of health services provided to citizens and visitors in the Republic of Singapore .."
+2797	"The <e1> Ministry of Health </e1> ( Abbreviation : <e2> MOH </e2> ; Chinese :  ; Malay : Kementerian Kesihatan Tamil : ??????? ??????? ) is a ministry of the Government of Singapore responsible for providing information raising health awareness and education ensuring the accessibility of health services and monitoring the quality of health services provided to citizens and visitors in the Republic of Singapore .."
 org:alternate_names(e1,e2)
 
 
@@ -11614,7 +11614,7 @@ org:top_members/employees(e2,e1)
 per:employee_of(e2,e1)
 
 
-2904	"After Merkel in seniority is the Prime Minister of Canada Stephen Harper who has served as Prime Minister since 6 February 2006 and the President of the United States Barack Obama who assumed office on 20 January 2009 the Prime Minister of the United Kingdom David Cameron who assumed office on 11 May 2010 the President of France Hollande who took office 15 May 2012 the Prime Minister of <e1> Japan </e1> <e2> Shinzō Ab </e2> e who took office on 26 December 2012 and the last is Prime Minister of Italy Enrico Letta who took office on 28 April 2013 .."
+2904	"After Merkel in seniority is the Prime Minister of Canada Stephen Harper who has served as Prime Minister since 6 February 2006 and the President of the United States Barack Obama who assumed office on 20 January 2009 the Prime Minister of the United Kingdom David Cameron who assumed office on 11 May 2010 the President of France Hollande who took office 15 May 2012 the Prime Minister of <e1> Japan </e1> <e2> Shinz Ab </e2> e who took office on 26 December 2012 and the last is Prime Minister of Italy Enrico Letta who took office on 28 April 2013 .."
 per:countries_of_residence(e2,e1)
 
 
@@ -12450,7 +12450,7 @@ org:members(e2,e1)
 per:employee_of(e1,e2)
 
 
-3113	"<e1> Souad Massi </e1> ( سعاد ماسي ) born August 23 1972 is an Algerian singer songwr <e2> iter and g </e2> uitarist .."
+3113	"<e1> Souad Massi </e1> ( ???? ???? ) born August 23 1972 is an Algerian singer songwr <e2> iter and g </e2> uitarist .."
 per:title(e1,e2)
 
 
@@ -12558,7 +12558,7 @@ org:subsidiaries(e2,e1)
 per:employee_of(e1,e2)
 
 
-3140	"Daniel Strož ( born 4 August 1943 in Plzeň ) is a Czech politician and former Member of the European Parliament for t <e1> he Communist Party of Bohemia and Morav </e1> ia ; part of t <e2> he European United Left Nordic Green Le </e2> ft party group in the European Parliament .."
+3140	"Daniel Stro? ( born 4 August 1943 in Plze ) is a Czech politician and former Member of the European Parliament for t <e1> he Communist Party of Bohemia and Morav </e1> ia ; part of t <e2> he European United Left Nordic Green Le </e2> ft party group in the European Parliament .."
 org:members(e2,e1)
 
 
@@ -12754,7 +12754,7 @@ per:employee_of(e1,e2)
 per:cities_of_residence(e2,e1)
 
 
-3189	"Piotr ( born March 8 1980 ) in Poznań Poland better known a <e1> s DonGURALesk </e1> o Gural DGE DJ Dziadzior Osieroconych Płyt Selektor or Giovanni Dziadzia is <e2> a Poli </e2> sh entertainer rapper and songwriter .."
+3189	"Piotr ( born March 8 1980 ) in Pozna Poland better known a <e1> s DonGURALesk </e1> o Gural DGE DJ Dziadzior Osieroconych P?yt Selektor or Giovanni Dziadzia is <e2> a Poli </e2> sh entertainer rapper and songwriter .."
 per:origin(e1,e2)
 
 
@@ -13078,7 +13078,7 @@ per:title(e1,e2)
 org:city_of_headquarters(e1,e2)
 
 
-3270	"<e1> Irkutsk State Linguistic University </e1> ( Russian : Иркутский государственный лингвистический у <e2> ниве </e2> рситет ( ИГЛУ ) ) is a university in Irkutsk Siberia in eastern Russia founded in 1948 .."
+3270	"<e1> Irkutsk State Linguistic University </e1> ( Russian :     <e2>  </e2>  (  ) ) is a university in Irkutsk Siberia in eastern Russia founded in 1948 .."
 org:city_of_headquarters(e1,e2)
 
 
@@ -13246,7 +13246,7 @@ no_relation
 no_relation
 
 
-3312	"With this the JWA wanted to rename him to Rikidōzan but the plan never went through.http : / / www.puroresu.com/wrestlers/kim_il/ Inoki an <e1> d Bab </e1> a famously left the JWA in 1972 to found the Al <e2> l Japa </e2> n and New Japan promotions in 1972 letting Ohki become the JWA's top star winning the NWA International Heavyweight Championship .."
+3312	"With this the JWA wanted to rename him to Rikidzan but the plan never went through.http : / / www.puroresu.com/wrestlers/kim_il/ Inoki an <e1> d Bab </e1> a famously left the JWA in 1972 to found the Al <e2> l Japa </e2> n and New Japan promotions in 1972 letting Ohki become the JWA's top star winning the NWA International Heavyweight Championship .."
 per:employee_of(e1,e2)
 
 
@@ -13358,7 +13358,7 @@ per:countries_of_residence(e2,e1)
 per:stateorprovinces_of_residence(e1,e2)
 
 
-3340	"Andhra Christian Theological College { Telugu : ఆంధ్ర క్రైస్తవ వేదాంత ( దివ్యజ్ఞాన ) కళాశాల } is a special purpose entity - an ecum <e1> enical </e1> enterprise of some of the Church societies in A <e2> ndhra Pradesh in I </e2> ndia founded in 1964 and affiliated to the Senate of Serampore College Serampore West Bengal .."
+3340	"Andhra Christian Theological College { Telugu : ????? ???????? ?????? ( ?????????? ) ?????? } is a special purpose entity - an ecum <e1> enical </e1> enterprise of some of the Church societies in A <e2> ndhra Pradesh in I </e2> ndia founded in 1964 and affiliated to the Senate of Serampore College Serampore West Bengal .."
 org:country_of_headquarters(e2,e1)
 
 
@@ -14186,7 +14186,7 @@ per:countries_of_residence(e1,e2)
 per:employee_of(e1,e2)
 
 
-3547	"The <e1> Rompetrol </e1> Group N.V. is the owner of the Petromidia Refinery in Năvodari <e2> ; Romani </e2> a renamed Rompetrol Rafinare S.A. which was built between 1975 and 1977 and modernized in the early 1990s currently it has a capacity to process tons of crude oil per day .."
+3547	"The <e1> Rompetrol </e1> Group N.V. is the owner of the Petromidia Refinery in N?vodari <e2> ; Romani </e2> a renamed Rompetrol Rafinare S.A. which was built between 1975 and 1977 and modernized in the early 1990s currently it has a capacity to process tons of crude oil per day .."
 org:country_of_headquarters(e1,e2)
 
 
@@ -14558,7 +14558,7 @@ per:employee_of(e1,e2)
 per:employee_of(e2,e1)
 
 
-3640	"Chaudhry Shujaat Hussain ( Urdu : چودھری شجاعت حسین ; 27 January 1946 ) is a senior conservative figure and business oligarch who previously served as the 14th Pr <e1> ime minis </e1> ter of Pakistan from 30 June 2004 until voluntarily stepping down on 28 August 2004 <e2> in the favor </e2> of Shaukat Aziz .."
+3640	"Chaudhry Shujaat Hussain ( Urdu : ?????? ????? ???? ; 27 January 1946 ) is a senior conservative figure and business oligarch who previously served as the 14th Pr <e1> ime minis </e1> ter of Pakistan from 30 June 2004 until voluntarily stepping down on 28 August 2004 <e2> in the favor </e2> of Shaukat Aziz .."
 per:employee_of(e2,e1)
 
 
@@ -14706,11 +14706,11 @@ no_relation
 per:countries_of_residence(e2,e1)
 
 
-3677	"The Sino-Soviet conflict of 1929 ( 1929年 中東路事件 ) was a minor armed conflict between the Soviet Union and Chi <e1> nese warlord Zh </e1> ang Xueliang of the <e2> Repub </e2> lic of China over the Manchurian Chinese Eastern Railway .."
+3677	"The Sino-Soviet conflict of 1929 ( 1929 | ) was a minor armed conflict between the Soviet Union and Chi <e1> nese warlord Zh </e1> ang Xueliang of the <e2> Repub </e2> lic of China over the Manchurian Chinese Eastern Railway .."
 per:countries_of_residence(e1,e2)
 
 
-3678	"<e1> Galatasaray University </e1> or Galatasaray ( ) is a Turkish university established in İstanbul Turkey i <e2> n 199 </e2> 2 following an agreement signed with the presence of President Mitterrand of France and President Turgut of Turkey during a ceremony at Galatasaray High School the mother school of the university .."
+3678	"<e1> Galatasaray University </e1> or Galatasaray ( ) is a Turkish university established in ?stanbul Turkey i <e2> n 199 </e2> 2 following an agreement signed with the presence of President Mitterrand of France and President Turgut of Turkey during a ceremony at Galatasaray High School the mother school of the university .."
 org:founded(e1,e2)
 
 
@@ -14874,7 +14874,7 @@ org:city_of_headquarters(e1,e2)
 per:title(e2,e1)
 
 
-3719	"Finally following the involvement of a member of the <e1> Bosnia and Herzegovina </e1> presidency <e2> Željko </e2> ć Pjanić finally received a Bosnian passport in early 2008 .."
+3719	"Finally following the involvement of a member of the <e1> Bosnia and Herzegovina </e1> presidency <e2> ?eljko </e2> ? Pjani? finally received a Bosnian passport in early 2008 .."
 per:employee_of(e2,e1)
 
 
@@ -15266,7 +15266,7 @@ org:alternate_names(e2,e1)
 per:employee_of(e2,e1)
 
 
-3817	"The Prosecutor v. <e1> Radovan Karadži </e1> ć is a case before the International Criminal Tribunal for the former Yugoslavia in The Hague Netherlands concerning crimes allegedly committed during the Bosnian War by Radovan Karadžić the former Presiden <e2> t of Republika Sr </e2> pska .."
+3817	"The Prosecutor v. <e1> Radovan Karad?i </e1> ? is a case before the International Criminal Tribunal for the former Yugoslavia in The Hague Netherlands concerning crimes allegedly committed during the Bosnian War by Radovan Karad?i? the former Presiden <e2> t of Republika Sr </e2> pska .."
 per:employee_of(e1,e2)
 
 
@@ -15702,7 +15702,7 @@ per:countries_of_residence(e2,e1)
 per:employee_of(e1,e2)
 
 
-3926	"<e1> JYP Entertainment </e1> ( JYP Co. Ltd. Hangul : 제이와이피엔터테인먼트 ) is a Korean record label founded in <e2> South Korea in </e2> 1997 by Park Jin Young .."
+3926	"<e1> JYP Entertainment </e1> ( JYP Co. Ltd. Hangul : ??????????? ) is a Korean record label founded in <e2> South Korea in </e2> 1997 by Park Jin Young .."
 org:founded_by(e1,e2)
 
 
@@ -15826,7 +15826,7 @@ org:city_of_headquarters(e2,e1)
 per:employee_of(e1,e2)
 
 
-3957	"At the time of the attack Croatian President Franjo Tuđman was in the building meeting Stjepan Mesić then President of the Presidency of Yugoslavia a <e1> nd Ante Markov </e1> ić t <e2> hen Prime Minis </e2> ter of Yugoslavia but none of them were injured in the attack .."
+3957	"At the time of the attack Croatian President Franjo Tu?man was in the building meeting Stjepan Mesi? then President of the Presidency of Yugoslavia a <e1> nd Ante Markov </e1> i? t <e2> hen Prime Minis </e2> ter of Yugoslavia but none of them were injured in the attack .."
 per:title(e1,e2)
 
 
@@ -16002,7 +16002,7 @@ per:cities_of_residence(e2,e1)
 org:top_members/employees(e2,e1)
 
 
-4001	"Because its founder was former Osvajači frontma <e1> n Zvonko Pantovi </e1> ć the band was during the 1999 - 2003 period typically referred to as just <e2> t; Osvaja </e2> či which caused confusion among fans .."
+4001	"Because its founder was former Osvaja?i frontma <e1> n Zvonko Pantovi </e1> ? the band was during the 1999 - 2003 period typically referred to as just <e2> t; Osvaja </e2> ?i which caused confusion among fans .."
 per:employee_of(e1,e2)
 
 
@@ -16422,7 +16422,7 @@ per:countries_of_residence(e1,e2)
 org:top_members/employees(e1,e2)
 
 
-4106	"<e1> Česlovas </e1> as ( born 18 May 1938 ) is a Lithuanian politician and the former Speaker of t <e2> he Seim </e2> as the Lithuanian parliament .."
+4106	"<e1> ?eslovas </e1> as ( born 18 May 1938 ) is a Lithuanian politician and the former Speaker of t <e2> he Seim </e2> as the Lithuanian parliament .."
 per:employee_of(e1,e2)
 
 
@@ -17630,7 +17630,7 @@ org:founded_by(e1,e2)
 no_relation
 
 
-4408	"Prof. Dr. Muhammad Yar Khuhawar commonly known as Dr. Khuhawar ( D.Sc. D.Phil. Izaz‐e‐kamal SI ) is a Pakistani nuclear chemist and a Professor of Chemistry at <e1> the University of S </e1> indh <e2> #44; Paki </e2> stan .."
+4408	"Prof. Dr. Muhammad Yar Khuhawar commonly known as Dr. Khuhawar ( D.Sc. D.Phil. Izaz\e\kamal SI ) is a Pakistani nuclear chemist and a Professor of Chemistry at <e1> the University of S </e1> indh <e2> #44; Paki </e2> stan .."
 org:country_of_headquarters(e1,e2)
 
 
@@ -18042,7 +18042,7 @@ org:members(e1,e2)
 org:country_of_headquarters(e1,e2)
 
 
-4511	"The United States has made it clear that it does not like the prospect of its cold war foe returning to power especially in light of Mr. Ortega s close relationship with Presiden <e1> t Hugo </e1> z o <e2> f Venezuel </e2> a .."
+4511	"The United States has made it clear that it does not like the prospect of its cold war foe returning to power especially in light of Mr. Ortega ?s close relationship with Presiden <e1> t Hugo </e1> z o <e2> f Venezuel </e2> a .."
 per:employee_of(e1,e2)
 
 
@@ -18058,7 +18058,7 @@ org:city_of_headquarters(e1,e2)
 org:members(e2,e1)
 
 
-4515	"Nenad Janković known a <e1> s Nele Karajli </e1> ć ( born 11 December 1962 in Sarajevo <e2> PR Bosnia-Herzegovi </e2> na FPR Yugoslavia ) is a Bosnian Serb Comedian rock and roll musician composer actor and television director living and working in Belgrade .."
+4515	"Nenad Jankovi? known a <e1> s Nele Karajli </e1> ? ( born 11 December 1962 in Sarajevo <e2> PR Bosnia-Herzegovi </e2> na FPR Yugoslavia ) is a Bosnian Serb Comedian rock and roll musician composer actor and television director living and working in Belgrade .."
 per:country_of_birth(e1,e2)
 
 
@@ -18258,7 +18258,7 @@ org:country_of_headquarters(e2,e1)
 per:employee_of(e1,e2)
 
 
-4565	"Vietnam National University <e1> Ho Chi Minh </e1> City ( ) is one of the two largest national universities in <e2> Vietnam </e2> ( the other is Vietnam National University Hanoi founded on 27 January 1995 and reorganized on 12 February 2001 under the Decision no. 15/2001/Q Đ-TTg by the Prime Minister of Vietnam Phan Van Khai ) .."
+4565	"Vietnam National University <e1> Ho Chi Minh </e1> City ( ) is one of the two largest national universities in <e2> Vietnam </e2> ( the other is Vietnam National University Hanoi founded on 27 January 1995 and reorganized on 12 February 2001 under the Decision no. 15/2001/Q ?-TTg by the Prime Minister of Vietnam Phan Van Khai ) .."
 per:countries_of_residence(e1,e2)
 
 
@@ -18610,7 +18610,7 @@ org:subsidiaries(e2,e1)
 org:members(e1,e2)
 
 
-4653	"On June 30 Tōgō to <e1> ld Naotake Sa </e1> tō <e2> 44; Ja </e2> pan's ambassador in Moscow to try to establish firm and lasting relations of friendship .."
+4653	"On June 30 Tg to <e1> ld Naotake Sa </e1> t <e2> 44; Ja </e2> pan's ambassador in Moscow to try to establish firm and lasting relations of friendship .."
 per:employee_of(e1,e2)
 
 
@@ -19014,7 +19014,7 @@ org:stateorprovince_of_headquarters(e1,e2)
 no_relation
 
 
-4754	"The <e1> Kuomintang </e1> Youth League was established in 2006 by former Kuomintang Chairman <e2> Ma Ying-jeou </e2> ( 馬英九 ) during his term as chairman .."
+4754	"The <e1> Kuomintang </e1> Youth League was established in 2006 by former Kuomintang Chairman <e2> Ma Ying-jeou </e2> ( R ) during his term as chairman .."
 per:employee_of(e2,e1)
 
 
@@ -19282,7 +19282,7 @@ org:stateorprovince_of_headquarters(e1,e2)
 per:country_of_birth(e2,e1)
 
 
-4821	"It was produced by Comic Ritz International Production ( 可米瑞智國際藝能有限公司 ) and Chai Zhi Ping ( 柴智屏 ) <e1> as prod </e1> ucer and boardc <e2> asted in Taiwan on free-to </e2> -air Chinese Television System ( CTS ) ( 華視 ) .."
+4821	"It was produced by Comic Ritz International Production ( H ) and Chai Zhi Ping (  ) <e1> as prod </e1> ucer and boardc <e2> asted in Taiwan on free-to </e2> -air Chinese Television System ( CTS ) ( A ) .."
 org:country_of_headquarters(e2,e1)
 
 
@@ -19298,7 +19298,7 @@ per:country_of_birth(e1,e2)
 org:members(e1,e2)
 
 
-4825	"A number of <e1> Republika Srpska </e1> leaders were convicted for the deportations and forcible transfers in the ethnic cleansing that followed the massacre and <e2> Radovan Karadži </e2> ć former President of Republika Srpska is currently under trial for the massacre and other crimes against humanity committed in Bijelina .."
+4825	"A number of <e1> Republika Srpska </e1> leaders were convicted for the deportations and forcible transfers in the ethnic cleansing that followed the massacre and <e2> Radovan Karad?i </e2> ? former President of Republika Srpska is currently under trial for the massacre and other crimes against humanity committed in Bijelina .."
 per:employee_of(e2,e1)
 
 
@@ -19342,7 +19342,7 @@ org:city_of_headquarters(e1,e2)
 org:stateorprovince_of_headquarters(e1,e2)
 
 
-4836	"During his two-day stay in <e1> Bucharest </e1> Abbas met Traian Băsescu the President of Romania as well as the then-Prime Ministe <e2> r Călin Popescu-Tărice </e2> anu Senate Chairman of Romania Ilie and also leaders of both chambers of the Romanian parliament .."
+4836	"During his two-day stay in <e1> Bucharest </e1> Abbas met Traian B?sescu the President of Romania as well as the then-Prime Ministe <e2> r C?lin Popescu-T?rice </e2> anu Senate Chairman of Romania Ilie and also leaders of both chambers of the Romanian parliament .."
 per:employee_of(e2,e1)
 
 
@@ -19382,7 +19382,7 @@ no_relation
 no_relation
 
 
-4846	"Under Stagecoach ownership and the helm of Frank Gallagher the owner of its predecessors <e1> Coach USA </e1> sought to continue expansion but the company hit hard by the loss of charter business after the September 11 2001 attacks caused <e2> Stagecoach </e2> to crash to a loss of over ₤ 524 million at which point Stagecoach having lost over 70 percent of its investment and now under the leadership of its founder Brian Souter after the downturn cost the previous CEO of Stagecoach his job announced that all of the taxicab operations and most of Coach USA's subsidiaries were for sale as Stagecoach sought to focus mostly on operations in the northeast where Coach USA today maintains subsidized transit operations and scheduled service .."
+4846	"Under Stagecoach ownership and the helm of Frank Gallagher the owner of its predecessors <e1> Coach USA </e1> sought to continue expansion but the company hit hard by the loss of charter business after the September 11 2001 attacks caused <e2> Stagecoach </e2> to crash to a loss of over ? 524 million at which point Stagecoach having lost over 70 percent of its investment and now under the leadership of its founder Brian Souter after the downturn cost the previous CEO of Stagecoach his job announced that all of the taxicab operations and most of Coach USA's subsidiaries were for sale as Stagecoach sought to focus mostly on operations in the northeast where Coach USA today maintains subsidized transit operations and scheduled service .."
 org:subsidiaries(e2,e1)
 
 
@@ -20202,7 +20202,7 @@ per:employee_of(e2,e1)
 org:city_of_headquarters(e1,e2)
 
 
-5051	"<e1> NUGW </e1> National Council is in turn affiliated to National Trade Union Council ( 全国労働組合� <e2> ��絡協� </e2> ��会 Zenrokyo ) the smallest of the three national labour federations in Japan .."
+5051	"<e1> NUGW </e1> National Council is in turn affiliated to National Trade Union Council ( PMme2> #jf/e2> ? Zenrokyo ) the smallest of the three national labour federations in Japan .."
 org:alternate_names(e1,e2)
 
 
@@ -20978,7 +20978,7 @@ per:cities_of_residence(e2,e1)
 no_relation
 
 
-5245	"In 1987 Wagner and left <e1> Romania </e1> for West Berlin to escape communist oppression and censorship in <e2> Nicolae Ceauşesc </e2> u's Romania .."
+5245	"In 1987 Wagner and left <e1> Romania </e1> for West Berlin to escape communist oppression and censorship in <e2> Nicolae Ceau?esc </e2> u's Romania .."
 per:country_of_birth(e2,e1)
 
 
@@ -21998,7 +21998,7 @@ per:countries_of_residence(e2,e1)
 org:stateorprovince_of_headquarters(e1,e2)
 
 
-5500	"Serbian Foreign Minister Vuk Jeremić paid a visit to Azerbaijan in 2009 and President o <e1> f Serbi </e1> <e2> a Boris Tadi </e2> ć paid an official visit to Azerbaijan in 2010 .."
+5500	"Serbian Foreign Minister Vuk Jeremi? paid a visit to Azerbaijan in 2009 and President o <e1> f Serbi </e1> <e2> a Boris Tadi </e2> ? paid an official visit to Azerbaijan in 2010 .."
 per:countries_of_residence(e2,e1)
 
 
@@ -22030,7 +22030,7 @@ per:stateorprovinces_of_residence(e1,e2)
 per:title(e1,e2)
 
 
-5508	"However as the war situation in the Pacific War continued to deteriorate against the <e1> Japanese </e1> the 14th Division was reassigned to the Southern Expeditionary Army Group and was personally tasked with the defense of Palau by General <e2> Hideki Tōj </e2> ō .."
+5508	"However as the war situation in the Pacific War continued to deteriorate against the <e1> Japanese </e1> the 14th Division was reassigned to the Southern Expeditionary Army Group and was personally tasked with the defense of Palau by General <e2> Hideki Tj </e2>  .."
 per:origin(e2,e1)
 
 
@@ -22890,7 +22890,7 @@ org:city_of_headquarters(e1,e2)
 per:alternate_names(e2,e1)
 
 
-5723	"<e1> Eisaku Sat� </e1> � was presented with the Nobel Peace Prize in 1974 in large part for his work towar <e2> d Japa </e2> n's entry into the NPT .."
+5723	"<e1> Eisaku Sat?</e1> ?was presented with the Nobel Peace Prize in 1974 in large part for his work towar <e2> d Japa </e2> n's entry into the NPT .."
 no_relation
 
 
@@ -23010,7 +23010,7 @@ no_relation
 per:countries_of_residence(e1,e2)
 
 
-5753	"In Korean the name is written 정 and transliterated <e1> as Chu </e1> ng Jung <e2> or Jeo </e2> ng .."
+5753	"In Korean the name is written ? and transliterated <e1> as Chu </e1> ng Jung <e2> or Jeo </e2> ng .."
 per:alternate_names(e1,e2)
 
 
@@ -23498,7 +23498,7 @@ org:country_of_headquarters(e1,e2)
 per:title(e2,e1)
 
 
-5875	"Toward the end of the 1932 the Communists were able to create a red union ( as opposed to the social-democratic unions that existed throughout the company ) led by Panait Bogătoiu and Constantin Doncea whil <e1> e Gheorghe Gheorghiu-De </e1> j ( who later became the leader of People's Republic o <e2> f Romani </e2> a ) was coordinating the connection to the Communist Party .."
+5875	"Toward the end of the 1932 the Communists were able to create a red union ( as opposed to the social-democratic unions that existed throughout the company ) led by Panait Bog?toiu and Constantin Doncea whil <e1> e Gheorghe Gheorghiu-De </e1> j ( who later became the leader of People's Republic o <e2> f Romani </e2> a ) was coordinating the connection to the Communist Party .."
 per:employee_of(e1,e2)
 
 
@@ -23590,7 +23590,7 @@ org:subsidiaries(e1,e2)
 org:stateorprovince_of_headquarters(e1,e2)
 
 
-5898	"Fegyveres was an ex-secret agent who gave testimony in the case of kidnapping of the son of the President of <e1> Slovakia </e1> <e2> Michal </e2> � Jr. into Austria .."
+5898	"Fegyveres was an ex-secret agent who gave testimony in the case of kidnapping of the son of the President of <e1> Slovakia </e1> <e2> Michal </e2> ?Jr. into Austria .."
 per:countries_of_residence(e2,e1)
 
 
@@ -23982,7 +23982,7 @@ per:cities_of_residence(e1,e2)
 per:stateorprovinces_of_residence(e1,e2)
 
 
-5996	"<e1> Anžej Dež </e1> an ( born June 17 1987 in ( near Celje <e2> 4; Sloven </e2> ia ) is a Slovenian singer .."
+5996	"<e1> An?ej De? </e1> an ( born June 17 1987 in ( near Celje <e2> 4; Sloven </e2> ia ) is a Slovenian singer .."
 per:country_of_birth(e1,e2)
 
 
@@ -24098,7 +24098,7 @@ org:city_of_headquarters(e1,e2)
 per:country_of_birth(e2,e1)
 
 
-6025	"<e1> Līv </e1> i is a village in Biksti Parish and Dobele Municipality in the historical region of Zemgale and the Zemgale Planning Region i <e2> n Latvi </e2> a .."
+6025	"<e1> Lv </e1> i is a village in Biksti Parish and Dobele Municipality in the historical region of Zemgale and the Zemgale Planning Region i <e2> n Latvi </e2> a .."
 per:countries_of_residence(e1,e2)
 
 
@@ -24386,7 +24386,7 @@ org:alternate_names(e2,e1)
 per:stateorprovinces_of_residence(e2,e1)
 
 
-6097	"<e1> Ho Chi Minh </e1> University Of Sport ( Vietnamese language : Đại học Thể dục Thể thao Phố Hồ Minh ) is a university in Ho Chi <e2> Minh Cit </e2> y Vietnam .."
+6097	"<e1> Ho Chi Minh </e1> University Of Sport ( Vietnamese language : ??i h?c Th? d?c Th? thao Ph? H? Minh ) is a university in Ho Chi <e2> Minh Cit </e2> y Vietnam .."
 org:country_of_headquarters(e1,e2)
 
 
@@ -24666,7 +24666,7 @@ per:employee_of(e2,e1)
 org:stateorprovince_of_headquarters(e2,e1)
 
 
-6167	"Darius Florin Brăguși ( born June 18 1993 ) is a Romanian professional tennis player playing on t <e1> he I </e1> TF Men's Circuit and current member of the Roman <e2> ia Davis C </e2> up Team .."
+6167	"Darius Florin Br?gu?i ( born June 18 1993 ) is a Romanian professional tennis player playing on t <e1> he I </e1> TF Men's Circuit and current member of the Roman <e2> ia Davis C </e2> up Team .."
 org:members(e1,e2)
 
 
@@ -24762,7 +24762,7 @@ org:stateorprovince_of_headquarters(e1,e2)
 per:cities_of_residence(e1,e2)
 
 
-6191	"Suzanne Mubarak ( Sūzān Mubārak ; born 28 February 1941 ) is married to the former Egyptian Presid <e1> ent Hosni Muba </e1> rak and was the First Lady <e2> of Eg </e2> ypt until her husband resigned on 11 February 2011 .."
+6191	"Suzanne Mubarak ( Szn Mubrak ; born 28 February 1941 ) is married to the former Egyptian Presid <e1> ent Hosni Muba </e1> rak and was the First Lady <e2> of Eg </e2> ypt until her husband resigned on 11 February 2011 .."
 per:employee_of(e1,e2)
 
 
@@ -25134,7 +25134,7 @@ per:countries_of_residence(e1,e2)
 org:city_of_headquarters(e1,e2)
 
 
-6284	"He co-founded the Bosnian Serb nationalist Serbian Democratic Party ( SDS ) with <e1> Radovan Karadži </e1> ć Retrieved 26 July 2010 and between 1990 and 1992 he was the speaker of the National Assembly of t <e2> he Republika Srps </e2> ka and between June and December 1992 a member of the expanded Presidency of the Bosnian Serb Republic .."
+6284	"He co-founded the Bosnian Serb nationalist Serbian Democratic Party ( SDS ) with <e1> Radovan Karad?i </e1> ? Retrieved 26 July 2010 and between 1990 and 1992 he was the speaker of the National Assembly of t <e2> he Republika Srps </e2> ka and between June and December 1992 a member of the expanded Presidency of the Bosnian Serb Republic .."
 per:employee_of(e1,e2)
 
 
@@ -25230,11 +25230,11 @@ org:alternate_names(e2,e1)
 no_relation
 
 
-6308	"She was the second daughter of <e1> Judith of Swabia </e1> and <e2> Władysław I Herm </e2> an .."
+6308	"She was the second daughter of <e1> Judith of Swabia </e1> and <e2> W?adys?aw I Herm </e2> an .."
 per:spouse(e2,e1)
 
 
-6309	"<e1> Željko </e1> ć a Croat member of t <e2> he Presiden </e2> cy of Bosnia and Herzegovina had written a letter to the Swedish authorities in September 2008 urging them not to release stating that any act of mercy would be big mistake and an insult to the victims and families of the victims .."
+6309	"<e1> ?eljko </e1> ? a Croat member of t <e2> he Presiden </e2> cy of Bosnia and Herzegovina had written a letter to the Swedish authorities in September 2008 urging them not to release stating that any act of mercy would be big mistake and an insult to the victims and families of the victims .."
 per:employee_of(e1,e2)
 
 
@@ -25266,7 +25266,7 @@ org:members(e2,e1)
 org:city_of_headquarters(e1,e2)
 
 
-6317	"On <e1> 19 December 1990 </e1> Alija Izetbegović and the SDA party alarmed by the SDS's secessionists attitudes discussed forming an independent Bosnian army late <e2> r Army of the Republic of Bosnia and Herzegovin </e2> a .."
+6317	"On <e1> 19 December 1990 </e1> Alija Izetbegovi? and the SDA party alarmed by the SDS's secessionists attitudes discussed forming an independent Bosnian army late <e2> r Army of the Republic of Bosnia and Herzegovin </e2> a .."
 org:founded(e2,e1)
 
 
@@ -25442,7 +25442,7 @@ no_relation
 per:employee_of(e2,e1)
 
 
-6361	"Coalition for European <e1> Montenegro </e1> ( Montenegrin : Коалиција за Европску Црну Гору Koalicija za Evropsku Crnu Goru ) is the ruling political allia <e2> nce in Monteneg </e2> ro headed by Milo Đukanović's Democratic Party of Socialists ( DPS ) .."
+6361	"Coalition for European <e1> Montenegro </e1> ( Montenegrin : ?     Koalicija za Evropsku Crnu Goru ) is the ruling political allia <e2> nce in Monteneg </e2> ro headed by Milo ?ukanovi?'s Democratic Party of Socialists ( DPS ) .."
 per:employee_of(e2,e1)
 
 
@@ -25522,7 +25522,7 @@ org:city_of_headquarters(e1,e2)
 org:alternate_names(e2,e1)
 
 
-6381	"<e1> Tata Tea </e1> is the biggest-selling tea brand in <e2> India </e2> Tetley is the second biggest-selling tea brand in the United Kingdom and Canada and the second biggest-selling in the United StatesTata Tea Company Profile and JEMČA is the biggest-selling tea brand in the Czech Republic. : Tetley.com : Tata Global Beverages ventured into the Indian cafe market with a 50/50 joint venture with Starbucks Coffee Company .."
+6381	"<e1> Tata Tea </e1> is the biggest-selling tea brand in <e2> India </e2> Tetley is the second biggest-selling tea brand in the United Kingdom and Canada and the second biggest-selling in the United StatesTata Tea Company Profile and JEM?A is the biggest-selling tea brand in the Czech Republic. : Tetley.com : Tata Global Beverages ventured into the Indian cafe market with a 50/50 joint venture with Starbucks Coffee Company .."
 org:country_of_headquarters(e1,e2)
 
 
@@ -25842,7 +25842,7 @@ no_relation
 per:country_of_birth(e1,e2)
 
 
-6461	"The Dayton Agreement signed in 1995 banned the then President of <e1> Republika Srpska </e1> <e2> Radovan Karadži </e2> ć from office and was chosen to run as the SDS candidate for President of the Republika Srpska for a two-year mandate .."
+6461	"The Dayton Agreement signed in 1995 banned the then President of <e1> Republika Srpska </e1> <e2> Radovan Karad?i </e2> ? from office and was chosen to run as the SDS candidate for President of the Republika Srpska for a two-year mandate .."
 per:employee_of(e2,e1)
 
 
@@ -25950,7 +25950,7 @@ per:title(e2,e1)
 org:country_of_headquarters(e2,e1)
 
 
-6488	"His finest novel is Chashm ' hā ' yash <e1> ( He </e1> r Eyes ) which was published i <e2> n Ira </e2> n in 1952 and was subsequently banned .."
+6488	"His finest novel is Chashm ' h ' yash <e1> ( He </e1> r Eyes ) which was published i <e2> n Ira </e2> n in 1952 and was subsequently banned .."
 no_relation
 
 
@@ -26026,7 +26026,7 @@ per:countries_of_residence(e1,e2)
 per:origin(e1,e2)
 
 
-6507	"In 1089 <e1> Władysław I Herm </e1> an marri <e2> ed Judith of Swab </e2> ia who was renamed Sophia in order to distinguish herself from Władysław I's first wife .."
+6507	"In 1089 <e1> W?adys?aw I Herm </e1> an marri <e2> ed Judith of Swab </e2> ia who was renamed Sophia in order to distinguish herself from W?adys?aw I's first wife .."
 per:spouse(e1,e2)
 
 
@@ -26222,7 +26222,7 @@ org:country_of_headquarters(e2,e1)
 per:cities_of_residence(e1,e2)
 
 
-6556	"It contains the mausolea of the Taishō Emperor <e1> ; Empress Teime </e1> i the Shōwa Emperor <e2> ( Hirohi </e2> to ) and Empress Kōjun .."
+6556	"It contains the mausolea of the Taish Emperor <e1> ; Empress Teime </e1> i the Shwa Emperor <e2> ( Hirohi </e2> to ) and Empress Kjun .."
 per:alternate_names(e1,e2)
 
 
@@ -26234,7 +26234,7 @@ org:city_of_headquarters(e1,e2)
 no_relation
 
 
-6559	"B92 - News - Politics - Tadić to dissolve parliament on March 13 A revote was held in three polling stations ( in Kraljevo Žagubica and Srbica ) on 18 May 2008 due to irregularities in the electoral process.B 92 - News - Politics - Revote ongoing in six polling stations A list of registered electoral lists : M national minority list The parties ' campaign slogans for the 2008 election <e1> : Preside </e1> <e2> nt Boris Tad </e2> ić has gathered a large pro-EU coalition around his DS and G17 Plus .."
+6559	"B92 - News - Politics - Tadi? to dissolve parliament on March 13 A revote was held in three polling stations ( in Kraljevo ?agubica and Srbica ) on 18 May 2008 due to irregularities in the electoral process.B 92 - News - Politics - Revote ongoing in six polling stations A list of registered electoral lists : M national minority list The parties ' campaign slogans for the 2008 election <e1> : Preside </e1> <e2> nt Boris Tad </e2> i? has gathered a large pro-EU coalition around his DS and G17 Plus .."
 per:title(e2,e1)
 
 
@@ -26382,7 +26382,7 @@ org:members(e2,e1)
 per:countries_of_residence(e1,e2)
 
 
-6596	"He clashed with Svetozar Vukmanović-Tempo Josip Broz Tito envoy t <e1> o Macedoni </e1> a an <e2> d Lazar </e2> i the leader of the ruling Communist Party of Macedonia .."
+6596	"He clashed with Svetozar Vukmanovi?-Tempo Josip Broz Tito envoy t <e1> o Macedoni </e1> a an <e2> d Lazar </e2> i the leader of the ruling Communist Party of Macedonia .."
 per:countries_of_residence(e2,e1)
 
 
@@ -26502,7 +26502,7 @@ per:countries_of_residence(e1,e2)
 org:alternate_names(e1,e2)
 
 
-6626	"The Land Forces Air Force and Naval Forces of <e1> Romania </e1> are collectively known as the <e2> Romanian Armed Forces </e2> ( Romanian : Forţele Armate or Armata ) .."
+6626	"The Land Forces Air Force and Naval Forces of <e1> Romania </e1> are collectively known as the <e2> Romanian Armed Forces </e2> ( Romanian : For?ele Armate or Armata ) .."
 org:country_of_headquarters(e2,e1)
 
 
@@ -26558,7 +26558,7 @@ org:city_of_headquarters(e1,e2)
 org:members(e2,e1)
 
 
-6640	"Born in Hachiōji Tokyo <e1> ; Japa </e1> n Shirayanagi studied a <e2> t Sophia Universit </e2> y earning a degree in philosophy in 1951 and a specialization in theology in 1954 .."
+6640	"Born in Hachiji Tokyo <e1> ; Japa </e1> n Shirayanagi studied a <e2> t Sophia Universit </e2> y earning a degree in philosophy in 1951 and a specialization in theology in 1954 .."
 org:country_of_headquarters(e2,e1)
 
 
@@ -26806,7 +26806,7 @@ per:countries_of_residence(e1,e2)
 per:spouse(e1,e2)
 
 
-6702	"The following is list of the channels with their names : All <e1> CCTV </e1> channels are also broadcast via the following : Currently CCTV has 7 channels broadcasting around the world ( CCTV-4 in Chinese CCTV-NEWS and <e2> CCTV-9 </e2> Documentary in English in French in Spanish CCTV-العربية in Arabic and CCTV-Pусский in Russian .."
+6702	"The following is list of the channels with their names : All <e1> CCTV </e1> channels are also broadcast via the following : Currently CCTV has 7 channels broadcasting around the world ( CCTV-4 in Chinese CCTV-NEWS and <e2> CCTV-9 </e2> Documentary in English in French in Spanish CCTV-??????? in Arabic and CCTV-P in Russian .."
 org:subsidiaries(e1,e2)
 
 
@@ -27114,7 +27114,7 @@ org:subsidiaries(e2,e1)
 no_relation
 
 
-6779	"<e1> Nguyễn Tấn </e1> Dũng ( born 17 November 1949 ) is the Prime Minist <e2> er of Vi </e2> etnam .."
+6779	"<e1> Nguy?n T?n </e1> D?ng ( born 17 November 1949 ) is the Prime Minist <e2> er of Vi </e2> etnam .."
 per:countries_of_residence(e1,e2)
 
 
@@ -28158,7 +28158,7 @@ org:city_of_headquarters(e1,e2)
 per:employee_of(e1,e2)
 
 
-7040	"Ngọc Đại continued with his own Nhật thực 2 in 2003 without Ha <e1> Tran and Vi </e1> Thuỳ Linh but there were ma <e2> ny stars </e2> of Vietnam such as : Thanh Lam Hồ Quỳnh Hương Linh Dung Dương Linh Ngọc However Nhat Thuc 2 live concert and the album ( sold at special price of VND 6000 equal to about USD 0.5 ) did not get any success as the first one .."
+7040	"Ng?c ??i continued with his own Nh?t th?c 2 in 2003 without Ha <e1> Tran and Vi </e1> Thu? Linh but there were ma <e2> ny stars </e2> of Vietnam such as : Thanh Lam H? Qu?nh H??ng Linh Dung D??ng Linh Ng?c However Nhat Thuc 2 live concert and the album ( sold at special price of VND 6000 equal to about USD 0.5 ) did not get any success as the first one .."
 per:countries_of_residence(e1,e2)
 
 
@@ -28234,7 +28234,7 @@ org:founded(e2,e1)
 no_relation
 
 
-7059	"The South <e1> Vietnam national football team </e1> ( Vietnamese : Đội tuyển cầu quốc gia Việt Nam Cộng ) was the national <e2> team of </e2> South Vietnam controlled by Vietnam Football Association ( now Vietnam Football Federation ) between 1949 and 1975 .."
+7059	"The South <e1> Vietnam national football team </e1> ( Vietnamese : ??i tuy?n c?u qu?c gia Vi?t Nam C?ng ) was the national <e2> team of </e2> South Vietnam controlled by Vietnam Football Association ( now Vietnam Football Federation ) between 1949 and 1975 .."
 org:country_of_headquarters(e1,e2)
 
 
@@ -28266,7 +28266,7 @@ per:cities_of_residence(e2,e1)
 org:alternate_names(e2,e1)
 
 
-7067	"Although the area was recreated as a fictionalized Kamurocho district much of Kabukichō's landmarks remain such as the red neon sign Kabukicho Ichiban-kai ( 歌舞伎町一番街 ) portal in the district's main entrance ( renamed Kamurochō tenkaichidōri 神室町天下一通り ) Koma Theater ( renamed Kamuro Theater ) Theater Square Milano Bowl ( r <e1> enamed Shunj </e1> iku Mach Bowl ) Don Quijote discou <e2> nt store </e2> ( a tie-in ) Seibu Shinjuku Station Kabukicho Sakura Street ( 歌舞伎町 さくら通り ) portal renamed Kamurocho Pink Street ( 神室町ピンク通り ) and its adjacent FamilyMart convenience store ( renamed Poppo ) .."
+7067	"Although the area was recreated as a fictionalized Kamurocho district much of Kabukich's landmarks remain such as the red neon sign Kabukicho Ichiban-kai (  ) portal in the district's main entrance ( renamed Kamuroch tenkaichidri  ) Koma Theater ( renamed Kamuro Theater ) Theater Square Milano Bowl ( r <e1> enamed Shunj </e1> iku Mach Bowl ) Don Quijote discou <e2> nt store </e2> ( a tie-in ) Seibu Shinjuku Station Kabukicho Sakura Street (   ) portal renamed Kamurocho Pink Street (  ) and its adjacent FamilyMart convenience store ( renamed Poppo ) .."
 no_relation
 
 
@@ -28354,7 +28354,7 @@ org:city_of_headquarters(e1,e2)
 no_relation
 
 
-7089	"<e1> Irkutsk State University </e1> ( Russian : Иркутский государственный универ <e2> си� </e2> �ет ) was founded in October 1918 in Irkutsk Siberia .."
+7089	"<e1> Irkutsk State University </e1> ( Russian :    <e2> ?</e2> D??) was founded in October 1918 in Irkutsk Siberia .."
 org:founded(e1,e2)
 
 
@@ -28418,7 +28418,7 @@ org:subsidiaries(e1,e2)
 per:cities_of_residence(e1,e2)
 
 
-7105	"The Rạp River ( Rạp ) is a rive <e1> r in Vie </e1> tnam sout <e2> h of Ho Chi </e2> Minh City .."
+7105	"The R?p River ( R?p ) is a rive <e1> r in Vie </e1> tnam sout <e2> h of Ho Chi </e2> Minh City .."
 per:countries_of_residence(e2,e1)
 
 
@@ -28838,7 +28838,7 @@ per:title(e2,e1)
 per:country_of_birth(e1,e2)
 
 
-7210	"Instead <e1> Shinzō Ab </e1> e succeeded Junichiro Koizumi as leader of the LDP and Prime Minister o <e2> f Japa </e2> n .."
+7210	"Instead <e1> Shinz Ab </e1> e succeeded Junichiro Koizumi as leader of the LDP and Prime Minister o <e2> f Japa </e2> n .."
 per:employee_of(e1,e2)
 
 
@@ -29402,7 +29402,7 @@ org:city_of_headquarters(e1,e2)
 per:employee_of(e1,e2)
 
 
-7351	"The partition of <e1> Vietnam </e1> with <e2> Ho Chi Minh </e2> 's Democratic Republic of Vietnam in North Vietnam and Emperor Bảo Đại's State of Vietnam in South Vietnam was not intended to be permanent by the Geneva Accords and the Accords expressly forbade the interference of third powers .."
+7351	"The partition of <e1> Vietnam </e1> with <e2> Ho Chi Minh </e2> 's Democratic Republic of Vietnam in North Vietnam and Emperor B?o ??i's State of Vietnam in South Vietnam was not intended to be permanent by the Geneva Accords and the Accords expressly forbade the interference of third powers .."
 per:countries_of_residence(e2,e1)
 
 
@@ -30290,7 +30290,7 @@ per:country_of_birth(e2,e1)
 org:city_of_headquarters(e1,e2)
 
 
-7573	"There are currently three living former Prime Ministers of <e1> Czechoslovakia </e1> -- Čalfa an <e2> d Jan </e2> ; .."
+7573	"There are currently three living former Prime Ministers of <e1> Czechoslovakia </e1> -- ?alfa an <e2> d Jan </e2> ; .."
 per:employee_of(e2,e1)
 
 
@@ -30338,7 +30338,7 @@ per:alternate_names(e2,e1)
 org:members(e2,e1)
 
 
-7585	"In <e1> Missouri </e1> Republican Sen. <e2> Jim Talent </e2> and Democratic challenger Claire McCaskill the state auditor won their party s primaries .."
+7585	"In <e1> Missouri </e1> Republican Sen. <e2> Jim Talent </e2> and Democratic challenger Claire McCaskill the state auditor won their party ?s primaries .."
 per:stateorprovinces_of_residence(e2,e1)
 
 
@@ -30414,7 +30414,7 @@ no_relation
 per:countries_of_residence(e1,e2)
 
 
-7604	"Morarji Ranchhodji Desai ( Hindi : मोरारजी देसाई ; 29 February 1896 10 April 1995 ) <e1> NPk was a notable Indi </e1> an independence activist and the <e2> fourth </e2> Prime Minister of India from 1977 - 1979 .."
+7604	"Morarji Ranchhodji Desai ( Hindi : ??????? ????? ; 29 February 1896 10 April 1995 ) <e1> NPk was a notable Indi </e1> an independence activist and the <e2> fourth </e2> Prime Minister of India from 1977 - 1979 .."
 per:origin(e1,e2)
 
 
@@ -30606,7 +30606,7 @@ per:spouse(e1,e2)
 org:members(e2,e1)
 
 
-7652	"He is voiced by <e1> Ch� </e1> � ( チョー ) ( also known as <e2> Yūichi N </e2> agashima ( 長島 雄一 ) ) .."
+7652	"He is voiced by <e1> Ch?</e1> ?( ` ) ( also known as <e2> Yichi N </e2> agashima ( Lu  ) ) .."
 per:alternate_names(e1,e2)
 
 
@@ -30750,7 +30750,7 @@ no_relation
 per:employee_of(e2,e1)
 
 
-7688	"He was the father of <e1> Empress Kōju </e1> n ( who in turn was the consort of the Shōwa Emperor ) and therefore the maternal grandfather of the present emperor <e2> of Jap </e2> an Akihito .."
+7688	"He was the father of <e1> Empress Kju </e1> n ( who in turn was the consort of the Shwa Emperor ) and therefore the maternal grandfather of the present emperor <e2> of Jap </e2> an Akihito .."
 per:employee_of(e1,e2)
 
 
@@ -30874,7 +30874,7 @@ per:stateorprovinces_of_residence(e1,e2)
 per:cities_of_residence(e1,e2)
 
 
-7719	"Since then <e1> Japan </e1> has had three further prime ministers ( Shinzō Abe <e2> ; Yasuo Fukud </e2> a and Taro Aso ) who have come to power without there being a general election .."
+7719	"Since then <e1> Japan </e1> has had three further prime ministers ( Shinz Abe <e2> ; Yasuo Fukud </e2> a and Taro Aso ) who have come to power without there being a general election .."
 per:countries_of_residence(e2,e1)
 
 
@@ -31130,7 +31130,7 @@ per:stateorprovinces_of_residence(e1,e2)
 per:cities_of_residence(e2,e1)
 
 
-7783	"In 1968 <e1> he </e1> joined the Communist Party of <e2> Slovakia </e2> supposedly to support Alexander Dubček's reforms but he was expelled from the party after the Warsaw Pact invasion in Czechoslovakia in August 1968 ( see History of Czechoslovakia ) .."
+7783	"In 1968 <e1> he </e1> joined the Communist Party of <e2> Slovakia </e2> supposedly to support Alexander Dub?ek's reforms but he was expelled from the party after the Warsaw Pact invasion in Czechoslovakia in August 1968 ( see History of Czechoslovakia ) .."
 per:countries_of_residence(e1,e2)
 
 
@@ -31314,7 +31314,7 @@ org:stateorprovince_of_headquarters(e2,e1)
 org:city_of_headquarters(e1,e2)
 
 
-7829	"In March 2000 he became Special Advisor to the <e1> Prime Minister </e1> serving under Obuchi and his successor <e2> Yoshirō Mor </e2> i .."
+7829	"In March 2000 he became Special Advisor to the <e1> Prime Minister </e1> serving under Obuchi and his successor <e2> Yoshir Mor </e2> i .."
 per:employee_of(e2,e1)
 
 
@@ -31498,7 +31498,7 @@ org:founded_by(e1,e2)
 per:employee_of(e2,e1)
 
 
-7875	"<e1> Mitr Chaibancha </e1> ( Thai มิตร ชัยบัญชา ( Pronunciation ) January 28 1 <e2> 934 in Ph </e2> etchaburi Thailand - October 8 1970 ) was a Thai film actor who made 266 films from 1956 to 1970 .."
+7875	"<e1> Mitr Chaibancha </e1> ( Thai ???? ???????? ( Pronunciation ) January 28 1 <e2> 934 in Ph </e2> etchaburi Thailand - October 8 1970 ) was a Thai film actor who made 266 films from 1956 to 1970 .."
 per:country_of_birth(e1,e2)
 
 
@@ -31726,7 +31726,7 @@ per:employee_of(e2,e1)
 per:title(e2,e1)
 
 
-7932	"On the night the song was performed fourth following <e1> Slovenia </e1> 's <e2> Anžej Dež </e2> an with Mr Nobody and preceding Polina Smolova of Belarus with Mum .."
+7932	"On the night the song was performed fourth following <e1> Slovenia </e1> 's <e2> An?ej De? </e2> an with Mr Nobody and preceding Polina Smolova of Belarus with Mum .."
 no_relation
 
 
@@ -31838,7 +31838,7 @@ org:subsidiaries(e1,e2)
 org:subsidiaries(e2,e1)
 
 
-7960	"In subsequent periods Stefanov's image and status remained the subject of allegations inside Communist <e1> Romania </e1> : in 1961 the high-ranking Communist activist Valter Roman who had been himself disgraced and rehabilitated by <e2> Gheorghe Gheorghiu-Dej </e2> spoke out against former Communist politicians who had been purged at various stages Stefanov included ; he was interrupted by Petre Borilă who notably added a claim that Stefanov had admired Nazism and had seen in it a path to a socialist economy .."
+7960	"In subsequent periods Stefanov's image and status remained the subject of allegations inside Communist <e1> Romania </e1> : in 1961 the high-ranking Communist activist Valter Roman who had been himself disgraced and rehabilitated by <e2> Gheorghe Gheorghiu-Dej </e2> spoke out against former Communist politicians who had been purged at various stages Stefanov included ; he was interrupted by Petre Boril? who notably added a claim that Stefanov had admired Nazism and had seen in it a path to a socialist economy .."
 per:countries_of_residence(e2,e1)
 
 
@@ -32138,7 +32138,7 @@ org:founded(e2,e1)
 no_relation
 
 
-8035	"Both <e1> Teru </e1> and Hizaki participated in the Blue Planet <e2> Japan </e2> project which was created in response to the 2011 Tōhoku earthquake and tsunami .."
+8035	"Both <e1> Teru </e1> and Hizaki participated in the Blue Planet <e2> Japan </e2> project which was created in response to the 2011 Thoku earthquake and tsunami .."
 per:countries_of_residence(e1,e2)
 
 
@@ -32270,7 +32270,7 @@ per:employee_of(e2,e1)
 org:city_of_headquarters(e1,e2)
 
 
-8068	"He has often been referred to by Western media as the Butcher of Bosnia a title also sometimes applied to <e1> Radovan Karadži </e1> ć the former President <e2> of Republika Srps </e2> ka .."
+8068	"He has often been referred to by Western media as the Butcher of Bosnia a title also sometimes applied to <e1> Radovan Karad?i </e1> ? the former President <e2> of Republika Srps </e2> ka .."
 per:employee_of(e1,e2)
 
 
@@ -32390,7 +32390,7 @@ org:stateorprovince_of_headquarters(e1,e2)
 per:title(e1,e2)
 
 
-8098	"<e1> Charles Proteus Steinmetz </e1> ( April 9 1865 in Wrocław October 26 1923 ) was <e2> a mathematicia </e2> n and electrical engineer .."
+8098	"<e1> Charles Proteus Steinmetz </e1> ( April 9 1865 in Wroc?aw October 26 1923 ) was <e2> a mathematicia </e2> n and electrical engineer .."
 per:title(e1,e2)
 
 
@@ -32450,7 +32450,7 @@ per:stateorprovinces_of_residence(e1,e2)
 org:country_of_headquarters(e2,e1)
 
 
-8113	"Before his indictment Halilović was a government minister in the Federation o <e1> f Bosnia and Herzegovin </e1> a and the leader of his own political party the Bosnian-Herzegovinian Patriotic Party-Sefer Halilović and was known for his vocal criticism of Bosnian preside <e2> nt Alija Izetbegov </e2> ić .."
+8113	"Before his indictment Halilovi? was a government minister in the Federation o <e1> f Bosnia and Herzegovin </e1> a and the leader of his own political party the Bosnian-Herzegovinian Patriotic Party-Sefer Halilovi? and was known for his vocal criticism of Bosnian preside <e2> nt Alija Izetbegov </e2> i? .."
 per:countries_of_residence(e2,e1)
 
 
@@ -32750,7 +32750,7 @@ org:alternate_names(e1,e2)
 no_relation
 
 
-8188	"On March 21 1996 the road in front of the Presidential Building was renamed from Long Live Chiang Kai-shek Road ( 介壽路 ) to Ketagalan Boulevard ( 凱達格蘭大道 <e1> ) by th </e1> en-mayor of <e2> Taipei City </e2> 44; Chen Shui-bian to commemorate this tribe .."
+8188	"On March 21 1996 the road in front of the Presidential Building was renamed from Long Live Chiang Kai-shek Road (  ) to Ketagalan Boulevard ( P_m <e1> ) by th </e1> en-mayor of <e2> Taipei City </e2> 44; Chen Shui-bian to commemorate this tribe .."
 per:employee_of(e2,e1)
 
 
@@ -32758,7 +32758,7 @@ per:employee_of(e2,e1)
 per:cities_of_residence(e1,e2)
 
 
-8190	"The second Serbian entry performed in <e1> Belgrade </e1> was written by past entrant for Serbia as part of Serbia and Montenegro and contest host <e2> Željko Joksimovi </e2> ć .."
+8190	"The second Serbian entry performed in <e1> Belgrade </e1> was written by past entrant for Serbia as part of Serbia and Montenegro and contest host <e2> ?eljko Joksimovi </e2> ? .."
 per:cities_of_residence(e2,e1)
 
 
@@ -32918,7 +32918,7 @@ org:founded_by(e2,e1)
 per:stateorprovinces_of_residence(e1,e2)
 
 
-8230	"In <e1> Japan </e1> was initially commemorated during the Shōwa period as the birthday o <e2> f Empress Kōj </e2> un ( mother of Emperor Akihito ) on 6 March .."
+8230	"In <e1> Japan </e1> was initially commemorated during the Shwa period as the birthday o <e2> f Empress Kj </e2> un ( mother of Emperor Akihito ) on 6 March .."
 per:country_of_birth(e2,e1)
 
 
@@ -32998,7 +32998,7 @@ org:subsidiaries(e2,e1)
 org:alternate_names(e2,e1)
 
 
-8250	"Prior to his presidency <e1> Tadi� </e1> � served as the last Minister of Telecommunications of the Federal Republic of Yugoslavia and as the first Minister o <e2> f Defenc </e2> e of Serbia and Montenegro .."
+8250	"Prior to his presidency <e1> Tadi?</e1> ?served as the last Minister of Telecommunications of the Federal Republic of Yugoslavia and as the first Minister o <e2> f Defenc </e2> e of Serbia and Montenegro .."
 no_relation
 
 
@@ -33046,7 +33046,7 @@ org:city_of_headquarters(e1,e2)
 no_relation
 
 
-8262	"Much of the earlier political bipolarity in <e1> Pakistan </e1> was based on public emotion radiating from the PPP s first rule associated with nationalisation and the subsequent emergence of the PML o <e2> f Nawaz Shari </e2> f under the protection of General Zia ul Haq and his Islamisation .."
+8262	"Much of the earlier political bipolarity in <e1> Pakistan </e1> was based on public emotion radiating from the PPP ?s first rule associated with nationalisation and the subsequent emergence of the PML o <e2> f Nawaz Shari </e2> f under the protection of General Zia ul Haq and his Islamisation .."
 per:countries_of_residence(e2,e1)
 
 
@@ -33090,7 +33090,7 @@ per:employee_of(e1,e2)
 org:city_of_headquarters(e1,e2)
 
 
-8273	"Before signing to <e1> Braşo </e1> v Roman was linked with othe <e2> r Liga </e2> I clubs such as FC Vaslui and Oţelul Galaţi .."
+8273	"Before signing to <e1> Bra?o </e1> v Roman was linked with othe <e2> r Liga </e2> I clubs such as FC Vaslui and O?elul Gala?i .."
 no_relation
 
 
@@ -33098,7 +33098,7 @@ no_relation
 org:stateorprovince_of_headquarters(e1,e2)
 
 
-8275	"Dejanović is the second woman at the head of the National Assembly o <e1> f Serbi </e1> a afte <e2> r Mić </e2> ić who was President of Parliament 2001-2004 and the first one in the independent Serbia .."
+8275	"Dejanovi? is the second woman at the head of the National Assembly o <e1> f Serbi </e1> a afte <e2> r Mi? </e2> i? who was President of Parliament 2001-2004 and the first one in the independent Serbia .."
 per:employee_of(e2,e1)
 
 
@@ -33594,7 +33594,7 @@ org:founded(e2,e1)
 no_relation
 
 
-8399	"On 19 October 2012 normalisation talks mediated by the European Union began in Brussels with Serbian Prime Minister Ivica Dačić a <e1> nd Koso </e1> vo Prime Minist <e2> er Hashim </e2> ;i where the two PMs sat at the table and initiated talks on normalising relations between Pristina and Belgrade .."
+8399	"On 19 October 2012 normalisation talks mediated by the European Union began in Brussels with Serbian Prime Minister Ivica Da?i? a <e1> nd Koso </e1> vo Prime Minist <e2> er Hashim </e2> ;i where the two PMs sat at the table and initiated talks on normalising relations between Pristina and Belgrade .."
 no_relation
 
 
@@ -34102,7 +34102,7 @@ per:employee_of(e2,e1)
 org:city_of_headquarters(e2,e1)
 
 
-8526	"It was reported that the university would be effectively abolished : <e1> its </e1> constituents <e2> University of Wales </e2> Newport and Glyndŵr University were to become independent universities while Swansea Metropolitan Universitywould merge with Trinity Saint David and operate as University of Wales : Trinity Saint David ) .."
+8526	"It was reported that the university would be effectively abolished : <e1> its </e1> constituents <e2> University of Wales </e2> Newport and Glynd?r University were to become independent universities while Swansea Metropolitan Universitywould merge with Trinity Saint David and operate as University of Wales : Trinity Saint David ) .."
 org:subsidiaries(e1,e2)
 
 
@@ -34326,7 +34326,7 @@ per:origin(e1,e2)
 per:employee_of(e1,e2)
 
 
-8582	"The Turkish Foreign Minister Turan had said to th <e1> e Prime Ministe </e1> <e2> r Ecevi </e2> t When I say Ayşe is going on vacation ( Turkish : Ayşe Tatile ) it will mean that our armed forces are ready to go into action .."
+8582	"The Turkish Foreign Minister Turan had said to th <e1> e Prime Ministe </e1> <e2> r Ecevi </e2> t When I say Ay?e is going on vacation ( Turkish : Ay?e Tatile ) it will mean that our armed forces are ready to go into action .."
 per:title(e2,e1)
 
 
@@ -34462,7 +34462,7 @@ org:members(e2,e1)
 per:countries_of_residence(e1,e2)
 
 
-8616	"Artists in the collection include Romanians Ion Andreescu Corneliu Baba Henri Catargi Alexandru Ciucurencu Horia Damian Nicolae Dărăscu Lucian Grigorescu Nicolae Grigorescu Iosif Iser Ştefan Luchian Samuel Mutzner Alexandru Padina Theodor Pallady Gheorghe Petrașcu Vasile Popescu Camil Ressu and Nicolae Tonitza and French artists Pierre Bonnard Paul the museum has the only in Romania Jean-Baptiste Camille Corot Delacroix Derain Raoul Dufy Albert Marquet Henri Matisse Camille Pissarro <e1> #44; Pierre-Auguste Re </e1> noir and Maurice Utrillo as well as pieces by two other artists who worke <e2> d in Fr </e2> ance the Spaniard Pablo Picasso and the Englishman Alfred Sisley .."
+8616	"Artists in the collection include Romanians Ion Andreescu Corneliu Baba Henri Catargi Alexandru Ciucurencu Horia Damian Nicolae D?r?scu Lucian Grigorescu Nicolae Grigorescu Iosif Iser ?tefan Luchian Samuel Mutzner Alexandru Padina Theodor Pallady Gheorghe Petra?cu Vasile Popescu Camil Ressu and Nicolae Tonitza and French artists Pierre Bonnard Paul the museum has the only in Romania Jean-Baptiste Camille Corot Delacroix Derain Raoul Dufy Albert Marquet Henri Matisse Camille Pissarro <e1> #44; Pierre-Auguste Re </e1> noir and Maurice Utrillo as well as pieces by two other artists who worke <e2> d in Fr </e2> ance the Spaniard Pablo Picasso and the Englishman Alfred Sisley .."
 per:countries_of_residence(e1,e2)
 
 
@@ -35006,7 +35006,7 @@ no_relation
 org:subsidiaries(e1,e2)
 
 
-8752	"in <e1> Japan </e1> are written and drawn by Akira Amano and have been serialized in <e2> Weekly Shōnen Jum </e2> p by Shueisha since its premiere on May 31 2004 and ran until its conclusion in November 12 2012 with the final 42nd volume released in March 2013 .."
+8752	"in <e1> Japan </e1> are written and drawn by Akira Amano and have been serialized in <e2> Weekly Shnen Jum </e2> p by Shueisha since its premiere on May 31 2004 and ran until its conclusion in November 12 2012 with the final 42nd volume released in March 2013 .."
 org:country_of_headquarters(e2,e1)
 
 
@@ -35222,7 +35222,7 @@ per:alternate_names(e1,e2)
 no_relation
 
 
-8806	"<e1> Yigal Carmon </e1> ( Hebrew יגאל כרמון ) ( born 1946 ) is the president and found <e2> er of the Middle East Media Research </e2> Institute ( MEMRI ) an organization which monitors and translates Arabic and Persian publications radio and TV broadcasts and religious sermons into many languages and circulates them over the Internet .."
+8806	"<e1> Yigal Carmon </e1> ( Hebrew ???? ????? ) ( born 1946 ) is the president and found <e2> er of the Middle East Media Research </e2> Institute ( MEMRI ) an organization which monitors and translates Arabic and Persian publications radio and TV broadcasts and religious sermons into many languages and circulates them over the Internet .."
 org:founded_by(e2,e1)
 
 
@@ -35262,7 +35262,7 @@ org:subsidiaries(e1,e2)
 org:alternate_names(e1,e2)
 
 
-8816	"<e1> Sergey Aleksandrovich Volkov </e1> ( Russian : Сергей Александрович Волков born April 1 1973 in Chuhuiv <e2> Ukraini </e2> an SSR Soviet Union ) is a Russian cosmonaut .."
+8816	"<e1> Sergey Aleksandrovich Volkov </e1> ( Russian :    born April 1 1973 in Chuhuiv <e2> Ukraini </e2> an SSR Soviet Union ) is a Russian cosmonaut .."
 per:country_of_birth(e1,e2)
 
 
@@ -35530,7 +35530,7 @@ org:top_members/employees(e1,e2)
 per:employee_of(e1,e2)
 
 
-8883	"On March 28 Mariupol State University held a solemn ceremony on occasion of being awarded the Letter of Acknowledgement of the Cabinet of Ministers in recognition of the tangible contribution into development of national education strengthening of the international authority of <e1> Ukraine </e1> and training of highly qualified specialists signed by <e2> Mykola Azarov </e2> Prime Minister of Ukraine ( Resolution of the Cabinet of Minister of Ukraine № 22525 dated of December 28 2011 ) .."
+8883	"On March 28 Mariupol State University held a solemn ceremony on occasion of being awarded the Letter of Acknowledgement of the Cabinet of Ministers in recognition of the tangible contribution into development of national education strengthening of the international authority of <e1> Ukraine </e1> and training of highly qualified specialists signed by <e2> Mykola Azarov </e2> Prime Minister of Ukraine ( Resolution of the Cabinet of Minister of Ukraine  22525 dated of December 28 2011 ) .."
 per:employee_of(e2,e1)
 
 
@@ -35654,7 +35654,7 @@ org:top_members/employees(e2,e1)
 org:top_members/employees(e2,e1)
 
 
-8914	"He saw <e1> Karadži </e1> ć as the rightful president <e2> of Republika Srps </e2> ka which in his thoughts is and must be Serbian .."
+8914	"He saw <e1> Karad?i </e1> ? as the rightful president <e2> of Republika Srps </e2> ka which in his thoughts is and must be Serbian .."
 per:employee_of(e1,e2)
 
 
@@ -36250,7 +36250,7 @@ org:city_of_headquarters(e1,e2)
 org:city_of_headquarters(e1,e2)
 
 
-9063	"FACT : There was such a jet in the vicinity  a Dassault Falcon 20 business jet owned by th <e1> e VF Corp </e1> . o <e2> f Greensbor </e2> o N.C. an apparel company that markets Wrangler jeans and other brands .."
+9063	"FACT : There was such a jet in the vicinity ? a Dassault Falcon 20 business jet owned by th <e1> e VF Corp </e1> . o <e2> f Greensbor </e2> o N.C. an apparel company that markets Wrangler jeans and other brands .."
 org:city_of_headquarters(e1,e2)
 
 
@@ -36518,7 +36518,7 @@ per:employee_of(e2,e1)
 per:employee_of(e2,e1)
 
 
-9130	"Marxism Leninism Maoism <e1> Prachanda </e1> Path ( Nepali : मालेमावाद र प्रचण्डपथ Mālemāvād ra Prachaṇḍapath ) refers to t <e2> he ide </e2> ological line of the Communist Party of Nepal ( Maoist ) .."
+9130	"Marxism Leninism Maoism <e1> Prachanda </e1> Path ( Nepali : ????????? ? ????????? Mlemvd ra Pracha??apath ) refers to t <e2> he ide </e2> ological line of the Communist Party of Nepal ( Maoist ) .."
 no_relation
 
 
@@ -36614,7 +36614,7 @@ org:country_of_headquarters(e2,e1)
 org:members(e2,e1)
 
 
-9154	"The <e1> University of Montenegro </e1> Faculty of Law ( Montenegrin : Pravni fakultet Univerziteta Crne Gore Правни факултет Универзитета Црне <e2> Горе ) </e2> also known as the Podgorica Law School is one of the educational institutions of the University of Montenegro .."
+9154	"The <e1> University of Montenegro </e1> Faculty of Law ( Montenegrin : Pravni fakultet Univerziteta Crne Gore     <e2>  ) </e2> also known as the Podgorica Law School is one of the educational institutions of the University of Montenegro .."
 org:alternate_names(e1,e2)
 
 
@@ -37030,7 +37030,7 @@ no_relation
 per:cities_of_residence(e2,e1)
 
 
-9258	"Queenzy and <e1> Wei Wei </e1> ( Chinese : 薇薇 ) also known as Xiao Wei Wei ( Chinese : 小薇薇 ) who was also previously a chi <e2> ld star i </e2> n Malaysia teamed up and started filming their Chinese New Year album on September 15 .."
+9258	"Queenzy and <e1> Wei Wei </e1> ( Chinese :  ) also known as Xiao Wei Wei ( Chinese :  ) who was also previously a chi <e2> ld star i </e2> n Malaysia teamed up and started filming their Chinese New Year album on September 15 .."
 per:countries_of_residence(e1,e2)
 
 
@@ -37186,7 +37186,7 @@ no_relation
 per:countries_of_residence(e2,e1)
 
 
-9297	"When he finally arrived in <e1> Japan </e1> in 1954 Juran met with ten manufacturing companies notably Showa Denko Nippon Kōgaku Noritake an <e2> d Takeda Pharmaceutical Compan </e2> y .."
+9297	"When he finally arrived in <e1> Japan </e1> in 1954 Juran met with ten manufacturing companies notably Showa Denko Nippon Kgaku Noritake an <e2> d Takeda Pharmaceutical Compan </e2> y .."
 org:country_of_headquarters(e2,e1)
 
 
@@ -38074,7 +38074,7 @@ org:city_of_headquarters(e2,e1)
 org:alternate_names(e2,e1)
 
 
-9519	"After giving birth Kovač started to work on organisation o <e1> f he </e1> r fist concert i <e2> n Belgrad </e2> e and also continued to work on the story of Ko video .."
+9519	"After giving birth Kova? started to work on organisation o <e1> f he </e1> r fist concert i <e2> n Belgrad </e2> e and also continued to work on the story of Ko video .."
 per:cities_of_residence(e1,e2)
 
 
@@ -38454,7 +38454,7 @@ org:country_of_headquarters(e1,e2)
 org:country_of_headquarters(e1,e2)
 
 
-9614	"The opening was attended by high-ranking officials from Macedonia Israel and other countries notably the Macedonian prime minister Nikola Gruevski the Macedonian president Gjorge Ivanov Israeli vice-prime minister Moshe Ya'alon the presidents of Montenegro and <e1> Albania </e1> Filip Vujanović an <e2> d Bamir Top </e2> i respectively as well as a member of the Knesset religious leaders and diplomats .."
+9614	"The opening was attended by high-ranking officials from Macedonia Israel and other countries notably the Macedonian prime minister Nikola Gruevski the Macedonian president Gjorge Ivanov Israeli vice-prime minister Moshe Ya'alon the presidents of Montenegro and <e1> Albania </e1> Filip Vujanovi? an <e2> d Bamir Top </e2> i respectively as well as a member of the Knesset religious leaders and diplomats .."
 per:employee_of(e2,e1)
 
 
@@ -38922,7 +38922,7 @@ org:members(e2,e1)
 org:country_of_headquarters(e1,e2)
 
 
-9731	"In March 1941 <e1> Japan </e1> 's Foreign Minister <e2> Yōsuke Matsuok </e2> a a Germanophile visited Berlin .."
+9731	"In March 1941 <e1> Japan </e1> 's Foreign Minister <e2> Ysuke Matsuok </e2> a a Germanophile visited Berlin .."
 per:employee_of(e2,e1)
 
 
@@ -38962,7 +38962,7 @@ org:members(e2,e1)
 per:title(e1,e2)
 
 
-9741	"It was later revealed that a military strike against Slovenia followed by a planned withdrawal was conceived by Slobodan an <e1> d Borisav Jovi </e1> ć then president of the S <e2> FR Yugoslav </e2> ia presidency .."
+9741	"It was later revealed that a military strike against Slovenia followed by a planned withdrawal was conceived by Slobodan an <e1> d Borisav Jovi </e1> ? then president of the S <e2> FR Yugoslav </e2> ia presidency .."
 per:countries_of_residence(e1,e2)
 
 
@@ -39238,7 +39238,7 @@ no_relation
 no_relation
 
 
-9810	"also known as was empress consort of <e1> Emperor Taish� </e1> � o <e2> f Japa </e2> n .."
+9810	"also known as was empress consort of <e1> Emperor Taish?</e1> ?o <e2> f Japa </e2> n .."
 per:countries_of_residence(e1,e2)
 
 
@@ -39398,7 +39398,7 @@ org:city_of_headquarters(e1,e2)
 per:countries_of_residence(e1,e2)
 
 
-9850	"However the <e1> President </e1> of Poland <e2> Władysław Raczkiewi </e2> cz would not accept his resignation ; instead Kopański was promoted to the rank of Division General two days later .."
+9850	"However the <e1> President </e1> of Poland <e2> W?adys?aw Raczkiewi </e2> cz would not accept his resignation ; instead Kopaski was promoted to the rank of Division General two days later .."
 per:title(e2,e1)
 
 
@@ -39710,7 +39710,7 @@ per:country_of_birth(e2,e1)
 per:country_of_birth(e1,e2)
 
 
-9928	"<e1> Rožma </e1> n and others were living under the British supervision at the Bishop's Palace at Klagenfurt <e2> 4; Austr </e2> ia in October 1946 .."
+9928	"<e1> Ro?ma </e1> n and others were living under the British supervision at the Bishop's Palace at Klagenfurt <e2> 4; Austr </e2> ia in October 1946 .."
 per:countries_of_residence(e1,e2)
 
 
@@ -39770,7 +39770,7 @@ per:employee_of(e1,e2)
 per:alternate_names(e1,e2)
 
 
-9943	"The Proclamation of Independence of the Democratic Republic of <e1> Vietnam </e1> ( độc lập Việt Nam chủ Cộng ) was <e2> written by Hồ Ch </e2> Minh and announced in public at the Ba flower garden ( now the Ba Square ) on September 2 1945 .."
+9943	"The Proclamation of Independence of the Democratic Republic of <e1> Vietnam </e1> ( ??c l?p Vi?t Nam ch? C?ng ) was <e2> written by H? Ch </e2> Minh and announced in public at the Ba flower garden ( now the Ba Square ) on September 2 1945 .."
 per:countries_of_residence(e2,e1)
 
 
@@ -39806,7 +39806,7 @@ no_relation
 org:top_members/employees(e1,e2)
 
 
-9952	"After the assassination of Zoran Đinđić <e1> 44; Živk </e1> ović got elected as the 7th Prime Minist <e2> er of S </e2> erbia and decisively lead his reformist Government through the state of emergency period and promoted offensive measures on cracking down organized crime and corruption but his Government collapsed as a consequence of the controversial arrests government scandals and unrest within the coalition .."
+9952	"After the assassination of Zoran ?in?i? <e1> 44; ?ivk </e1> ovi? got elected as the 7th Prime Minist <e2> er of S </e2> erbia and decisively lead his reformist Government through the state of emergency period and promoted offensive measures on cracking down organized crime and corruption but his Government collapsed as a consequence of the controversial arrests government scandals and unrest within the coalition .."
 per:countries_of_residence(e1,e2)
 
 
@@ -39842,7 +39842,7 @@ org:subsidiaries(e2,e1)
 no_relation
 
 
-9961	"The anti-LDP coalition government of <e1> Morihiro Hosokawa </e1> was formed by reformists who had triggered the 1993 election by leaving the LDP ( <e2> Japan </e2> Renewal Party New Party Sakigake ) a liberal party formed only a year before ( Japan New Party ) the traditional centre-left opposition ( Kōmeitō Democratic Socialist Party Social Democratic Federation ) and the Democratic Reform Party the political arm of the Rengō trade union federation together with the JSP .."
+9961	"The anti-LDP coalition government of <e1> Morihiro Hosokawa </e1> was formed by reformists who had triggered the 1993 election by leaving the LDP ( <e2> Japan </e2> Renewal Party New Party Sakigake ) a liberal party formed only a year before ( Japan New Party ) the traditional centre-left opposition ( Kmeit Democratic Socialist Party Social Democratic Federation ) and the Democratic Reform Party the political arm of the Reng trade union federation together with the JSP .."
 per:employee_of(e1,e2)
 
 
@@ -40274,7 +40274,7 @@ per:countries_of_residence(e2,e1)
 per:stateorprovinces_of_residence(e1,e2)
 
 
-10069	"Petronijević joined the Philosophical Society of th <e1> e University of Vienn </e1> a and studied unde <e2> r Ludwig Boltzman </e2> n .."
+10069	"Petronijevi? joined the Philosophical Society of th <e1> e University of Vienn </e1> a and studied unde <e2> r Ludwig Boltzman </e2> n .."
 per:employee_of(e2,e1)
 
 
@@ -40842,7 +40842,7 @@ per:alternate_names(e2,e1)
 per:stateorprovinces_of_residence(e2,e1)
 
 
-10211	"Although Chełmno was not part o <e1> f Aktion Reinhar </e1> d Jews from the General Government were sent to this death camp between earl <e2> y Decembe </e2> r 1941 until mid-January 1942 .."
+10211	"Although Che?mno was not part o <e1> f Aktion Reinhar </e1> d Jews from the General Government were sent to this death camp between earl <e2> y Decembe </e2> r 1941 until mid-January 1942 .."
 no_relation
 
 
@@ -42142,11 +42142,11 @@ per:employee_of(e2,e1)
 per:country_of_birth(e1,e2)
 
 
-10536	"Hồ Minh City University of Economics and Law ( HCMC UEL ) is a university in Linh Xuan ward Thu Duc District <e1> 4; Ho Chi Mi </e1> nh City <e2> 4; Vietn </e2> am .."
+10536	"H? Minh City University of Economics and Law ( HCMC UEL ) is a university in Linh Xuan ward Thu Duc District <e1> 4; Ho Chi Mi </e1> nh City <e2> 4; Vietn </e2> am .."
 no_relation
 
 
-10537	"As Vladimir Tismăneanu argues if one does not grasp the role of political thugs such as the Soviet spies Pintilie Bondarenko ( Pantiuşa ) and Alexandru Nikolski in the exercise of terror <e1> in Roman </e1> ia during the most horrible Stalinist period and their personal connections wi <e2> th Gheorghe Gheorghiu-D </e2> ej and members of his entourage it is difficult to understand the origins and the role of the Securitate .."
+10537	"As Vladimir Tism?neanu argues if one does not grasp the role of political thugs such as the Soviet spies Pintilie Bondarenko ( Pantiu?a ) and Alexandru Nikolski in the exercise of terror <e1> in Roman </e1> ia during the most horrible Stalinist period and their personal connections wi <e2> th Gheorghe Gheorghiu-D </e2> ej and members of his entourage it is difficult to understand the origins and the role of the Securitate .."
 per:countries_of_residence(e2,e1)
 
 
@@ -42222,7 +42222,7 @@ per:countries_of_residence(e1,e2)
 per:employee_of(e1,e2)
 
 
-10556	"6 x 3-car sets ( 18 vehicles ) with flip-over transverse seating for use on Chūō Main Line Central Liner and Home Liner Nakatsugawa services built by Kinki Sharyo a <e1> nd Nippon Shar </e1> yo betwe <e2> en September 19 </e2> 99 and February 2001 .."
+10556	"6 x 3-car sets ( 18 vehicles ) with flip-over transverse seating for use on Ch Main Line Central Liner and Home Liner Nakatsugawa services built by Kinki Sharyo a <e1> nd Nippon Shar </e1> yo betwe <e2> en September 19 </e2> 99 and February 2001 .."
 no_relation
 
 
@@ -42366,7 +42366,7 @@ per:countries_of_residence(e2,e1)
 per:employee_of(e2,e1)
 
 
-10592	"During <e1> his </e1> visit he met <e2> Prime Minister </e2> of Romania Adrian Năstase .."
+10592	"During <e1> his </e1> visit he met <e2> Prime Minister </e2> of Romania Adrian N?stase .."
 no_relation
 
 
@@ -42738,7 +42738,7 @@ per:employee_of(e2,e1)
 per:employee_of(e2,e1)
 
 
-10685	"The Deputy Chancellor of <e1> Lithuania </e1> Stefan Pac was visited here by the King of Poland and Grand duke of Lithuania <e2> Władysław IV Va </e2> sa on July 15 1636 .."
+10685	"The Deputy Chancellor of <e1> Lithuania </e1> Stefan Pac was visited here by the King of Poland and Grand duke of Lithuania <e2> W?adys?aw IV Va </e2> sa on July 15 1636 .."
 per:countries_of_residence(e2,e1)
 
 
@@ -42790,7 +42790,7 @@ per:countries_of_residence(e2,e1)
 per:employee_of(e1,e2)
 
 
-10698	"<e1> Natasha Alexandra Rastapkavicius Arrondo </e1> ( Russian Cyrillic : Наташа Александра Растапкавичюс Аррондо ; born 25 June <e2> 1975 ) pr </e2> ofessionally known as Natasha Klauss is a Colombian actress of Colombian and Lithuanian descent best known for her roles in Telemundo telenovelas La Venganza de Gavilanes and Zorro : La Espada y la Rosa .."
+10698	"<e1> Natasha Alexandra Rastapkavicius Arrondo </e1> ( Russian Cyrillic :     ; born 25 June <e2> 1975 ) pr </e2> ofessionally known as Natasha Klauss is a Colombian actress of Colombian and Lithuanian descent best known for her roles in Telemundo telenovelas La Venganza de Gavilanes and Zorro : La Espada y la Rosa .."
 per:alternate_names(e2,e1)
 
 
@@ -43446,7 +43446,7 @@ no_relation
 per:employee_of(e1,e2)
 
 
-10862	"Ng is married to Yeoh Saw Kheng ( 楊素瓊 ) who is the 3rd daughter <e1> of Dr Yeoh Ghi </e1> m Seng the former Speaker of Parliam <e2> ent of Sin </e2> gapore Ng's eldest son Daryl Ng Win Kong ( 黃永光 ) was born in 1978 .."
+10862	"Ng is married to Yeoh Saw Kheng (  ) who is the 3rd daughter <e1> of Dr Yeoh Ghi </e1> m Seng the former Speaker of Parliam <e2> ent of Sin </e2> gapore Ng's eldest son Daryl Ng Win Kong ( S ) was born in 1978 .."
 per:employee_of(e1,e2)
 
 
@@ -43802,7 +43802,7 @@ per:employee_of(e1,e2)
 org:subsidiaries(e2,e1)
 
 
-10951	"Founded in Belgrade in 1984 by composer lyricist and <e1> guitarist </e1> <e2> Momčilo Bajagi </e2> ć Bajaga the group possesses a rich discography and a plethora of hit songs that placed them at the top of the former Yugoslav rock scene alongside other mega-selling bands such as Bijelo Dugme and Riblja Čorba .."
+10951	"Founded in Belgrade in 1984 by composer lyricist and <e1> guitarist </e1> <e2> Mom?ilo Bajagi </e2> ? Bajaga the group possesses a rich discography and a plethora of hit songs that placed them at the top of the former Yugoslav rock scene alongside other mega-selling bands such as Bijelo Dugme and Riblja ?orba .."
 per:title(e2,e1)
 
 
@@ -43942,7 +43942,7 @@ org:stateorprovince_of_headquarters(e1,e2)
 per:employee_of(e1,e2)
 
 
-10986	"Two days later the Prime Minister of <e1> Vietnam </e1> <e2> Nguyễn Tấn </e2> Dũng arrived .."
+10986	"Two days later the Prime Minister of <e1> Vietnam </e1> <e2> Nguy?n T?n </e2> D?ng arrived .."
 per:countries_of_residence(e2,e1)
 
 
@@ -44558,7 +44558,7 @@ per:employee_of(e1,e2)
 per:stateorprovinces_of_residence(e1,e2)
 
 
-11140	"After persuading Emperor Bảo Đại to abdicate in his favour on September 2 1945 Pres <e1> ident Ho Chi </e1> Minh declared independence for the Democratic Republ <e2> ic of Vi </e2> etnam .."
+11140	"After persuading Emperor B?o ??i to abdicate in his favour on September 2 1945 Pres <e1> ident Ho Chi </e1> Minh declared independence for the Democratic Republ <e2> ic of Vi </e2> etnam .."
 per:employee_of(e1,e2)
 
 
@@ -44822,7 +44822,7 @@ org:subsidiaries(e2,e1)
 org:members(e1,e2)
 
 
-11206	"In 1966 the regime of <e1> Nicolae Ceauşesc </e1> u decreed a ban on contraception and abortion with the aim of increasin <e2> g Romani </e2> a's population .."
+11206	"In 1966 the regime of <e1> Nicolae Ceau?esc </e1> u decreed a ban on contraception and abortion with the aim of increasin <e2> g Romani </e2> a's population .."
 per:employee_of(e1,e2)
 
 
@@ -45214,7 +45214,7 @@ org:subsidiaries(e2,e1)
 per:employee_of(e2,e1)
 
 
-11304	"Solidarnost ( Солидарность Russian for Solidarity named after the Polish Solidarność ) is a Russian liberal democratic political movement founded on 13 December 2008 by a number of well-known members of the liberal democratic opposition including Garry <e1> Kasparov </e1> Boris Nemtsov and others from the Yabloko and Union of Right Forces ( which had just merged with two pro-Kremlin parties the Democ <e2> ratic P </e2> arty of Russia and Civilian Power to form the pro-Kremlin liberal democratic Right Cause ) parties leaders of the Dissenters March events the Committee 2008 the People's Democratic Union the United Civil Front The Other Russia and other politicians and political groups .."
+11304	"Solidarnost (  Russian for Solidarity named after the Polish Solidarno?? ) is a Russian liberal democratic political movement founded on 13 December 2008 by a number of well-known members of the liberal democratic opposition including Garry <e1> Kasparov </e1> Boris Nemtsov and others from the Yabloko and Union of Right Forces ( which had just merged with two pro-Kremlin parties the Democ <e2> ratic P </e2> arty of Russia and Civilian Power to form the pro-Kremlin liberal democratic Right Cause ) parties leaders of the Dissenters March events the Committee 2008 the People's Democratic Union the United Civil Front The Other Russia and other politicians and political groups .."
 per:employee_of(e1,e2)
 
 
@@ -45346,7 +45346,7 @@ org:members(e2,e1)
 org:subsidiaries(e1,e2)
 
 
-11337	"<e1> Rajasthan Royals </e1> home venue is the iconic <e2> Sawai Mansingh Stadium </e2> ( Hindi : सवाई मानसिंह स्टेडियम ) .."
+11337	"<e1> Rajasthan Royals </e1> home venue is the iconic <e2> Sawai Mansingh Stadium </e2> ( Hindi : ???? ??????? ???????? ) .."
 no_relation
 
 
@@ -45498,7 +45498,7 @@ org:stateorprovince_of_headquarters(e1,e2)
 org:alternate_names(e2,e1)
 
 
-11375	"The <e1> Democratic Trade Union Confederation of Romania </e1> ( <e2> Confederaţia Sindicatelor Democratic </e2> e din CSDR ) is a national trade union center in Romania .."
+11375	"The <e1> Democratic Trade Union Confederation of Romania </e1> ( <e2> Confedera?ia Sindicatelor Democratic </e2> e din CSDR ) is a national trade union center in Romania .."
 org:alternate_names(e1,e2)
 
 
@@ -45594,11 +45594,11 @@ org:country_of_headquarters(e2,e1)
 no_relation
 
 
-11399	"In 1999 Hadari relocated to <e1> Poland </e1> and began MFA studies at the Faculty of Drama Directing of The <e2> Ludwik Solski Academy for the Dramatic Arts </e2> in Cracow ( Państwowa Wyższa Szkoła Teatralna im .."
+11399	"In 1999 Hadari relocated to <e1> Poland </e1> and began MFA studies at the Faculty of Drama Directing of The <e2> Ludwik Solski Academy for the Dramatic Arts </e2> in Cracow ( Pastwowa Wy?sza Szko?a Teatralna im .."
 org:country_of_headquarters(e2,e1)
 
 
-11400	"<e1> Čalf </e1> a ( born 7 May 1946 in ) was a Prime Minister o <e2> f Czechoslovaki </e2> a during and after the Velvet Revolution as well as acting President for 19 days and was a key facilitator of smooth power transfer from the Communists to a new democratic representation .."
+11400	"<e1> ?alf </e1> a ( born 7 May 1946 in ) was a Prime Minister o <e2> f Czechoslovaki </e2> a during and after the Velvet Revolution as well as acting President for 19 days and was a key facilitator of smooth power transfer from the Communists to a new democratic representation .."
 per:employee_of(e1,e2)
 
 
@@ -45826,7 +45826,7 @@ org:members(e2,e1)
 org:stateorprovince_of_headquarters(e1,e2)
 
 
-11457	"After the Liberal Party merged with the <e1> Japan </e1> Democratic Party to form the Liberal Democratic Party <e2> Sat� </e2> � served as chairman of the party executive council from December 1957 to June 1958 .."
+11457	"After the Liberal Party merged with the <e1> Japan </e1> Democratic Party to form the Liberal Democratic Party <e2> Sat?</e2> ?served as chairman of the party executive council from December 1957 to June 1958 .."
 no_relation
 
 
@@ -46422,7 +46422,7 @@ org:city_of_headquarters(e1,e2)
 org:alternate_names(e2,e1)
 
 
-11606	"After 13 months of construction the shopping center was officially opened on October 8 2012 by <e1> Miomir </e1> the Mayor of <e2> Podgorica </e2> and Tomislav Čelebić president of the Čelebić company which built the entire complex .."
+11606	"After 13 months of construction the shopping center was officially opened on October 8 2012 by <e1> Miomir </e1> the Mayor of <e2> Podgorica </e2> and Tomislav ?elebi? president of the ?elebi? company which built the entire complex .."
 per:cities_of_residence(e1,e2)
 
 
@@ -47114,7 +47114,7 @@ per:stateorprovinces_of_residence(e2,e1)
 per:countries_of_residence(e2,e1)
 
 
-11779	"At these elections the former reformist alliance the Democratic Opposition of Serbia ( DOS ) had broken up into three parts : Democratic Party of <e1> Serbia </e1> late Prime Minister Đinđić's Democratic Party ( now led <e2> by Boris Ta </e2> dić ) and the G17 Plus group of liberal economists led by Miroljub Labus .."
+11779	"At these elections the former reformist alliance the Democratic Opposition of Serbia ( DOS ) had broken up into three parts : Democratic Party of <e1> Serbia </e1> late Prime Minister ?in?i?'s Democratic Party ( now led <e2> by Boris Ta </e2> di? ) and the G17 Plus group of liberal economists led by Miroljub Labus .."
 per:employee_of(e2,e1)
 
 
@@ -47366,7 +47366,7 @@ org:country_of_headquarters(e2,e1)
 per:employee_of(e2,e1)
 
 
-11842	"The International University of Chabahar for example offers programs under the guidance of London School of Economics and Political Science Goldsmiths University of London and Royal Holloway.دانشگاه بین المللی چابهار Other schools such as the Institute for Advanced Studies in Basic Sciences in Zanjan have close <e1> collaboration with The International Centre f </e1> or Theoretical Ph <e2> ysics </e2> in Trieste Italy for workshops seminars and summer schools .."
+11842	"The International University of Chabahar for example offers programs under the guidance of London School of Economics and Political Science Goldsmiths University of London and Royal Holloway.??????? ??? ?????? ?????? Other schools such as the Institute for Advanced Studies in Basic Sciences in Zanjan have close <e1> collaboration with The International Centre f </e1> or Theoretical Ph <e2> ysics </e2> in Trieste Italy for workshops seminars and summer schools .."
 org:country_of_headquarters(e1,e2)
 
 
@@ -47438,7 +47438,7 @@ per:title(e2,e1)
 org:top_members/employees(e1,e2)
 
 
-11860	"<e1> Kiyohara Tamayo </e1> was the second daughter of Kiyohara Einosuke manager of the famous Zōjō-ji temple in Shiba-Shinbori Minato <e2> 4; Tok </e2> yo Japan .."
+11860	"<e1> Kiyohara Tamayo </e1> was the second daughter of Kiyohara Einosuke manager of the famous Zj-ji temple in Shiba-Shinbori Minato <e2> 4; Tok </e2> yo Japan .."
 per:cities_of_residence(e1,e2)
 
 
@@ -47626,7 +47626,7 @@ per:spouse(e1,e2)
 org:city_of_headquarters(e2,e1)
 
 
-11907	"The <e1> Kuomintang </e1> Youth League was created in 2006 by former Kuomintang Chairman <e2> Ma Ying-jeou </e2> ( 馬英九 ) during his term as chairman to help promote cultural and political awareness among Chinese youths .."
+11907	"The <e1> Kuomintang </e1> Youth League was created in 2006 by former Kuomintang Chairman <e2> Ma Ying-jeou </e2> ( R ) during his term as chairman to help promote cultural and political awareness among Chinese youths .."
 per:employee_of(e2,e1)
 
 
@@ -47818,7 +47818,7 @@ org:subsidiaries(e1,e2)
 per:employee_of(e1,e2)
 
 
-11955	"The only political bloc that campaigned against the draft and advocated public boycott was a group of liberal and social-democrat parties ( Čedomir Jovanović's Liberal Democratic Party Nenad Čanak's League of Vojvodina Social Democrats Žarko Korać's Social Democratic Union <e1> </e1> Mićić's Civic Alli <e2> ance of </e2> Serbia ) and a number of NGOs .."
+11955	"The only political bloc that campaigned against the draft and advocated public boycott was a group of liberal and social-democrat parties ( ?edomir Jovanovi?'s Liberal Democratic Party Nenad ?anak's League of Vojvodina Social Democrats ?arko Kora?'s Social Democratic Union <e1> </e1> Mi?i?'s Civic Alli <e2> ance of </e2> Serbia ) and a number of NGOs .."
 per:origin(e1,e2)
 
 
@@ -48038,7 +48038,7 @@ per:employee_of(e1,e2)
 per:country_of_birth(e1,e2)
 
 
-12010	"<e1> Karadži </e1> ć the former President <e2> of Republika Srps </e2> ka is currently on trial for the massacre and other crimes against humanity committed in Bijelina amongst other areas and for the genocide at Srebrenica .."
+12010	"<e1> Karad?i </e1> ? the former President <e2> of Republika Srps </e2> ka is currently on trial for the massacre and other crimes against humanity committed in Bijelina amongst other areas and for the genocide at Srebrenica .."
 per:employee_of(e1,e2)
 
 
@@ -48046,7 +48046,7 @@ per:employee_of(e1,e2)
 per:countries_of_residence(e1,e2)
 
 
-12012	"<e1> Mihailo Petrovi� </e1> � <e2> ( Serbia </e2> n Cyrillic : Mихaилo Пeтpoвић ; born October 18 1957 ) is a Serbian football coach and former football player .."
+12012	"<e1> Mihailo Petrovi?</e1> ?<e2> ( Serbia </e2> n Cyrillic : Mao epo? ; born October 18 1957 ) is a Serbian football coach and former football player .."
 per:origin(e1,e2)
 
 
@@ -48702,7 +48702,7 @@ no_relation
 org:city_of_headquarters(e1,e2)
 
 
-12176	"There have been meetings between leaders of <e1> Vietnam </e1> and the Vatican including a visit by Vietnam's Prime Minister <e2> Nguyễn Tấn </e2> Dũng to the Vatican to meet Pope Benedict XVI on 25 January 2007 .."
+12176	"There have been meetings between leaders of <e1> Vietnam </e1> and the Vatican including a visit by Vietnam's Prime Minister <e2> Nguy?n T?n </e2> D?ng to the Vatican to meet Pope Benedict XVI on 25 January 2007 .."
 per:employee_of(e2,e1)
 
 
@@ -48886,7 +48886,7 @@ per:spouse(e2,e1)
 per:countries_of_residence(e2,e1)
 
 
-12222	"Igor Radojičić ' ( Serbian Cyrillic : Игор Радојичић ) is the Chairman of the Natio <e1> nal Assembly of R </e1> epublika Srpska an entity of Bosnia and Herzegovina and following the dea <e2> th of Presid </e2> ent Milan Jelić was acting President of Republika Srpska from October 1 2007 to 28 December 2007 .."
+12222	"Igor Radoji?i? ' ( Serbian Cyrillic :  ?? ) is the Chairman of the Natio <e1> nal Assembly of R </e1> epublika Srpska an entity of Bosnia and Herzegovina and following the dea <e2> th of Presid </e2> ent Milan Jeli? was acting President of Republika Srpska from October 1 2007 to 28 December 2007 .."
 per:employee_of(e2,e1)
 
 
@@ -48946,7 +48946,7 @@ per:stateorprovinces_of_residence(e2,e1)
 org:subsidiaries(e1,e2)
 
 
-12237	"Wolfgang Petritsch OHR has argued that the Dayton framework has allowed the international community to move from statebuilding via institutions and capacity-building to identity building putting Bosnia on the road to Brussels Nevertheless Dayton's main shortcomings may be described as : On 13 February 2008 the head of the <e1> Presidency </e1> of Bosnia and Herzegovina <e2> Željko </e2> ć said that the original Dayton Agreement was lost from the Presidency's archive .."
+12237	"Wolfgang Petritsch OHR has argued that the Dayton framework has allowed the international community to move from statebuilding via institutions and capacity-building to identity building putting Bosnia on the road to Brussels Nevertheless Dayton's main shortcomings may be described as : On 13 February 2008 the head of the <e1> Presidency </e1> of Bosnia and Herzegovina <e2> ?eljko </e2> ? said that the original Dayton Agreement was lost from the Presidency's archive .."
 per:employee_of(e2,e1)
 
 
@@ -49094,7 +49094,7 @@ per:countries_of_residence(e2,e1)
 per:employee_of(e1,e2)
 
 
-12274	"<e1> Dimitri Tiomkin </e1> ( Dmitrij Zinov ' evič Tjomkin sometimes transliterated a <e2> s Dmitri Tiomki </e2> n ; Dmitro Zinov ' ivič Tomkin ) was born in Kremenchuk Ukraine then part of the Russian Empire .."
+12274	"<e1> Dimitri Tiomkin </e1> ( Dmitrij Zinov ' evi? Tjomkin sometimes transliterated a <e2> s Dmitri Tiomki </e2> n ; Dmitro Zinov ' ivi? Tomkin ) was born in Kremenchuk Ukraine then part of the Russian Empire .."
 per:alternate_names(e1,e2)
 
 
@@ -49162,7 +49162,7 @@ org:alternate_names(e2,e1)
 org:founded(e1,e2)
 
 
-12291	"Erdoğan told reporters earlier that he had personally called the leader <e1> ( Sali Berish </e1> a ) of an unnamed country <e2> ( Albani </e2> a ) to discuss their planned abstention vote despite their previously positive attitude .."
+12291	"Erdo?an told reporters earlier that he had personally called the leader <e1> ( Sali Berish </e1> a ) of an unnamed country <e2> ( Albani </e2> a ) to discuss their planned abstention vote despite their previously positive attitude .."
 per:countries_of_residence(e1,e2)
 
 
@@ -49206,7 +49206,7 @@ per:stateorprovinces_of_residence(e2,e1)
 org:founded_by(e1,e2)
 
 
-12302	"Batić reappeared in international news media spotlight when he testified before a Nicosia court that billions of dollars belonging to the Serbia had been smuggled out of the country by the ousted administration during the UN sanctions on the country by use of offshore corporations <e1> in Cypr </e1> us registered by the former law office of the Greek Cypriot leader <e2> 4; Tassos Papadopoul </e2> os .."
+12302	"Bati? reappeared in international news media spotlight when he testified before a Nicosia court that billions of dollars belonging to the Serbia had been smuggled out of the country by the ousted administration during the UN sanctions on the country by use of offshore corporations <e1> in Cypr </e1> us registered by the former law office of the Greek Cypriot leader <e2> 4; Tassos Papadopoul </e2> os .."
 no_relation
 
 
@@ -49690,7 +49690,7 @@ no_relation
 per:stateorprovinces_of_residence(e1,e2)
 
 
-12423	"A/S Air <e1> Baltic </e1> Corporation operating as <e2> AirBaltic </e2> and styled as airBaltic is the Latvian flag carrier airline and a low-cost carrier with its head office on the grounds of Riga International Airport in Mārupe municipality near the capital Riga .."
+12423	"A/S Air <e1> Baltic </e1> Corporation operating as <e2> AirBaltic </e2> and styled as airBaltic is the Latvian flag carrier airline and a low-cost carrier with its head office on the grounds of Riga International Airport in Mrupe municipality near the capital Riga .."
 org:alternate_names(e2,e1)
 
 
@@ -50402,7 +50402,7 @@ no_relation
 per:origin(e1,e2)
 
 
-12601	"Initially he worked at <e1> Plze� </e1> � as a head of motor engine department and then he transferred to the Prague branch o <e2> f Work </e2> s .."
+12601	"Initially he worked at <e1> Plze?</e1> ?as a head of motor engine department and then he transferred to the Prague branch o <e2> f Work </e2> s .."
 org:subsidiaries(e2,e1)
 
 
@@ -50598,7 +50598,7 @@ per:stateorprovinces_of_residence(e1,e2)
 per:stateorprovinces_of_residence(e1,e2)
 
 
-12650	"In 2007 <e1> FK Rīg </e1> a achieved its best result i <e2> n Virslig </e2> a so far by finishing 3rd as the highest placed club from Riga .."
+12650	"In 2007 <e1> FK Rg </e1> a achieved its best result i <e2> n Virslig </e2> a so far by finishing 3rd as the highest placed club from Riga .."
 org:city_of_headquarters(e1,e2)
 
 
@@ -50958,11 +50958,11 @@ org:members(e2,e1)
 org:subsidiaries(e1,e2)
 
 
-12740	"The Serbian Party of Socialists was the branch in Croatia of Serbian President <e1> Slobodan </e1> �'s Socialist Party of Serbia which was created in the areas under the control of rebe <e2> l Croatia </e2> n Serbs ( so-called Republic of Serbian Krajina ) .."
+12740	"The Serbian Party of Socialists was the branch in Croatia of Serbian President <e1> Slobodan </e1> ?s Socialist Party of Serbia which was created in the areas under the control of rebe <e2> l Croatia </e2> n Serbs ( so-called Republic of Serbian Krajina ) .."
 per:origin(e1,e2)
 
 
-12741	"District 6 ( ) is an urban district ( quận ) <e1> of Ho Chi Mi </e1> nh City which is the largest city <e2> in Vietn </e2> am .."
+12741	"District 6 ( ) is an urban district ( qu?n ) <e1> of Ho Chi Mi </e1> nh City which is the largest city <e2> in Vietn </e2> am .."
 per:countries_of_residence(e1,e2)
 
 
@@ -51050,7 +51050,7 @@ org:alternate_names(e1,e2)
 per:title(e2,e1)
 
 
-12763	"Modern relationships between Armenia and Romania are rooted in part in the modern history of the Armenian people : after the Armenian genocide of 1915 Romania was the first state to officially provide political asylum to refugees from the area ; and when in October 2007 the President of <e1> Armenia </e1> <e2> Serzh Sargsyan </e2> received the delegation headed by the Romanian Minister of National Defense Teodor Meleșcanu he noted that the Armenian-Romanian friendship was deeply rooted in history and it was not by accident that Romania was the first State to recognize the independence of the Republic Armenia .."
+12763	"Modern relationships between Armenia and Romania are rooted in part in the modern history of the Armenian people : after the Armenian genocide of 1915 Romania was the first state to officially provide political asylum to refugees from the area ; and when in October 2007 the President of <e1> Armenia </e1> <e2> Serzh Sargsyan </e2> received the delegation headed by the Romanian Minister of National Defense Teodor Mele?canu he noted that the Armenian-Romanian friendship was deeply rooted in history and it was not by accident that Romania was the first State to recognize the independence of the Republic Armenia .."
 per:employee_of(e2,e1)
 
 
@@ -51298,7 +51298,7 @@ per:employee_of(e1,e2)
 per:employee_of(e2,e1)
 
 
-12825	"Banking University of <e1> Ho Chi Minh </e1> City ( Vietnamese language : Đại học phố Hồ Minh ) is a university in Ho Chi Minh C <e2> ity </e2> ; Vietnam .."
+12825	"Banking University of <e1> Ho Chi Minh </e1> City ( Vietnamese language : ??i h?c ph? H? Minh ) is a university in Ho Chi Minh C <e2> ity </e2> ; Vietnam .."
 org:country_of_headquarters(e1,e2)
 
 
@@ -51650,7 +51650,7 @@ per:employee_of(e1,e2)
 org:top_members/employees(e2,e1)
 
 
-12913	"The latter an interview with one of the creators of Slovianski was picked up by the news agency BalkanInsight and shortly after that articles appeared in the Slovak newspaper Pravda on the news site of the Czech broadcasting station <e1> ČT2 </e1> 4 in the Slovene newspaper Žurnal24 as well as other newspapers and internet portals in t <e2> he Czech Republ </e2> ic Slovakia Hungary Serbia Montenegro Bulgaria and Ukraine .."
+12913	"The latter an interview with one of the creators of Slovianski was picked up by the news agency BalkanInsight and shortly after that articles appeared in the Slovak newspaper Pravda on the news site of the Czech broadcasting station <e1> ?T2 </e1> 4 in the Slovene newspaper ?urnal24 as well as other newspapers and internet portals in t <e2> he Czech Republ </e2> ic Slovakia Hungary Serbia Montenegro Bulgaria and Ukraine .."
 org:country_of_headquarters(e1,e2)
 
 
@@ -51834,7 +51834,7 @@ org:country_of_headquarters(e1,e2)
 per:countries_of_residence(e1,e2)
 
 
-12959	"The present royal family of <e1> Thailand </e1> is descended from HRH Prince <e2> Mahidol Adulyadej </e2> of Songkla ( 1891 1929 ) and Srinagarindra ( later Princess Mother ) ( 1900 95 ) forming the House of Mahidol ( ราชสกุลมหิดล ) ( a cadet branch of the Dynasty ) .."
+12959	"The present royal family of <e1> Thailand </e1> is descended from HRH Prince <e2> Mahidol Adulyadej </e2> of Songkla ( 1891 1929 ) and Srinagarindra ( later Princess Mother ) ( 1900 95 ) forming the House of Mahidol ( ???????????? ) ( a cadet branch of the Dynasty ) .."
 per:country_of_birth(e2,e1)
 
 
@@ -51982,7 +51982,7 @@ per:employee_of(e2,e1)
 per:employee_of(e2,e1)
 
 
-12996	"<e1> Lavasa </e1> ( Marathi : लवासा ) is a private planned city being <e2> built </e2> near Pune .."
+12996	"<e1> Lavasa </e1> ( Marathi : ????? ) is a private planned city being <e2> built </e2> near Pune .."
 org:city_of_headquarters(e1,e2)
 
 
@@ -52306,7 +52306,7 @@ per:employee_of(e1,e2)
 org:subsidiaries(e1,e2)
 
 
-13077	"The <e1> Saint Petersburg State University of Engineering and Economics </e1> is a university in <e2> Russia </e2> and also is known as ENGECON ( Russian : ИНЖЭКОН ) .."
+13077	"The <e1> Saint Petersburg State University of Engineering and Economics </e1> is a university in <e2> Russia </e2> and also is known as ENGECON ( Russian :  ) .."
 org:country_of_headquarters(e1,e2)
 
 
@@ -52314,7 +52314,7 @@ org:country_of_headquarters(e1,e2)
 per:country_of_birth(e1,e2)
 
 
-13079	"Begum Ra'ana <e1> Liaquat Ali Khan </e1> ( Urdu : رعنا لیاقت علی خان ; February 13 1905 June 13 1990 ) ( Sheila Irene Pant ) DPhil NI was one of the leading <e2> woman fig </e2> ure in Pakistan Movement along with her husband Liaquat Ali Khan and career economist and prominent stateswoman from the start of the cold war till the fall and the end of the cold war .."
+13079	"Begum Ra'ana <e1> Liaquat Ali Khan </e1> ( Urdu : ???? ????? ??? ??? ; February 13 1905 June 13 1990 ) ( Sheila Irene Pant ) DPhil NI was one of the leading <e2> woman fig </e2> ure in Pakistan Movement along with her husband Liaquat Ali Khan and career economist and prominent stateswoman from the start of the cold war till the fall and the end of the cold war .."
 per:countries_of_residence(e1,e2)
 
 
@@ -52562,7 +52562,7 @@ per:country_of_birth(e1,e2)
 per:employee_of(e2,e1)
 
 
-13141	"The <e1> University of Science and Technology Beijing </e1> ( USTB ; ) formerly known as Beijing Steel and Iron Institute ( 北京钢铁学院 ) before 1988 is a national key u <e2> niversit </e2> y in Beijing China .."
+13141	"The <e1> University of Science and Technology Beijing </e1> ( USTB ; ) formerly known as Beijing Steel and Iron Institute (  ) before 1988 is a national key u <e2> niversit </e2> y in Beijing China .."
 org:city_of_headquarters(e1,e2)
 
 
@@ -53350,7 +53350,7 @@ per:employee_of(e2,e1)
 per:employee_of(e1,e2)
 
 
-13338	"In September 2003 he became an advisor for foreign affairs ( European issues ) to the <e1> Defence </e1> Minister of Serbia and Montenegro <e2> Boris Tadi� </e2> � .."
+13338	"In September 2003 he became an advisor for foreign affairs ( European issues ) to the <e1> Defence </e1> Minister of Serbia and Montenegro <e2> Boris Tadi?</e2> ?.."
 per:employee_of(e2,e1)
 
 
@@ -53522,7 +53522,7 @@ per:countries_of_residence(e1,e2)
 per:employee_of(e2,e1)
 
 
-13381	"The shows were hosted by Jovana Janković an <e1> d Željko Joksimov </e1> ić at <e2> the Belgr </e2> ade Arena which had a total capacity of more than seats .."
+13381	"The shows were hosted by Jovana Jankovi? an <e1> d ?eljko Joksimov </e1> i? at <e2> the Belgr </e2> ade Arena which had a total capacity of more than seats .."
 per:cities_of_residence(e1,e2)
 
 
@@ -53554,7 +53554,7 @@ per:employee_of(e1,e2)
 per:countries_of_residence(e1,e2)
 
 
-13389	"The <e1> Kolkata Metro </e1> or Calcutta Metro ( Bengali : কলকাতা মেট্রো ) is a mass rapid transit sy <e2> stem ser </e2> ving the city of Kolkata and the districts of South 24 Parganas and North 24 Parganas in Indian state of West Bengal .."
+13389	"The <e1> Kolkata Metro </e1> or Calcutta Metro ( Bengali : ?????? ?????? ) is a mass rapid transit sy <e2> stem ser </e2> ving the city of Kolkata and the districts of South 24 Parganas and North 24 Parganas in Indian state of West Bengal .."
 org:city_of_headquarters(e1,e2)
 
 
@@ -53578,7 +53578,7 @@ per:cities_of_residence(e2,e1)
 no_relation
 
 
-13395	"She also testified in many other cases including in that of <e1> Radovan Karadži </e1> ć Bosnian Serb president <e2> of Republika Srps </e2> ka .."
+13395	"She also testified in many other cases including in that of <e1> Radovan Karad?i </e1> ? Bosnian Serb president <e2> of Republika Srps </e2> ka .."
 per:employee_of(e1,e2)
 
 
@@ -53742,7 +53742,7 @@ per:title(e1,e2)
 per:countries_of_residence(e2,e1)
 
 
-13436	"Famous alumni include former U.S. President Bill Clinton former Philippine President Gloria Macapagal-Arroyo King Abdullah of Jordan John Cardinal and <e1> Željko </e1> ć Chairman of the Presidency <e2> of Bosnia and Herzegovi </e2> na among others .."
+13436	"Famous alumni include former U.S. President Bill Clinton former Philippine President Gloria Macapagal-Arroyo King Abdullah of Jordan John Cardinal and <e1> ?eljko </e1> ? Chairman of the Presidency <e2> of Bosnia and Herzegovi </e2> na among others .."
 per:countries_of_residence(e1,e2)
 
 
@@ -53878,7 +53878,7 @@ org:city_of_headquarters(e1,e2)
 per:countries_of_residence(e1,e2)
 
 
-13470	"Kalateh-ye <e1> Hasan </e1> Beyk ( also Romanized as Kalāteh-ye Hasan Beyk ; also known as Kalāteh-ye Ḩoseyn Alī Beyg Kalāteh Hasan <e2> lsqu </e2> o; Ali Beg and Kalāteh-ye Hasan Alī Beyg ) is a village in Barakuh Rural District Khusf District Birjand County South Khorasan Province Iran .."
+13470	"Kalateh-ye <e1> Hasan </e1> Beyk ( also Romanized as Kalteh-ye Hasan Beyk ; also known as Kalteh-ye ?oseyn Al Beyg Kalteh Hasan <e2> lsqu </e2> o; Ali Beg and Kalteh-ye Hasan Al Beyg ) is a village in Barakuh Rural District Khusf District Birjand County South Khorasan Province Iran .."
 per:alternate_names(e2,e1)
 
 
@@ -53986,7 +53986,7 @@ per:countries_of_residence(e2,e1)
 per:title(e2,e1)
 
 
-13497	"In the Presidency of <e1> Yugoslavia </e1> Serbia's <e2> Borisav Jovi� </e2> � ( at the time the President of the Presidency ) Montenegro's Nenad Bućin Vojvodina's Jugoslav Kostić and Kosovo's Riza Sapunxhiu started to form a voting bloc .."
+13497	"In the Presidency of <e1> Yugoslavia </e1> Serbia's <e2> Borisav Jovi?</e2> ?( at the time the President of the Presidency ) Montenegro's Nenad Bu?in Vojvodina's Jugoslav Kosti? and Kosovo's Riza Sapunxhiu started to form a voting bloc .."
 per:countries_of_residence(e2,e1)
 
 
@@ -54490,7 +54490,7 @@ no_relation
 org:stateorprovince_of_headquarters(e1,e2)
 
 
-13623	"On the nights of 6 and 7 November the <e1> Provisional Government </e1> of the People's Republic of Poland was formed in Lublin under the supervision of <e2> Ignacy Daszyńsk </e2> i .."
+13623	"On the nights of 6 and 7 November the <e1> Provisional Government </e1> of the People's Republic of Poland was formed in Lublin under the supervision of <e2> Ignacy Daszysk </e2> i .."
 per:employee_of(e2,e1)
 
 
@@ -54934,7 +54934,7 @@ per:title(e2,e1)
 org:stateorprovince_of_headquarters(e2,e1)
 
 
-13734	"A name from childhood that evokes images of <e1> Roy Rogers </e1>  wife <e2> ; Dale Evan </e2> s or a character in Disney productions  Chip Dale . ."
+13734	"A name from childhood that evokes images of <e1> Roy Rogers </e1> ? wife <e2> ; Dale Evan </e2> s or a character in Disney productions ? Chip Dale . ?."
 per:spouse(e2,e1)
 
 
@@ -55102,7 +55102,7 @@ org:founded_by(e1,e2)
 per:stateorprovinces_of_residence(e1,e2)
 
 
-13776	"The Bernoulli numbers were discovered around the same time by the Swiss mathematician Jakob Bernoulli after whom they are named and independently by <e1> Japanese </e1> mathematician <e2> Seki Kōw </e2> a .."
+13776	"The Bernoulli numbers were discovered around the same time by the Swiss mathematician Jakob Bernoulli after whom they are named and independently by <e1> Japanese </e1> mathematician <e2> Seki Kw </e2> a .."
 per:origin(e2,e1)
 
 
@@ -55454,7 +55454,7 @@ no_relation
 per:employee_of(e2,e1)
 
 
-13864	"The opening was attended by high-ranking officials from <e1> Macedonia </e1> Israel and other countries notably the Macedonian prime minister <e2> Nikola Gruevski </e2> the Macedonian president Gjorge Ivanov Israeli vice-prime minister Moshe Ya'alon the presidents of Montenegro and Albania Filip Vujanović and Bamir Topi respectively as well as a member of the Knesset religious leaders and diplomats .."
+13864	"The opening was attended by high-ranking officials from <e1> Macedonia </e1> Israel and other countries notably the Macedonian prime minister <e2> Nikola Gruevski </e2> the Macedonian president Gjorge Ivanov Israeli vice-prime minister Moshe Ya'alon the presidents of Montenegro and Albania Filip Vujanovi? and Bamir Topi respectively as well as a member of the Knesset religious leaders and diplomats .."
 per:employee_of(e2,e1)
 
 
@@ -55590,7 +55590,7 @@ org:city_of_headquarters(e1,e2)
 org:members(e1,e2)
 
 
-13898	"In the <e1> Czech Republic </e1> the show was broadcast live by the public channel ČT2 o <e2> f televi </e2> ze .."
+13898	"In the <e1> Czech Republic </e1> the show was broadcast live by the public channel ?T2 o <e2> f televi </e2> ze .."
 org:country_of_headquarters(e2,e1)
 
 
@@ -55726,7 +55726,7 @@ org:stateorprovince_of_headquarters(e1,e2)
 per:employee_of(e1,e2)
 
 
-13932	"He was born in Valtūnai Lithuania on February 16 1902 received his education at th <e1> e Vytautas Magnus Universit </e1> y i <e2> n Kauna </e2> s Lithuania and was ordained to the priesthood in 1933 .."
+13932	"He was born in Valtnai Lithuania on February 16 1902 received his education at th <e1> e Vytautas Magnus Universit </e1> y i <e2> n Kauna </e2> s Lithuania and was ordained to the priesthood in 1933 .."
 org:city_of_headquarters(e1,e2)
 
 
@@ -55910,7 +55910,7 @@ org:city_of_headquarters(e2,e1)
 org:city_of_headquarters(e1,e2)
 
 
-13978	"Current Croat member of the <e1> Presidency </e1> is <e2> Željko </e2> ć of the Social Democratic Party .."
+13978	"Current Croat member of the <e1> Presidency </e1> is <e2> ?eljko </e2> ? of the Social Democratic Party .."
 per:employee_of(e2,e1)
 
 
@@ -55946,7 +55946,7 @@ per:title(e2,e1)
 org:subsidiaries(e1,e2)
 
 
-13987	"The settlement was named after one of the most important <e1> Serbian </e1> mathematicians and a passionate fisherman ( alas ) <e2> Mihailo Petrovi� </e2> � Alas ( 1868-1943 ) .."
+13987	"The settlement was named after one of the most important <e1> Serbian </e1> mathematicians and a passionate fisherman ( alas ) <e2> Mihailo Petrovi?</e2> ?Alas ( 1868-1943 ) .."
 per:origin(e2,e1)
 
 
@@ -56466,7 +56466,7 @@ per:title(e1,e2)
 org:members(e2,e1)
 
 
-14117	"The third he asked Wu Bochao for help later in 1927 after school.The forth he became a student of <e1> Liu Tianhua </e1> ( simplified Chinese : 刘天华 a national musical instrument composer ) officially from 1 <e2> 929 t </e2> o 1932 .."
+14117	"The third he asked Wu Bochao for help later in 1927 after school.The forth he became a student of <e1> Liu Tianhua </e1> ( simplified Chinese :  a national musical instrument composer ) officially from 1 <e2> 929 t </e2> o 1932 .."
 no_relation
 
 
@@ -56862,7 +56862,7 @@ per:employee_of(e2,e1)
 org:subsidiaries(e1,e2)
 
 
-14216	"The Diplomatic Record Office of the Ministry of Foreign Affairs has opened to the public two documents concerning Sugihara's file : the first aforementioned document is a 5 February 1941 diplomatic note from Chiune Sugihara to <e1> Japan </e1> 's then Foreign Minister <e2> Yōsuke Matsuok </e2> a in which Sugihara stated he issued out of transit visas to Jews and Poles ; however since most of the people were not Jewish this would imply that most of the visas were given to Polish Jews instead .."
+14216	"The Diplomatic Record Office of the Ministry of Foreign Affairs has opened to the public two documents concerning Sugihara's file : the first aforementioned document is a 5 February 1941 diplomatic note from Chiune Sugihara to <e1> Japan </e1> 's then Foreign Minister <e2> Ysuke Matsuok </e2> a in which Sugihara stated he issued out of transit visas to Jews and Poles ; however since most of the people were not Jewish this would imply that most of the visas were given to Polish Jews instead .."
 per:employee_of(e2,e1)
 
 
@@ -57358,7 +57358,7 @@ per:countries_of_residence(e1,e2)
 org:country_of_headquarters(e1,e2)
 
 
-14340	"It is published in Japan by <e1> ASCII Media Works </e1> formerly MediaWorks in the monthly magazine <e2> Dengeki Daioh </e2> and collected in twelve tankōbon volumes .."
+14340	"It is published in Japan by <e1> ASCII Media Works </e1> formerly MediaWorks in the monthly magazine <e2> Dengeki Daioh </e2> and collected in twelve tankbon volumes .."
 per:employee_of(e2,e1)
 
 
@@ -57394,7 +57394,7 @@ no_relation
 per:countries_of_residence(e1,e2)
 
 
-14349	"Jarosław Wołkonowski is a Polish-Lithuanian historian Doctor of Philosophy with Habilitation affiliated with t <e1> he University of Białys </e1> tok ( <e2> in Biały </e2> stok Poland where he holds the title of university professor ) and University of Vilnius ( in Vilnius Lithuania where he lives ) .."
+14349	"Jaros?aw Wo?konowski is a Polish-Lithuanian historian Doctor of Philosophy with Habilitation affiliated with t <e1> he University of Bia?ys </e1> tok ( <e2> in Bia?y </e2> stok Poland where he holds the title of university professor ) and University of Vilnius ( in Vilnius Lithuania where he lives ) .."
 org:city_of_headquarters(e1,e2)
 
 
@@ -57710,7 +57710,7 @@ no_relation
 per:countries_of_residence(e1,e2)
 
 
-14428	"Baya Bouzar ( باية بوزار ) known by the <e1> stagenam </e1> e Biyouna ( Arabic : بيونة ) is an Algerian singer dancer actress born in 1952 in Belcourt <e2> Algiers </e2> Algeria .."
+14428	"Baya Bouzar ( ???? ????? ) known by the <e1> stagenam </e1> e Biyouna ( Arabic : ????? ) is an Algerian singer dancer actress born in 1952 in Belcourt <e2> Algiers </e2> Algeria .."
 per:country_of_birth(e1,e2)
 
 
@@ -57850,7 +57850,7 @@ per:title(e2,e1)
 per:countries_of_residence(e2,e1)
 
 
-14463	"He was removed from the forefront for the following decade working for the Institute of Juridical Research.Tismăneanu p. 299 He supported Gheorghiu-Dej's nationalist policy eventually becoming foreign minister o <e1> f Romani </e1> a in 1957 ( replacin <e2> g Grigore Preoteas </e2> a ) holding office for six months and serving in the delegations establishing closer contacts with the People's Republic of China during the Sino-Soviet Split and a with France in 1959 .."
+14463	"He was removed from the forefront for the following decade working for the Institute of Juridical Research.Tism?neanu p. 299 He supported Gheorghiu-Dej's nationalist policy eventually becoming foreign minister o <e1> f Romani </e1> a in 1957 ( replacin <e2> g Grigore Preoteas </e2> a ) holding office for six months and serving in the delegations establishing closer contacts with the People's Republic of China during the Sino-Soviet Split and a with France in 1959 .."
 per:employee_of(e2,e1)
 
 
@@ -58074,7 +58074,7 @@ org:country_of_headquarters(e1,e2)
 org:subsidiaries(e2,e1)
 
 
-14519	"The Operation Sablja ( Operation Sabre ; Serbian Cyrillic : Операција Сабља ; Serbian Latinic : Operacija Sablja ) was launched on March 12 2003 following the as <e1> sassination o </e1> f Zoran Đinđić the <e2> Prime M </e2> inister of Serbia .."
+14519	"The Operation Sablja ( Operation Sabre ; Serbian Cyrillic : ? ? ; Serbian Latinic : Operacija Sablja ) was launched on March 12 2003 following the as <e1> sassination o </e1> f Zoran ?in?i? the <e2> Prime M </e2> inister of Serbia .."
 per:countries_of_residence(e1,e2)
 
 
@@ -58090,7 +58090,7 @@ per:employee_of(e1,e2)
 per:countries_of_residence(e2,e1)
 
 
-14523	"Two members of the State <e1> Presidency </e1> Haris Silajdžić a <e2> nd Željko </e2> ;ić claimed Serbia action breached the Rome Agreement .."
+14523	"Two members of the State <e1> Presidency </e1> Haris Silajd?i? a <e2> nd ?eljko </e2> ;i? claimed Serbia action breached the Rome Agreement .."
 per:employee_of(e2,e1)
 
 
@@ -59266,7 +59266,7 @@ per:employee_of(e1,e2)
 per:countries_of_residence(e1,e2)
 
 
-14817	"The state flag called the historical flag in law was proposed by <e1> Česlovas </e1> as the vice-speaker of t <e2> he Seim </e2> as and by Edmundas the chairman of the Commission of Heraldry .."
+14817	"The state flag called the historical flag in law was proposed by <e1> ?eslovas </e1> as the vice-speaker of t <e2> he Seim </e2> as and by Edmundas the chairman of the Commission of Heraldry .."
 per:employee_of(e1,e2)
 
 
@@ -59386,7 +59386,7 @@ org:city_of_headquarters(e1,e2)
 per:cities_of_residence(e1,e2)
 
 
-14847	"The NATO CC-Air HQ İzmir was responsible to th <e1> e Allied Joint Force Command Naple </e1> s based in Naples <e2> ; Ital </e2> y .."
+14847	"The NATO CC-Air HQ ?zmir was responsible to th <e1> e Allied Joint Force Command Naple </e1> s based in Naples <e2> ; Ital </e2> y .."
 org:country_of_headquarters(e1,e2)
 
 
@@ -59498,7 +59498,7 @@ no_relation
 org:city_of_headquarters(e2,e1)
 
 
-14875	"Nishiwaki was born and raised in Hiroshima Japan where she attended Hiroshima Actors School with friends and current <e1> Perfume </e1> members <e2> Yuka Kashino </e2> and Ayano Ōmoto .."
+14875	"Nishiwaki was born and raised in Hiroshima Japan where she attended Hiroshima Actors School with friends and current <e1> Perfume </e1> members <e2> Yuka Kashino </e2> and Ayano moto .."
 per:employee_of(e2,e1)
 
 
@@ -59642,7 +59642,7 @@ org:founded(e2,e1)
 per:country_of_birth(e1,e2)
 
 
-14911	"In recent years starting with the <e1> Severina Vučkovi </e1> ć incident in 2004 the country <e2> of Croat </e2> ia has seen an explosion of these videos causing an imitation by teenagers .."
+14911	"In recent years starting with the <e1> Severina Vu?kovi </e1> ? incident in 2004 the country <e2> of Croat </e2> ia has seen an explosion of these videos causing an imitation by teenagers .."
 per:countries_of_residence(e1,e2)
 
 
@@ -59670,7 +59670,7 @@ org:founded(e1,e2)
 per:employee_of(e1,e2)
 
 
-14918	"ASIN : B0000DJWDG Performed by <e1> Mikuni Shimokawa </e1> collected on the single album 南風 / もう一度君に� <e2> ��いたい </e2> published by Pony Canyon .."
+14918	"ASIN : B0000DJWDG Performed by <e1> Mikuni Shimokawa </e1> collected on the single album L / ?e2> ? </e2> published by Pony Canyon .."
 per:employee_of(e1,e2)
 
 
@@ -60062,7 +60062,7 @@ org:subsidiaries(e1,e2)
 per:employee_of(e1,e2)
 
 
-15016	"Written by Tsugumi Ohba and drawn by Takeshi Obata Bakuman was serialized in <e1> Shueisha </e1> 's <e2> Weekly Shōnen Jum </e2> p magazine from its premiere on August 11 2008 to its end on April 23 2012 .."
+15016	"Written by Tsugumi Ohba and drawn by Takeshi Obata Bakuman was serialized in <e1> Shueisha </e1> 's <e2> Weekly Shnen Jum </e2> p magazine from its premiere on August 11 2008 to its end on April 23 2012 .."
 org:city_of_headquarters(e2,e1)
 
 
@@ -60922,7 +60922,7 @@ per:stateorprovinces_of_residence(e1,e2)
 org:city_of_headquarters(e1,e2)
 
 
-15231	"Vania Todorova Kaludova ( Bulgarian Cyrillic : Ваня Тодорова Калудова ) <e1> #44; b </e1> etter known as Ivana ( Ивана ) is a <e2> popula </e2> r Bulgarian female singer .."
+15231	"Vania Todorova Kaludova ( Bulgarian Cyrillic :    ) <e1> #44; b </e1> etter known as Ivana (  ) is a <e2> popula </e2> r Bulgarian female singer .."
 per:title(e1,e2)
 
 
@@ -61366,7 +61366,7 @@ per:cities_of_residence(e1,e2)
 no_relation
 
 
-15342	"At dawn the IJA 33rd Division under Lieutenant-General Shōzō Sakurai and I <e1> JA 55th Divisi </e1> on under Lieutenant-Gener <e2> al Hiroshi Takeuc </e2> hi of the 15th Army and spearheaded by the Imperial Guards Division crossed the border from Indo-China into Thailand's recently reclaimed Phra Tabong Province at Tambon Savay Donkeo Athuek Thewadej District ( Russei ) of Battambang .."
+15342	"At dawn the IJA 33rd Division under Lieutenant-General Shz Sakurai and I <e1> JA 55th Divisi </e1> on under Lieutenant-Gener <e2> al Hiroshi Takeuc </e2> hi of the 15th Army and spearheaded by the Imperial Guards Division crossed the border from Indo-China into Thailand's recently reclaimed Phra Tabong Province at Tambon Savay Donkeo Athuek Thewadej District ( Russei ) of Battambang .."
 org:top_members/employees(e1,e2)
 
 
@@ -61762,7 +61762,7 @@ per:cities_of_residence(e2,e1)
 org:founded(e1,e2)
 
 
-15441	"<e1> Pathumwan Institute of Technology </e1> ( Thai : สถาบันเทคโนโลยีปทุมวั <e2> น ) is </e2> a Thai public university located in Bangkok Thailand .."
+15441	"<e1> Pathumwan Institute of Technology </e1> ( Thai : ????????????????????? <e2> ? ) is </e2> a Thai public university located in Bangkok Thailand .."
 org:city_of_headquarters(e1,e2)
 
 
@@ -62026,7 +62026,7 @@ org:founded(e2,e1)
 per:employee_of(e1,e2)
 
 
-15507	"A gradual relaxation of communist control in Czechoslovakia whose first signs came from Slovakia enabled the Bratislava journalist and writer Ladislav Mňačko to publish his novel Death Is Called Engelchen ( Smrť sa Engelchen 1959 ) and <e1> and K </e1> los to reach for it f <e2> rom Pra </e2> gue after their suspension was over .."
+15507	"A gradual relaxation of communist control in Czechoslovakia whose first signs came from Slovakia enabled the Bratislava journalist and writer Ladislav Ma?ko to publish his novel Death Is Called Engelchen ( Smr? sa Engelchen 1959 ) and <e1> and K </e1> los to reach for it f <e2> rom Pra </e2> gue after their suspension was over .."
 per:cities_of_residence(e1,e2)
 
 
@@ -62114,7 +62114,7 @@ per:employee_of(e1,e2)
 per:employee_of(e1,e2)
 
 
-15529	"<e1> Riza Sapunxhiu </e1> ( Serbian : Риза Сапунџију Riza Sapundžiju ) ( 15 March 1925 6 Septembe <e2> r 2008 </e2> ) was a Kosovo Albanian communist politician and economist of the former Yugoslavia .."
+15529	"<e1> Riza Sapunxhiu </e1> ( Serbian :  ?? Riza Sapund?iju ) ( 15 March 1925 6 Septembe <e2> r 2008 </e2> ) was a Kosovo Albanian communist politician and economist of the former Yugoslavia .."
 per:cities_of_residence(e1,e2)
 
 
@@ -62462,7 +62462,7 @@ no_relation
 org:top_members/employees(e2,e1)
 
 
-15616	"Profile at the Romanian Chamber of Deputies site ; accessed August 21 2010 Following the resignation of <e1> Traian Băsesc </e1> u to become Mayor o <e2> f Buchares </e2> t she was named Transport Minister serving from June to December 2000 when the Isărescu cabinet lost power after an election .."
+15616	"Profile at the Romanian Chamber of Deputies site ; accessed August 21 2010 Following the resignation of <e1> Traian B?sesc </e1> u to become Mayor o <e2> f Buchares </e2> t she was named Transport Minister serving from June to December 2000 when the Is?rescu cabinet lost power after an election .."
 per:employee_of(e1,e2)
 
 
@@ -62722,7 +62722,7 @@ org:top_members/employees(e1,e2)
 per:employee_of(e1,e2)
 
 
-15681	"<e1> Nazia </e1> and Zoheb ( Urdu : نازیہ اور زوہیب ) were a Pakistani p <e2> op group </e2> from Karachi Sindh formed in 1980 .."
+15681	"<e1> Nazia </e1> and Zoheb ( Urdu : ????? ??? ????? ) were a Pakistani p <e2> op group </e2> from Karachi Sindh formed in 1980 .."
 per:cities_of_residence(e1,e2)
 
 
@@ -63250,7 +63250,7 @@ org:city_of_headquarters(e2,e1)
 per:title(e2,e1)
 
 
-15813	"The musicians which were by their own words influenced by Korni Grupa include Smak guitarist Radomir Mihajlović Točak guitarist and former Leb i Sol member Vlatko Stefanovski singer-songwriter Đorđe singer-songwriter and f <e1> ormer </e1> Idoli m <e2> ember Vlada Di </e2> vljan and singer and former Bulevar and Bajaga i Instruktori member Dejan Cukić .."
+15813	"The musicians which were by their own words influenced by Korni Grupa include Smak guitarist Radomir Mihajlovi? To?ak guitarist and former Leb i Sol member Vlatko Stefanovski singer-songwriter ?or?e singer-songwriter and f <e1> ormer </e1> Idoli m <e2> ember Vlada Di </e2> vljan and singer and former Bulevar and Bajaga i Instruktori member Dejan Cuki? .."
 per:employee_of(e2,e1)
 
 
@@ -63294,7 +63294,7 @@ per:employee_of(e2,e1)
 per:alternate_names(e2,e1)
 
 
-15824	"Han Dayuan ( Chinese : 韩大元 ; Pi <e1> nyin : </e1> cute;n born October 1960 ) is the D <e2> ean of Renmin University of China Law </e2> School and Deputy Director of the Constitutional Law Institute of China Law Society .."
+15824	"Han Dayuan ( Chinese :  ; Pi <e1> nyin : </e1> cute;n born October 1960 ) is the D <e2> ean of Renmin University of China Law </e2> School and Deputy Director of the Constitutional Law Institute of China Law Society .."
 org:top_members/employees(e2,e1)
 
 
@@ -63570,7 +63570,7 @@ org:members(e1,e2)
 per:title(e2,e1)
 
 
-15893	"The target of the first protest was the possible presidential candidacy of the current <e1> Prime Minister </e1> <e2> Recep Tayyip Erdoğa </e2> n ( the outcome of which will be determined by the Turkish Grand National Assembly ( unless the recent modifications on the constitution become ratified on time ) in which Erdoğan's Justice and Development Party ( AKP ) has a healthy majority ) .."
+15893	"The target of the first protest was the possible presidential candidacy of the current <e1> Prime Minister </e1> <e2> Recep Tayyip Erdo?a </e2> n ( the outcome of which will be determined by the Turkish Grand National Assembly ( unless the recent modifications on the constitution become ratified on time ) in which Erdo?an's Justice and Development Party ( AKP ) has a healthy majority ) .."
 per:title(e2,e1)
 
 
@@ -63626,7 +63626,7 @@ org:members(e1,e2)
 org:members(e1,e2)
 
 
-15907	"On February 23 2007 was briefly questioned by the police i <e1> n Republika Srpsk </e1> a after visiting the family o <e2> f Radovan Karadž </e2> ić a fugitive accused of war crimes in Bosnia and Herzegovina during the Bosnian War .."
+15907	"On February 23 2007 was briefly questioned by the police i <e1> n Republika Srpsk </e1> a after visiting the family o <e2> f Radovan Karad? </e2> i? a fugitive accused of war crimes in Bosnia and Herzegovina during the Bosnian War .."
 per:country_of_birth(e2,e1)
 
 
